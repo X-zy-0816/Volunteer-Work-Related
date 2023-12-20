@@ -1,0 +1,2 @@
+Position: (117, 417), (273, 399), Obj and Confidence: no-mask 0.89
+Position: (268, 423), (424, 405), Obj and Confidence: no-mask 0.91

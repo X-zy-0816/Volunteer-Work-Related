@@ -1,0 +1,6 @@
+framework module TikTok_iOS_SDK {
+  umbrella header "TikTok_iOS_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

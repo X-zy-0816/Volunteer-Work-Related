@@ -1,0 +1,1184 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35132F5B2ABDA33000C76D95 /* DJHomePageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35132F5A2ABDA33000C76D95 /* DJHomePageView.m */; };
+		35132F612ABDA52800C76D95 /* DJVideoNavBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 35132F602ABDA52800C76D95 /* DJVideoNavBar.m */; };
+		353C106C2AF93F5200414139 /* DJVideoPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 353C106B2AF93F5200414139 /* DJVideoPlayerView.m */; };
+		356460E12AA4AD9000AB60B4 /* EditUserInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 356460E02AA4AD9000AB60B4 /* EditUserInfoViewController.m */; };
+		356460E42AA4AE4C00AB60B4 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 356460E32AA4AE4C00AB60B4 /* SettingViewController.m */; };
+		356460EA2AA4EAC800AB60B4 /* DJUserInfoItemsInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 356460E92AA4EAC800AB60B4 /* DJUserInfoItemsInfo.m */; };
+		356460ED2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 356460EC2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.m */; };
+		356460F02AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 356460EF2AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.m */; };
+		356FDE512A98ED3700C1BE39 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 356FDE502A98ED3700C1BE39 /* SceneDelegate.m */; };
+		356FDE542A98ED8100C1BE39 /* DJTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 356FDE532A98ED8100C1BE39 /* DJTabBarController.m */; };
+		35724F362AA5ABB2005F0633 /* DJDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 35724F352AA5ABB2005F0633 /* DJDevice.m */; };
+		357837E62AC0AD3E00B015D4 /* DJMessageNavBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 357837E52AC0AD3E00B015D4 /* DJMessageNavBar.m */; };
+		357837E92AC0AF7E00B015D4 /* DJMessageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 357837E82AC0AF7E00B015D4 /* DJMessageView.m */; };
+		357837EC2AC0B37900B015D4 /* DJMessageTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 357837EB2AC0B37900B015D4 /* DJMessageTableView.m */; };
+		357837F92AC1EBF500B015D4 /* DJVideoItemViewReusePool.m in Sources */ = {isa = PBXBuildFile; fileRef = 357837F82AC1EBF500B015D4 /* DJVideoItemViewReusePool.m */; };
+		357837FC2AC1EC1600B015D4 /* DJVideoItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 357837FB2AC1EC1600B015D4 /* DJVideoItemView.m */; };
+		3579BC2A2A81415F0068EBC5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC292A81415F0068EBC5 /* AppDelegate.m */; };
+		3579BC332A81415F0068EBC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3579BC312A81415F0068EBC5 /* Main.storyboard */; };
+		3579BC362A81415F0068EBC5 /* TikTok.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC342A81415F0068EBC5 /* TikTok.xcdatamodeld */; };
+		3579BC382A8141600068EBC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3579BC372A8141600068EBC5 /* Assets.xcassets */; };
+		3579BC3B2A8141600068EBC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3579BC392A8141600068EBC5 /* LaunchScreen.storyboard */; };
+		3579BC3E2A8141600068EBC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC3D2A8141600068EBC5 /* main.m */; };
+		3579BC482A8141610068EBC5 /* TikTokTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC472A8141610068EBC5 /* TikTokTests.m */; };
+		3579BC522A8141610068EBC5 /* TikTokUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC512A8141610068EBC5 /* TikTokUITests.m */; };
+		3579BC542A8141610068EBC5 /* TikTokUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3579BC532A8141610068EBC5 /* TikTokUITestsLaunchTests.m */; };
+		35960B822B0CAA0C00ACBAEC /* DJVideoData.m in Sources */ = {isa = PBXBuildFile; fileRef = 35960B812B0CAA0C00ACBAEC /* DJVideoData.m */; };
+		3599DBE52AA641E800E6CBC9 /* DJTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3599DBE42AA641E800E6CBC9 /* DJTabBarButton.m */; };
+		3599DBE82AA642AD00E6CBC9 /* DJTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 3599DBE72AA642AD00E6CBC9 /* DJTabBar.m */; };
+		3599DBEF2AA8960D00E6CBC9 /* DJUpdataUserInfoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3599DBEE2AA8960D00E6CBC9 /* DJUpdataUserInfoView.m */; };
+		35A3E7C82A88D65300C181F4 /* DJLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A3E7C72A88D65300C181F4 /* DJLoginViewController.m */; };
+		35A3E7CF2A890AC700C181F4 /* DJLoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A3E7CE2A890AC700C181F4 /* DJLoginView.m */; };
+		35A3E7D22A8951ED00C181F4 /* DJRegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A3E7D12A8951ED00C181F4 /* DJRegisterViewController.m */; };
+		35A3E7D52A89576C00C181F4 /* DJRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35A3E7D42A89576C00C181F4 /* DJRegisterView.m */; };
+		35E0BB412A8C088800EE0B58 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35E0BB402A8C088800EE0B58 /* GoogleService-Info.plist */; };
+		35EE36C92A85777800740D63 /* DJHomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36C82A85777800740D63 /* DJHomePageViewController.m */; };
+		35EE36CF2A85779200740D63 /* DJECommerceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36CE2A85779200740D63 /* DJECommerceViewController.m */; };
+		35EE36D22A85779F00740D63 /* DJMessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36D12A85779F00740D63 /* DJMessageViewController.m */; };
+		35EE36D52A8577A900740D63 /* DJMineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36D42A8577A900740D63 /* DJMineViewController.m */; };
+		35EE36DF2A8595E000740D63 /* DJPublishViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36DE2A8595E000740D63 /* DJPublishViewController.m */; };
+		35EE36EB2A85A6F000740D63 /* DJMineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36EA2A85A6F000740D63 /* DJMineView.m */; };
+		35EE36F52A87317200740D63 /* DJMineTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36F42A87317200740D63 /* DJMineTopView.m */; };
+		35EE36F82A8731C400740D63 /* DJMineBottomSrcollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36F72A8731C400740D63 /* DJMineBottomSrcollView.m */; };
+		35EE36FB2A87331100740D63 /* DJMineVideoCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EE36FA2A87331100740D63 /* DJMineVideoCollectionView.m */; };
+		8FFF553F55376DDC965F6BFC /* Pods_TikTok.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2DD9CAEF21253A8C4D25B8B /* Pods_TikTok.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3579BC442A8141610068EBC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3579BC1D2A81415F0068EBC5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3579BC242A81415F0068EBC5;
+			remoteInfo = TikTok;
+		};
+		3579BC4E2A8141610068EBC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3579BC1D2A81415F0068EBC5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3579BC242A81415F0068EBC5;
+			remoteInfo = TikTok;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		35E0BB562A8C3A4900EE0B58 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		06BD2282B68C00A762F3313F /* Pods-TikTok.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TikTok.debug.xcconfig"; path = "Target Support Files/Pods-TikTok/Pods-TikTok.debug.xcconfig"; sourceTree = "<group>"; };
+		35132F592ABDA33000C76D95 /* DJHomePageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJHomePageView.h; sourceTree = "<group>"; };
+		35132F5A2ABDA33000C76D95 /* DJHomePageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJHomePageView.m; sourceTree = "<group>"; };
+		35132F5F2ABDA52800C76D95 /* DJVideoNavBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJVideoNavBar.h; sourceTree = "<group>"; };
+		35132F602ABDA52800C76D95 /* DJVideoNavBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJVideoNavBar.m; sourceTree = "<group>"; };
+		353C106A2AF93F5200414139 /* DJVideoPlayerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJVideoPlayerView.h; sourceTree = "<group>"; };
+		353C106B2AF93F5200414139 /* DJVideoPlayerView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJVideoPlayerView.m; sourceTree = "<group>"; };
+		356460DF2AA4AD9000AB60B4 /* EditUserInfoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EditUserInfoViewController.h; sourceTree = "<group>"; };
+		356460E02AA4AD9000AB60B4 /* EditUserInfoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EditUserInfoViewController.m; sourceTree = "<group>"; };
+		356460E22AA4AE4C00AB60B4 /* SettingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		356460E32AA4AE4C00AB60B4 /* SettingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
+		356460E82AA4EAC800AB60B4 /* DJUserInfoItemsInfo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJUserInfoItemsInfo.h; sourceTree = "<group>"; };
+		356460E92AA4EAC800AB60B4 /* DJUserInfoItemsInfo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJUserInfoItemsInfo.m; sourceTree = "<group>"; };
+		356460EB2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJUpdataUserInfoViewController.h; sourceTree = "<group>"; };
+		356460EC2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJUpdataUserInfoViewController.m; sourceTree = "<group>"; };
+		356460EE2AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJUserInfoTableViewCell.h; sourceTree = "<group>"; };
+		356460EF2AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJUserInfoTableViewCell.m; sourceTree = "<group>"; };
+		356FDE4F2A98ED3700C1BE39 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
+		356FDE502A98ED3700C1BE39 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		356FDE522A98ED8100C1BE39 /* DJTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJTabBarController.h; sourceTree = "<group>"; };
+		356FDE532A98ED8100C1BE39 /* DJTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJTabBarController.m; sourceTree = "<group>"; };
+		35724F342AA5ABB2005F0633 /* DJDevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJDevice.h; sourceTree = "<group>"; };
+		35724F352AA5ABB2005F0633 /* DJDevice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJDevice.m; sourceTree = "<group>"; };
+		357837E42AC0AD3E00B015D4 /* DJMessageNavBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMessageNavBar.h; sourceTree = "<group>"; };
+		357837E52AC0AD3E00B015D4 /* DJMessageNavBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMessageNavBar.m; sourceTree = "<group>"; };
+		357837E72AC0AF7E00B015D4 /* DJMessageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMessageView.h; sourceTree = "<group>"; };
+		357837E82AC0AF7E00B015D4 /* DJMessageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMessageView.m; sourceTree = "<group>"; };
+		357837EA2AC0B37900B015D4 /* DJMessageTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMessageTableView.h; sourceTree = "<group>"; };
+		357837EB2AC0B37900B015D4 /* DJMessageTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMessageTableView.m; sourceTree = "<group>"; };
+		357837F72AC1EBF500B015D4 /* DJVideoItemViewReusePool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJVideoItemViewReusePool.h; sourceTree = "<group>"; };
+		357837F82AC1EBF500B015D4 /* DJVideoItemViewReusePool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJVideoItemViewReusePool.m; sourceTree = "<group>"; };
+		357837FA2AC1EC1600B015D4 /* DJVideoItemView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJVideoItemView.h; sourceTree = "<group>"; };
+		357837FB2AC1EC1600B015D4 /* DJVideoItemView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJVideoItemView.m; sourceTree = "<group>"; };
+		3579BC252A81415F0068EBC5 /* TikTok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TikTok.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3579BC282A81415F0068EBC5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3579BC292A81415F0068EBC5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3579BC322A81415F0068EBC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3579BC352A81415F0068EBC5 /* TikTok.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TikTok.xcdatamodel; sourceTree = "<group>"; };
+		3579BC372A8141600068EBC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3579BC3A2A8141600068EBC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3579BC3C2A8141600068EBC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3579BC3D2A8141600068EBC5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3579BC432A8141610068EBC5 /* TikTokTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TikTokTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3579BC472A8141610068EBC5 /* TikTokTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TikTokTests.m; sourceTree = "<group>"; };
+		3579BC4D2A8141610068EBC5 /* TikTokUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TikTokUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3579BC512A8141610068EBC5 /* TikTokUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TikTokUITests.m; sourceTree = "<group>"; };
+		3579BC532A8141610068EBC5 /* TikTokUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TikTokUITestsLaunchTests.m; sourceTree = "<group>"; };
+		35960B802B0CAA0C00ACBAEC /* DJVideoData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJVideoData.h; sourceTree = "<group>"; };
+		35960B812B0CAA0C00ACBAEC /* DJVideoData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJVideoData.m; sourceTree = "<group>"; };
+		3599DBE32AA641E800E6CBC9 /* DJTabBarButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJTabBarButton.h; sourceTree = "<group>"; };
+		3599DBE42AA641E800E6CBC9 /* DJTabBarButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJTabBarButton.m; sourceTree = "<group>"; };
+		3599DBE62AA642AD00E6CBC9 /* DJTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJTabBar.h; sourceTree = "<group>"; };
+		3599DBE72AA642AD00E6CBC9 /* DJTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJTabBar.m; sourceTree = "<group>"; };
+		3599DBED2AA8960D00E6CBC9 /* DJUpdataUserInfoView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJUpdataUserInfoView.h; sourceTree = "<group>"; };
+		3599DBEE2AA8960D00E6CBC9 /* DJUpdataUserInfoView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJUpdataUserInfoView.m; sourceTree = "<group>"; };
+		35A3E7C62A88D65300C181F4 /* DJLoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJLoginViewController.h; sourceTree = "<group>"; };
+		35A3E7C72A88D65300C181F4 /* DJLoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJLoginViewController.m; sourceTree = "<group>"; };
+		35A3E7CD2A890AC700C181F4 /* DJLoginView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJLoginView.h; sourceTree = "<group>"; };
+		35A3E7CE2A890AC700C181F4 /* DJLoginView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJLoginView.m; sourceTree = "<group>"; };
+		35A3E7D02A8951ED00C181F4 /* DJRegisterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJRegisterViewController.h; sourceTree = "<group>"; };
+		35A3E7D12A8951ED00C181F4 /* DJRegisterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJRegisterViewController.m; sourceTree = "<group>"; };
+		35A3E7D32A89576C00C181F4 /* DJRegisterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJRegisterView.h; sourceTree = "<group>"; };
+		35A3E7D42A89576C00C181F4 /* DJRegisterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJRegisterView.m; sourceTree = "<group>"; };
+		35E0BB402A8C088800EE0B58 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		35E0BB422A8C30E600EE0B58 /* TikTok.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TikTok.entitlements; sourceTree = "<group>"; };
+		35E0BB482A8C3A4900EE0B58 /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = System/Library/Frameworks/NetworkExtension.framework; sourceTree = SDKROOT; };
+		35EE36C72A85777800740D63 /* DJHomePageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJHomePageViewController.h; sourceTree = "<group>"; };
+		35EE36C82A85777800740D63 /* DJHomePageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJHomePageViewController.m; sourceTree = "<group>"; };
+		35EE36CD2A85779200740D63 /* DJECommerceViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJECommerceViewController.h; sourceTree = "<group>"; };
+		35EE36CE2A85779200740D63 /* DJECommerceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJECommerceViewController.m; sourceTree = "<group>"; };
+		35EE36D02A85779F00740D63 /* DJMessageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMessageViewController.h; sourceTree = "<group>"; };
+		35EE36D12A85779F00740D63 /* DJMessageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMessageViewController.m; sourceTree = "<group>"; };
+		35EE36D32A8577A900740D63 /* DJMineViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMineViewController.h; sourceTree = "<group>"; };
+		35EE36D42A8577A900740D63 /* DJMineViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMineViewController.m; sourceTree = "<group>"; };
+		35EE36DD2A8595E000740D63 /* DJPublishViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJPublishViewController.h; sourceTree = "<group>"; };
+		35EE36DE2A8595E000740D63 /* DJPublishViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJPublishViewController.m; sourceTree = "<group>"; };
+		35EE36E92A85A6F000740D63 /* DJMineView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMineView.h; sourceTree = "<group>"; };
+		35EE36EA2A85A6F000740D63 /* DJMineView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMineView.m; sourceTree = "<group>"; };
+		35EE36EC2A85AF6700740D63 /* DJScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJScreen.h; sourceTree = "<group>"; };
+		35EE36F32A87317200740D63 /* DJMineTopView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMineTopView.h; sourceTree = "<group>"; };
+		35EE36F42A87317200740D63 /* DJMineTopView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMineTopView.m; sourceTree = "<group>"; };
+		35EE36F62A8731C400740D63 /* DJMineBottomSrcollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMineBottomSrcollView.h; sourceTree = "<group>"; };
+		35EE36F72A8731C400740D63 /* DJMineBottomSrcollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMineBottomSrcollView.m; sourceTree = "<group>"; };
+		35EE36F92A87331100740D63 /* DJMineVideoCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJMineVideoCollectionView.h; sourceTree = "<group>"; };
+		35EE36FA2A87331100740D63 /* DJMineVideoCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DJMineVideoCollectionView.m; sourceTree = "<group>"; };
+		35EE36FE2A87813D00740D63 /* DJColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DJColor.h; sourceTree = "<group>"; };
+		A2DD9CAEF21253A8C4D25B8B /* Pods_TikTok.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TikTok.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3A1723953699BE204D61902 /* Pods-TikTok.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TikTok.release.xcconfig"; path = "Target Support Files/Pods-TikTok/Pods-TikTok.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3579BC222A81415F0068EBC5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FFF553F55376DDC965F6BFC /* Pods_TikTok.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC402A8141610068EBC5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC4A2A8141610068EBC5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35132F572ABDA30100C76D95 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36C72A85777800740D63 /* DJHomePageViewController.h */,
+				35EE36C82A85777800740D63 /* DJHomePageViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		35132F582ABDA30B00C76D95 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				35132F592ABDA33000C76D95 /* DJHomePageView.h */,
+				35132F5A2ABDA33000C76D95 /* DJHomePageView.m */,
+				35132F5F2ABDA52800C76D95 /* DJVideoNavBar.h */,
+				35132F602ABDA52800C76D95 /* DJVideoNavBar.m */,
+				357837FA2AC1EC1600B015D4 /* DJVideoItemView.h */,
+				357837FB2AC1EC1600B015D4 /* DJVideoItemView.m */,
+				353C106A2AF93F5200414139 /* DJVideoPlayerView.h */,
+				353C106B2AF93F5200414139 /* DJVideoPlayerView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		353C106D2AF9BE7D00414139 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36C32A85773300740D63 /* HomePage */,
+				35EE36C42A85773B00740D63 /* Message */,
+				35EE36DC2A8595AB00740D63 /* Publish */,
+				35EE36C52A85774300740D63 /* E-Commerce */,
+				35EE36C62A85775700740D63 /* Mine */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
+		357837E22AC0AD1000B015D4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36D02A85779F00740D63 /* DJMessageViewController.h */,
+				35EE36D12A85779F00740D63 /* DJMessageViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		357837E32AC0AD1900B015D4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				357837E72AC0AF7E00B015D4 /* DJMessageView.h */,
+				357837E82AC0AF7E00B015D4 /* DJMessageView.m */,
+				357837E42AC0AD3E00B015D4 /* DJMessageNavBar.h */,
+				357837E52AC0AD3E00B015D4 /* DJMessageNavBar.m */,
+				357837EA2AC0B37900B015D4 /* DJMessageTableView.h */,
+				357837EB2AC0B37900B015D4 /* DJMessageTableView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		357837F62AC1EBA900B015D4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				357837F72AC1EBF500B015D4 /* DJVideoItemViewReusePool.h */,
+				357837F82AC1EBF500B015D4 /* DJVideoItemViewReusePool.m */,
+				35960B802B0CAA0C00ACBAEC /* DJVideoData.h */,
+				35960B812B0CAA0C00ACBAEC /* DJVideoData.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3579BC1C2A81415F0068EBC5 = {
+			isa = PBXGroup;
+			children = (
+				3579BC272A81415F0068EBC5 /* TikTok */,
+				3579BC462A8141610068EBC5 /* TikTokTests */,
+				3579BC502A8141610068EBC5 /* TikTokUITests */,
+				3579BC262A81415F0068EBC5 /* Products */,
+				EEA3D8CFAF29DE5C7617B2F6 /* Pods */,
+				4500BAAD565B2F0FE6F62F1F /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3579BC262A81415F0068EBC5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3579BC252A81415F0068EBC5 /* TikTok.app */,
+				3579BC432A8141610068EBC5 /* TikTokTests.xctest */,
+				3579BC4D2A8141610068EBC5 /* TikTokUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3579BC272A81415F0068EBC5 /* TikTok */ = {
+			isa = PBXGroup;
+			children = (
+				35E0BB422A8C30E600EE0B58 /* TikTok.entitlements */,
+				35EE36E32A85980100740D63 /* Models */,
+				35EE36E42A85986500740D63 /* Logic */,
+				3579BC3D2A8141600068EBC5 /* main.m */,
+				3579BC3C2A8141600068EBC5 /* Info.plist */,
+				35E0BB402A8C088800EE0B58 /* GoogleService-Info.plist */,
+				3579BC312A81415F0068EBC5 /* Main.storyboard */,
+				3579BC392A8141600068EBC5 /* LaunchScreen.storyboard */,
+			);
+			path = TikTok;
+			sourceTree = "<group>";
+		};
+		3579BC462A8141610068EBC5 /* TikTokTests */ = {
+			isa = PBXGroup;
+			children = (
+				3579BC472A8141610068EBC5 /* TikTokTests.m */,
+			);
+			path = TikTokTests;
+			sourceTree = "<group>";
+		};
+		3579BC502A8141610068EBC5 /* TikTokUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3579BC512A8141610068EBC5 /* TikTokUITests.m */,
+				3579BC532A8141610068EBC5 /* TikTokUITestsLaunchTests.m */,
+			);
+			path = TikTokUITests;
+			sourceTree = "<group>";
+		};
+		3599DBE92AA8957D00E6CBC9 /* MineView */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36E92A85A6F000740D63 /* DJMineView.h */,
+				35EE36EA2A85A6F000740D63 /* DJMineView.m */,
+				35EE36FC2A87332C00740D63 /* TopView */,
+				35EE36FD2A87333400740D63 /* BottomView */,
+			);
+			path = MineView;
+			sourceTree = "<group>";
+		};
+		3599DBEA2AA8958800E6CBC9 /* UserInfoView */ = {
+			isa = PBXGroup;
+			children = (
+				356460EE2AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.h */,
+				356460EF2AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.m */,
+				3599DBED2AA8960D00E6CBC9 /* DJUpdataUserInfoView.h */,
+				3599DBEE2AA8960D00E6CBC9 /* DJUpdataUserInfoView.m */,
+			);
+			path = UserInfoView;
+			sourceTree = "<group>";
+		};
+		3599DBEB2AA895A100E6CBC9 /* MineController */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36D32A8577A900740D63 /* DJMineViewController.h */,
+				35EE36D42A8577A900740D63 /* DJMineViewController.m */,
+			);
+			path = MineController;
+			sourceTree = "<group>";
+		};
+		3599DBEC2AA895AC00E6CBC9 /* UserInfoController */ = {
+			isa = PBXGroup;
+			children = (
+				356460DF2AA4AD9000AB60B4 /* EditUserInfoViewController.h */,
+				356460E02AA4AD9000AB60B4 /* EditUserInfoViewController.m */,
+				356460E22AA4AE4C00AB60B4 /* SettingViewController.h */,
+				356460E32AA4AE4C00AB60B4 /* SettingViewController.m */,
+				356460EB2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.h */,
+				356460EC2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.m */,
+			);
+			path = UserInfoController;
+			sourceTree = "<group>";
+		};
+		35A3E7C42A88D4BB00C181F4 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				35A3E7CB2A8909ED00C181F4 /* Controller */,
+				35A3E7CC2A8909F700C181F4 /* View */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		35A3E7C52A88D51F00C181F4 /* Singleton */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Singleton;
+			sourceTree = "<group>";
+		};
+		35A3E7CB2A8909ED00C181F4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				35A3E7C62A88D65300C181F4 /* DJLoginViewController.h */,
+				35A3E7C72A88D65300C181F4 /* DJLoginViewController.m */,
+				35A3E7D02A8951ED00C181F4 /* DJRegisterViewController.h */,
+				35A3E7D12A8951ED00C181F4 /* DJRegisterViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		35A3E7CC2A8909F700C181F4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				35A3E7CD2A890AC700C181F4 /* DJLoginView.h */,
+				35A3E7CE2A890AC700C181F4 /* DJLoginView.m */,
+				35A3E7D32A89576C00C181F4 /* DJRegisterView.h */,
+				35A3E7D42A89576C00C181F4 /* DJRegisterView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		35EE36C32A85773300740D63 /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				357837F62AC1EBA900B015D4 /* Model */,
+				35132F572ABDA30100C76D95 /* Controller */,
+				35132F582ABDA30B00C76D95 /* View */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		35EE36C42A85773B00740D63 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				357837E22AC0AD1000B015D4 /* Controller */,
+				357837E32AC0AD1900B015D4 /* View */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		35EE36C52A85774300740D63 /* E-Commerce */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36CD2A85779200740D63 /* DJECommerceViewController.h */,
+				35EE36CE2A85779200740D63 /* DJECommerceViewController.m */,
+			);
+			path = "E-Commerce";
+			sourceTree = "<group>";
+		};
+		35EE36C62A85775700740D63 /* Mine */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36E82A85A66000740D63 /* ViewModel */,
+				35EE36E72A85A64A00740D63 /* Controller */,
+				35EE36E62A85A64400740D63 /* View */,
+			);
+			path = Mine;
+			sourceTree = "<group>";
+		};
+		35EE36DC2A8595AB00740D63 /* Publish */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36DD2A8595E000740D63 /* DJPublishViewController.h */,
+				35EE36DE2A8595E000740D63 /* DJPublishViewController.m */,
+			);
+			path = Publish;
+			sourceTree = "<group>";
+		};
+		35EE36E02A85975200740D63 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				3579BC282A81415F0068EBC5 /* AppDelegate.h */,
+				3579BC292A81415F0068EBC5 /* AppDelegate.m */,
+				356FDE4F2A98ED3700C1BE39 /* SceneDelegate.h */,
+				356FDE502A98ED3700C1BE39 /* SceneDelegate.m */,
+				356FDE522A98ED8100C1BE39 /* DJTabBarController.h */,
+				356FDE532A98ED8100C1BE39 /* DJTabBarController.m */,
+				3599DBE62AA642AD00E6CBC9 /* DJTabBar.h */,
+				3599DBE72AA642AD00E6CBC9 /* DJTabBar.m */,
+				3599DBE32AA641E800E6CBC9 /* DJTabBarButton.h */,
+				3599DBE42AA641E800E6CBC9 /* DJTabBarButton.m */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		35EE36E12A85978600740D63 /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36EC2A85AF6700740D63 /* DJScreen.h */,
+				35EE36FE2A87813D00740D63 /* DJColor.h */,
+				35724F342AA5ABB2005F0633 /* DJDevice.h */,
+				35724F352AA5ABB2005F0633 /* DJDevice.m */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		35EE36E22A8597C400740D63 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3579BC372A8141600068EBC5 /* Assets.xcassets */,
+				3579BC342A81415F0068EBC5 /* TikTok.xcdatamodeld */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		35EE36E32A85980100740D63 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36E52A85988F00740D63 /* Network */,
+				35A3E7C52A88D51F00C181F4 /* Singleton */,
+				35EE36E22A8597C400740D63 /* Resources */,
+				35EE36E12A85978600740D63 /* Supporting */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		35EE36E42A85986500740D63 /* Logic */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36E02A85975200740D63 /* Base */,
+				35A3E7C42A88D4BB00C181F4 /* Login */,
+				353C106D2AF9BE7D00414139 /* Content */,
+			);
+			path = Logic;
+			sourceTree = "<group>";
+		};
+		35EE36E52A85988F00740D63 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		35EE36E62A85A64400740D63 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3599DBE92AA8957D00E6CBC9 /* MineView */,
+				3599DBEA2AA8958800E6CBC9 /* UserInfoView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		35EE36E72A85A64A00740D63 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3599DBEB2AA895A100E6CBC9 /* MineController */,
+				3599DBEC2AA895AC00E6CBC9 /* UserInfoController */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		35EE36E82A85A66000740D63 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				356460E82AA4EAC800AB60B4 /* DJUserInfoItemsInfo.h */,
+				356460E92AA4EAC800AB60B4 /* DJUserInfoItemsInfo.m */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		35EE36FC2A87332C00740D63 /* TopView */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36F32A87317200740D63 /* DJMineTopView.h */,
+				35EE36F42A87317200740D63 /* DJMineTopView.m */,
+			);
+			path = TopView;
+			sourceTree = "<group>";
+		};
+		35EE36FD2A87333400740D63 /* BottomView */ = {
+			isa = PBXGroup;
+			children = (
+				35EE36F62A8731C400740D63 /* DJMineBottomSrcollView.h */,
+				35EE36F72A8731C400740D63 /* DJMineBottomSrcollView.m */,
+				35EE36F92A87331100740D63 /* DJMineVideoCollectionView.h */,
+				35EE36FA2A87331100740D63 /* DJMineVideoCollectionView.m */,
+			);
+			path = BottomView;
+			sourceTree = "<group>";
+		};
+		4500BAAD565B2F0FE6F62F1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35E0BB482A8C3A4900EE0B58 /* NetworkExtension.framework */,
+				A2DD9CAEF21253A8C4D25B8B /* Pods_TikTok.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EEA3D8CFAF29DE5C7617B2F6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				06BD2282B68C00A762F3313F /* Pods-TikTok.debug.xcconfig */,
+				B3A1723953699BE204D61902 /* Pods-TikTok.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3579BC242A81415F0068EBC5 /* TikTok */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3579BC572A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTok" */;
+			buildPhases = (
+				1871DE72E4839F54AD4E9C5F /* [CP] Check Pods Manifest.lock */,
+				3579BC212A81415F0068EBC5 /* Sources */,
+				3579BC222A81415F0068EBC5 /* Frameworks */,
+				3579BC232A81415F0068EBC5 /* Resources */,
+				35E0BB562A8C3A4900EE0B58 /* Embed Foundation Extensions */,
+				F32DF1A0B068565FFB9DFB4E /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TikTok;
+			productName = TikTok;
+			productReference = 3579BC252A81415F0068EBC5 /* TikTok.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3579BC422A8141610068EBC5 /* TikTokTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3579BC5A2A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTokTests" */;
+			buildPhases = (
+				3579BC3F2A8141610068EBC5 /* Sources */,
+				3579BC402A8141610068EBC5 /* Frameworks */,
+				3579BC412A8141610068EBC5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3579BC452A8141610068EBC5 /* PBXTargetDependency */,
+			);
+			name = TikTokTests;
+			productName = TikTokTests;
+			productReference = 3579BC432A8141610068EBC5 /* TikTokTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3579BC4C2A8141610068EBC5 /* TikTokUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3579BC5D2A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTokUITests" */;
+			buildPhases = (
+				3579BC492A8141610068EBC5 /* Sources */,
+				3579BC4A2A8141610068EBC5 /* Frameworks */,
+				3579BC4B2A8141610068EBC5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3579BC4F2A8141610068EBC5 /* PBXTargetDependency */,
+			);
+			name = TikTokUITests;
+			productName = TikTokUITests;
+			productReference = 3579BC4D2A8141610068EBC5 /* TikTokUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3579BC1D2A81415F0068EBC5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					3579BC242A81415F0068EBC5 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					3579BC422A8141610068EBC5 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 3579BC242A81415F0068EBC5;
+					};
+					3579BC4C2A8141610068EBC5 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 3579BC242A81415F0068EBC5;
+					};
+				};
+			};
+			buildConfigurationList = 3579BC202A81415F0068EBC5 /* Build configuration list for PBXProject "TikTok" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3579BC1C2A81415F0068EBC5;
+			productRefGroup = 3579BC262A81415F0068EBC5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3579BC242A81415F0068EBC5 /* TikTok */,
+				3579BC422A8141610068EBC5 /* TikTokTests */,
+				3579BC4C2A8141610068EBC5 /* TikTokUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3579BC232A81415F0068EBC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3579BC3B2A8141600068EBC5 /* LaunchScreen.storyboard in Resources */,
+				35E0BB412A8C088800EE0B58 /* GoogleService-Info.plist in Resources */,
+				3579BC382A8141600068EBC5 /* Assets.xcassets in Resources */,
+				3579BC332A81415F0068EBC5 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC412A8141610068EBC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC4B2A8141610068EBC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1871DE72E4839F54AD4E9C5F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TikTok-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F32DF1A0B068565FFB9DFB4E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TikTok/Pods-TikTok-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TikTok/Pods-TikTok-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TikTok/Pods-TikTok-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3579BC212A81415F0068EBC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35A3E7C82A88D65300C181F4 /* DJLoginViewController.m in Sources */,
+				35EE36C92A85777800740D63 /* DJHomePageViewController.m in Sources */,
+				35A3E7D22A8951ED00C181F4 /* DJRegisterViewController.m in Sources */,
+				356460EA2AA4EAC800AB60B4 /* DJUserInfoItemsInfo.m in Sources */,
+				357837E92AC0AF7E00B015D4 /* DJMessageView.m in Sources */,
+				3599DBE52AA641E800E6CBC9 /* DJTabBarButton.m in Sources */,
+				35EE36F82A8731C400740D63 /* DJMineBottomSrcollView.m in Sources */,
+				35EE36F52A87317200740D63 /* DJMineTopView.m in Sources */,
+				3579BC3E2A8141600068EBC5 /* main.m in Sources */,
+				35EE36D52A8577A900740D63 /* DJMineViewController.m in Sources */,
+				35EE36CF2A85779200740D63 /* DJECommerceViewController.m in Sources */,
+				356460F02AA4F6AA00AB60B4 /* DJUserInfoTableViewCell.m in Sources */,
+				3579BC362A81415F0068EBC5 /* TikTok.xcdatamodeld in Sources */,
+				3599DBEF2AA8960D00E6CBC9 /* DJUpdataUserInfoView.m in Sources */,
+				35724F362AA5ABB2005F0633 /* DJDevice.m in Sources */,
+				35A3E7CF2A890AC700C181F4 /* DJLoginView.m in Sources */,
+				353C106C2AF93F5200414139 /* DJVideoPlayerView.m in Sources */,
+				35EE36FB2A87331100740D63 /* DJMineVideoCollectionView.m in Sources */,
+				35EE36EB2A85A6F000740D63 /* DJMineView.m in Sources */,
+				3579BC2A2A81415F0068EBC5 /* AppDelegate.m in Sources */,
+				35EE36DF2A8595E000740D63 /* DJPublishViewController.m in Sources */,
+				356460E12AA4AD9000AB60B4 /* EditUserInfoViewController.m in Sources */,
+				35EE36D22A85779F00740D63 /* DJMessageViewController.m in Sources */,
+				35132F612ABDA52800C76D95 /* DJVideoNavBar.m in Sources */,
+				356FDE542A98ED8100C1BE39 /* DJTabBarController.m in Sources */,
+				356FDE512A98ED3700C1BE39 /* SceneDelegate.m in Sources */,
+				357837EC2AC0B37900B015D4 /* DJMessageTableView.m in Sources */,
+				357837FC2AC1EC1600B015D4 /* DJVideoItemView.m in Sources */,
+				35A3E7D52A89576C00C181F4 /* DJRegisterView.m in Sources */,
+				357837E62AC0AD3E00B015D4 /* DJMessageNavBar.m in Sources */,
+				357837F92AC1EBF500B015D4 /* DJVideoItemViewReusePool.m in Sources */,
+				35960B822B0CAA0C00ACBAEC /* DJVideoData.m in Sources */,
+				356460ED2AA4F44600AB60B4 /* DJUpdataUserInfoViewController.m in Sources */,
+				356460E42AA4AE4C00AB60B4 /* SettingViewController.m in Sources */,
+				35132F5B2ABDA33000C76D95 /* DJHomePageView.m in Sources */,
+				3599DBE82AA642AD00E6CBC9 /* DJTabBar.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC3F2A8141610068EBC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3579BC482A8141610068EBC5 /* TikTokTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3579BC492A8141610068EBC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3579BC542A8141610068EBC5 /* TikTokUITestsLaunchTests.m in Sources */,
+				3579BC522A8141610068EBC5 /* TikTokUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3579BC452A8141610068EBC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3579BC242A81415F0068EBC5 /* TikTok */;
+			targetProxy = 3579BC442A8141610068EBC5 /* PBXContainerItemProxy */;
+		};
+		3579BC4F2A8141610068EBC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3579BC242A81415F0068EBC5 /* TikTok */;
+			targetProxy = 3579BC4E2A8141610068EBC5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3579BC312A81415F0068EBC5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3579BC322A81415F0068EBC5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3579BC392A8141600068EBC5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3579BC3A2A8141600068EBC5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3579BC552A8141610068EBC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3579BC562A8141610068EBC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3579BC582A8141610068EBC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 06BD2282B68C00A762F3313F /* Pods-TikTok.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				"ARCHS[sdk=*]" = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TikTok/TikTok.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				EXCLUDED_ARCHS = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AFNetworking/AFNetworking.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AppAuth/AppAuth.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/BRPickerView/BRPickerView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/DJNetworking/DJNetworking.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GTMAppAuth/GTMAppAuth.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GoogleSignIn/GoogleSignIn.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/OAuthLogin/OAuthLogin.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SVProgressHUD/SVProgressHUD.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/TZImagePickerController/TZImagePickerController.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/TikTok_iOS_SDK/TikTok_iOS_SDK.framework/Headers\"",
+					"$(SRCROOT)/TikTok/Logic/Content/HomePage/Model",
+				);
+				INFOPLIST_FILE = TikTok/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "访问相机以拍照";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "访问相册以选择照片";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTok;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3579BC592A8141610068EBC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B3A1723953699BE204D61902 /* Pods-TikTok.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TikTok/TikTok.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				EXCLUDED_ARCHS = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AFNetworking/AFNetworking.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/AppAuth/AppAuth.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/BRPickerView/BRPickerView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/DJNetworking/DJNetworking.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GTMAppAuth/GTMAppAuth.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GoogleSignIn/GoogleSignIn.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/OAuthLogin/OAuthLogin.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SVProgressHUD/SVProgressHUD.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/TZImagePickerController/TZImagePickerController.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/TikTok_iOS_SDK/TikTok_iOS_SDK.framework/Headers\"",
+					"$(SRCROOT)/TikTok/Logic/Content/HomePage/Model",
+				);
+				INFOPLIST_FILE = TikTok/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "访问相机以拍照";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "访问相册以选择照片";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTok;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3579BC5B2A8141610068EBC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTokTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TikTok.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TikTok";
+			};
+			name = Debug;
+		};
+		3579BC5C2A8141610068EBC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTokTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TikTok.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TikTok";
+			};
+			name = Release;
+		};
+		3579BC5E2A8141610068EBC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTokUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TikTok;
+			};
+			name = Debug;
+		};
+		3579BC5F2A8141610068EBC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = FUYWJ9UF9U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = TopView.TikTokUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TikTok;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3579BC202A81415F0068EBC5 /* Build configuration list for PBXProject "TikTok" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3579BC552A8141610068EBC5 /* Debug */,
+				3579BC562A8141610068EBC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3579BC572A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTok" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3579BC582A8141610068EBC5 /* Debug */,
+				3579BC592A8141610068EBC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3579BC5A2A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTokTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3579BC5B2A8141610068EBC5 /* Debug */,
+				3579BC5C2A8141610068EBC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3579BC5D2A8141610068EBC5 /* Build configuration list for PBXNativeTarget "TikTokUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3579BC5E2A8141610068EBC5 /* Debug */,
+				3579BC5F2A8141610068EBC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3579BC342A81415F0068EBC5 /* TikTok.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3579BC352A81415F0068EBC5 /* TikTok.xcdatamodel */,
+			);
+			currentVersion = 3579BC352A81415F0068EBC5 /* TikTok.xcdatamodel */;
+			path = TikTok.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 3579BC1D2A81415F0068EBC5 /* Project object */;
+}

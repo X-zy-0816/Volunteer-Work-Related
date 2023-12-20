@@ -1,0 +1,1 @@
+Position: (121, 34), (235, 16), Obj and Confidence: mask 0.92

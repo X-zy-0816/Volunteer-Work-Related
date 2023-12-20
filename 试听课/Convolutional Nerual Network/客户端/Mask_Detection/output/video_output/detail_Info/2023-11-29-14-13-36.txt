@@ -1,0 +1,36 @@
+2023-11-29-14-13-36: Position: (985, 401), (1141, 383), Obj and Confidence: no-mask 0.84
+2023-11-29-14-13-36: Position: (1015, 385), (1171, 367), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-37: Position: (1050, 275), (1206, 257), Obj and Confidence: no-mask 0.31
+2023-11-29-14-13-37: 2023-11-29-14-13-37: 2023-11-29-14-13-38: Position: (233, 318), (389, 300), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-38: Position: (231, 326), (387, 308), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-38: Position: (230, 325), (386, 307), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-39: Position: (1177, 4), (1333, -14), Obj and Confidence: no-mask 0.43
+Position: (230, 324), (386, 306), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-39: Position: (1174, 2), (1330, -16), Obj and Confidence: no-mask 0.39
+Position: (229, 326), (385, 308), Obj and Confidence: no-mask 0.92
+2023-11-29-14-13-39: Position: (229, 324), (385, 306), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-40: Position: (230, 325), (386, 307), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-40: Position: (1106, 6), (1262, -12), Obj and Confidence: no-mask 0.62
+Position: (231, 324), (387, 306), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-40: Position: (1031, 15), (1187, -3), Obj and Confidence: no-mask 0.90
+Position: (240, 317), (396, 299), Obj and Confidence: no-mask 0.92
+2023-11-29-14-13-41: Position: (981, 52), (1137, 34), Obj and Confidence: no-mask 0.86
+Position: (246, 319), (402, 301), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-41: Position: (225, 316), (381, 298), Obj and Confidence: no-mask 0.90
+Position: (984, 19), (1140, 1), Obj and Confidence: no-mask 0.91
+2023-11-29-14-13-41: Position: (47, 306), (203, 288), Obj and Confidence: no-mask 0.86
+Position: (929, 4), (1085, -14), Obj and Confidence: no-mask 0.94
+2023-11-29-14-13-42: Position: (1, 323), (157, 305), Obj and Confidence: no-mask 0.69
+Position: (909, 1), (1065, -17), Obj and Confidence: no-mask 0.94
+2023-11-29-14-13-42: Position: (16, 325), (172, 307), Obj and Confidence: no-mask 0.55
+Position: (922, 1), (1078, -17), Obj and Confidence: no-mask 0.94
+2023-11-29-14-13-42: Position: (9, 322), (165, 304), Obj and Confidence: no-mask 0.71
+Position: (926, 3), (1082, -15), Obj and Confidence: no-mask 0.94
+2023-11-29-14-13-43: Position: (16, 301), (172, 283), Obj and Confidence: no-mask 0.91
+Position: (913, 8), (1069, -10), Obj and Confidence: no-mask 0.95
+2023-11-29-14-13-43: Position: (5, 303), (161, 285), Obj and Confidence: no-mask 0.91
+Position: (901, 15), (1057, -3), Obj and Confidence: no-mask 0.92
+2023-11-29-14-13-43: Position: (895, 17), (1051, -1), Obj and Confidence: no-mask 0.93
+Position: (1, 304), (157, 286), Obj and Confidence: no-mask 0.93
+2023-11-29-14-13-44: Position: (3, 304), (159, 286), Obj and Confidence: no-mask 0.92
+Position: (892, 16), (1048, -2), Obj and Confidence: no-mask 0.94
