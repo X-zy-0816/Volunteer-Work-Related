@@ -1,0 +1,2844 @@
+2024-01-23-16-39-07: Position: (547, 505), (703, 487), Obj and Confidence: no-mask 0.32
+Position: (629, 494), (785, 476), Obj and Confidence: no-mask 0.70
+Position: (175, 521), (331, 503), Obj and Confidence: no-mask 0.81
+Position: (1026, 546), (1182, 528), Obj and Confidence: no-mask 0.84
+Position: (817, 504), (973, 486), Obj and Confidence: no-mask 0.85
+Position: (44, 529), (200, 511), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-07: Position: (513, 468), (669, 450), Obj and Confidence: no-mask 0.53
+Position: (992, 506), (1148, 488), Obj and Confidence: no-mask 0.56
+Position: (137, 483), (251, 465), Obj and Confidence: mask 0.74
+Position: (605, 455), (761, 437), Obj and Confidence: no-mask 0.76
+Position: (786, 468), (942, 450), Obj and Confidence: no-mask 0.80
+Position: (8, 493), (164, 475), Obj and Confidence: no-mask 0.88
+2024-01-23-16-39-07: Position: (1260, 418), (1416, 400), Obj and Confidence: no-mask 0.33
+Position: (495, 421), (651, 403), Obj and Confidence: no-mask 0.58
+Position: (969, 451), (1125, 433), Obj and Confidence: no-mask 0.73
+Position: (586, 400), (742, 382), Obj and Confidence: no-mask 0.80
+Position: (0, 439), (156, 421), Obj and Confidence: no-mask 0.82
+Position: (768, 415), (924, 397), Obj and Confidence: no-mask 0.85
+Position: (112, 426), (226, 408), Obj and Confidence: mask 0.88
+2024-01-23-16-39-07: Position: (503, 427), (659, 409), Obj and Confidence: no-mask 0.67
+Position: (970, 461), (1126, 443), Obj and Confidence: no-mask 0.74
+Position: (588, 404), (744, 386), Obj and Confidence: no-mask 0.83
+Position: (770, 421), (926, 403), Obj and Confidence: no-mask 0.84
+Position: (0, 443), (156, 425), Obj and Confidence: no-mask 0.85
+Position: (114, 430), (228, 412), Obj and Confidence: mask 0.91
+2024-01-23-16-39-08: Position: (1254, 402), (1368, 384), Obj and Confidence: mask 0.27
+Position: (0, 423), (156, 405), Obj and Confidence: no-mask 0.66
+Position: (497, 405), (653, 387), Obj and Confidence: no-mask 0.73
+Position: (966, 437), (1122, 419), Obj and Confidence: no-mask 0.77
+Position: (583, 385), (739, 367), Obj and Confidence: no-mask 0.77
+Position: (769, 400), (925, 382), Obj and Confidence: no-mask 0.86
+Position: (108, 411), (222, 393), Obj and Confidence: mask 0.87
+2024-01-23-16-39-08: Position: (125, 325), (239, 307), Obj and Confidence: mask 0.41
+Position: (1255, 311), (1369, 293), Obj and Confidence: mask 0.47
+Position: (504, 316), (660, 298), Obj and Confidence: no-mask 0.54
+Position: (125, 326), (281, 308), Obj and Confidence: no-mask 0.59
+Position: (969, 348), (1125, 330), Obj and Confidence: no-mask 0.78
+Position: (583, 294), (739, 276), Obj and Confidence: no-mask 0.83
+Position: (770, 311), (926, 293), Obj and Confidence: no-mask 0.84
+Position: (0, 333), (156, 315), Obj and Confidence: no-mask 0.86
+2024-01-23-16-39-08: Position: (519, 361), (675, 343), Obj and Confidence: no-mask 0.60
+Position: (980, 398), (1136, 380), Obj and Confidence: no-mask 0.66
+Position: (1255, 360), (1369, 342), Obj and Confidence: mask 0.81
+Position: (140, 371), (254, 353), Obj and Confidence: mask 0.84
+Position: (591, 340), (747, 322), Obj and Confidence: no-mask 0.84
+Position: (783, 357), (939, 339), Obj and Confidence: no-mask 0.88
+Position: (2, 383), (158, 365), Obj and Confidence: no-mask 0.88
+2024-01-23-16-39-09: Position: (528, 364), (684, 346), Obj and Confidence: no-mask 0.64
+Position: (982, 396), (1138, 378), Obj and Confidence: no-mask 0.71
+Position: (1246, 359), (1360, 341), Obj and Confidence: mask 0.82
+Position: (601, 335), (757, 317), Obj and Confidence: no-mask 0.86
+Position: (784, 356), (940, 338), Obj and Confidence: no-mask 0.87
+Position: (142, 370), (256, 352), Obj and Confidence: mask 0.87
+Position: (3, 379), (159, 361), Obj and Confidence: no-mask 0.88
+2024-01-23-16-39-09: Position: (529, 364), (685, 346), Obj and Confidence: no-mask 0.67
+Position: (983, 395), (1139, 377), Obj and Confidence: no-mask 0.74
+Position: (1235, 365), (1349, 347), Obj and Confidence: mask 0.85
+Position: (144, 369), (258, 351), Obj and Confidence: mask 0.86
+Position: (783, 355), (939, 337), Obj and Confidence: no-mask 0.87
+Position: (606, 332), (762, 314), Obj and Confidence: no-mask 0.87
+Position: (3, 379), (159, 361), Obj and Confidence: no-mask 0.88
+2024-01-23-16-39-09: Position: (192, 366), (348, 348), Obj and Confidence: no-mask 0.50
+Position: (191, 364), (305, 346), Obj and Confidence: mask 0.53
+Position: (548, 352), (704, 334), Obj and Confidence: no-mask 0.65
+Position: (1024, 387), (1180, 369), Obj and Confidence: no-mask 0.78
+Position: (647, 325), (803, 307), Obj and Confidence: no-mask 0.86
+Position: (51, 370), (207, 352), Obj and Confidence: no-mask 0.89
+Position: (819, 347), (975, 329), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-09: Position: (550, 360), (706, 342), Obj and Confidence: no-mask 0.57
+Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.71
+Position: (820, 356), (976, 338), Obj and Confidence: no-mask 0.86
+Position: (195, 370), (309, 352), Obj and Confidence: mask 0.86
+Position: (648, 332), (804, 314), Obj and Confidence: no-mask 0.88
+Position: (56, 379), (212, 361), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-09: Position: (551, 361), (707, 343), Obj and Confidence: no-mask 0.55
+Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.74
+Position: (820, 356), (976, 338), Obj and Confidence: no-mask 0.86
+Position: (193, 370), (307, 352), Obj and Confidence: mask 0.86
+Position: (650, 332), (806, 314), Obj and Confidence: no-mask 0.89
+Position: (57, 384), (213, 366), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-10: Position: (553, 362), (709, 344), Obj and Confidence: no-mask 0.47
+Position: (190, 373), (346, 355), Obj and Confidence: no-mask 0.57
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.73
+Position: (191, 371), (305, 353), Obj and Confidence: mask 0.79
+Position: (821, 357), (977, 339), Obj and Confidence: no-mask 0.86
+Position: (651, 333), (807, 315), Obj and Confidence: no-mask 0.88
+Position: (57, 384), (213, 366), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-10: Position: (568, 366), (724, 348), Obj and Confidence: no-mask 0.39
+Position: (189, 372), (345, 354), Obj and Confidence: no-mask 0.57
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.74
+Position: (190, 371), (304, 353), Obj and Confidence: mask 0.82
+Position: (820, 357), (976, 339), Obj and Confidence: no-mask 0.87
+Position: (652, 333), (808, 315), Obj and Confidence: no-mask 0.89
+Position: (57, 383), (213, 365), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-10: Position: (550, 359), (706, 341), Obj and Confidence: no-mask 0.60
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.72
+Position: (190, 371), (304, 353), Obj and Confidence: mask 0.85
+Position: (821, 357), (977, 339), Obj and Confidence: no-mask 0.86
+Position: (55, 381), (211, 363), Obj and Confidence: no-mask 0.90
+Position: (653, 332), (809, 314), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-11: Position: (553, 361), (709, 343), Obj and Confidence: no-mask 0.51
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.75
+Position: (190, 371), (304, 353), Obj and Confidence: mask 0.86
+Position: (820, 357), (976, 339), Obj and Confidence: no-mask 0.87
+Position: (57, 382), (213, 364), Obj and Confidence: no-mask 0.90
+Position: (653, 332), (809, 314), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-11: Position: (551, 359), (707, 341), Obj and Confidence: no-mask 0.63
+Position: (1026, 395), (1182, 377), Obj and Confidence: no-mask 0.72
+Position: (820, 357), (976, 339), Obj and Confidence: no-mask 0.87
+Position: (191, 371), (305, 353), Obj and Confidence: mask 0.88
+Position: (652, 333), (808, 315), Obj and Confidence: no-mask 0.90
+Position: (56, 381), (212, 363), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-11: Position: (555, 360), (711, 342), Obj and Confidence: no-mask 0.49
+Position: (1027, 396), (1183, 378), Obj and Confidence: no-mask 0.69
+Position: (820, 357), (976, 339), Obj and Confidence: no-mask 0.87
+Position: (191, 371), (305, 353), Obj and Confidence: mask 0.88
+Position: (652, 333), (808, 315), Obj and Confidence: no-mask 0.88
+Position: (57, 382), (213, 364), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-11: Position: (242, 372), (398, 354), Obj and Confidence: no-mask 0.55
+Position: (552, 359), (708, 341), Obj and Confidence: no-mask 0.59
+Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.75
+Position: (821, 357), (977, 339), Obj and Confidence: no-mask 0.88
+Position: (651, 333), (807, 315), Obj and Confidence: no-mask 0.88
+Position: (57, 383), (213, 365), Obj and Confidence: no-mask 0.91
+Position: (186, 369), (300, 351), Obj and Confidence: mask 0.91
+2024-01-23-16-39-12: Position: (570, 362), (726, 344), Obj and Confidence: no-mask 0.33
+Position: (554, 359), (710, 341), Obj and Confidence: no-mask 0.57
+Position: (1027, 396), (1183, 378), Obj and Confidence: no-mask 0.68
+Position: (821, 357), (977, 339), Obj and Confidence: no-mask 0.87
+Position: (651, 333), (807, 315), Obj and Confidence: no-mask 0.89
+Position: (178, 366), (292, 348), Obj and Confidence: mask 0.89
+Position: (58, 382), (214, 364), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-12: Position: (552, 359), (708, 341), Obj and Confidence: no-mask 0.62
+Position: (1029, 396), (1185, 378), Obj and Confidence: no-mask 0.67
+Position: (822, 357), (978, 339), Obj and Confidence: no-mask 0.88
+Position: (650, 333), (806, 315), Obj and Confidence: no-mask 0.88
+Position: (183, 361), (297, 343), Obj and Confidence: mask 0.90
+Position: (58, 383), (214, 365), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-12: Position: (554, 360), (710, 342), Obj and Confidence: no-mask 0.57
+Position: (1029, 396), (1185, 378), Obj and Confidence: no-mask 0.66
+Position: (821, 355), (977, 337), Obj and Confidence: no-mask 0.85
+Position: (646, 332), (802, 314), Obj and Confidence: no-mask 0.88
+Position: (59, 382), (215, 364), Obj and Confidence: no-mask 0.90
+Position: (174, 361), (288, 343), Obj and Confidence: mask 0.94
+2024-01-23-16-39-12: Position: (552, 360), (708, 342), Obj and Confidence: no-mask 0.59
+Position: (1029, 396), (1185, 378), Obj and Confidence: no-mask 0.70
+Position: (815, 348), (971, 330), Obj and Confidence: no-mask 0.86
+Position: (635, 335), (791, 317), Obj and Confidence: no-mask 0.87
+Position: (60, 382), (216, 364), Obj and Confidence: no-mask 0.90
+Position: (171, 361), (285, 343), Obj and Confidence: mask 0.93
+2024-01-23-16-39-13: Position: (1030, 396), (1186, 378), Obj and Confidence: no-mask 0.70
+Position: (566, 364), (722, 346), Obj and Confidence: no-mask 0.75
+Position: (813, 348), (969, 330), Obj and Confidence: no-mask 0.87
+Position: (618, 338), (774, 320), Obj and Confidence: no-mask 0.87
+Position: (44, 368), (200, 350), Obj and Confidence: no-mask 0.91
+Position: (170, 362), (284, 344), Obj and Confidence: mask 0.92
+2024-01-23-16-39-13: Position: (1030, 396), (1186, 378), Obj and Confidence: no-mask 0.71
+Position: (565, 366), (721, 348), Obj and Confidence: no-mask 0.77
+Position: (610, 339), (766, 321), Obj and Confidence: no-mask 0.84
+Position: (813, 348), (969, 330), Obj and Confidence: no-mask 0.87
+Position: (20, 356), (176, 338), Obj and Confidence: no-mask 0.91
+Position: (169, 362), (283, 344), Obj and Confidence: mask 0.92
+2024-01-23-16-39-13: Position: (1030, 396), (1186, 378), Obj and Confidence: no-mask 0.65
+Position: (563, 364), (719, 346), Obj and Confidence: no-mask 0.70
+Position: (812, 346), (968, 328), Obj and Confidence: no-mask 0.87
+Position: (7, 354), (163, 336), Obj and Confidence: no-mask 0.90
+Position: (629, 337), (785, 319), Obj and Confidence: no-mask 0.90
+Position: (168, 361), (282, 343), Obj and Confidence: mask 0.92
+2024-01-23-16-39-13: Position: (553, 362), (709, 344), Obj and Confidence: no-mask 0.57
+Position: (1031, 394), (1187, 376), Obj and Confidence: no-mask 0.62
+Position: (811, 346), (967, 328), Obj and Confidence: no-mask 0.87
+Position: (666, 337), (822, 319), Obj and Confidence: no-mask 0.88
+Position: (5, 355), (161, 337), Obj and Confidence: no-mask 0.89
+Position: (167, 362), (281, 344), Obj and Confidence: mask 0.90
+2024-01-23-16-39-14: Position: (1030, 391), (1186, 373), Obj and Confidence: no-mask 0.47
+Position: (552, 362), (708, 344), Obj and Confidence: no-mask 0.61
+Position: (810, 345), (966, 327), Obj and Confidence: no-mask 0.88
+Position: (8, 355), (164, 337), Obj and Confidence: no-mask 0.89
+Position: (692, 338), (848, 320), Obj and Confidence: no-mask 0.89
+Position: (167, 362), (281, 344), Obj and Confidence: mask 0.89
+2024-01-23-16-39-14: Position: (555, 362), (711, 344), Obj and Confidence: no-mask 0.51
+Position: (1031, 387), (1187, 369), Obj and Confidence: no-mask 0.69
+Position: (17, 356), (173, 338), Obj and Confidence: no-mask 0.89
+Position: (801, 343), (957, 325), Obj and Confidence: no-mask 0.90
+Position: (167, 361), (281, 343), Obj and Confidence: mask 0.90
+Position: (692, 337), (848, 319), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-14: Position: (562, 365), (718, 347), Obj and Confidence: no-mask 0.53
+Position: (1032, 383), (1188, 365), Obj and Confidence: no-mask 0.77
+Position: (791, 342), (947, 324), Obj and Confidence: no-mask 0.86
+Position: (662, 339), (818, 321), Obj and Confidence: no-mask 0.88
+Position: (168, 362), (282, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-39-14: Position: (555, 359), (711, 341), Obj and Confidence: no-mask 0.58
+Position: (1032, 384), (1188, 366), Obj and Confidence: no-mask 0.82
+Position: (787, 344), (943, 326), Obj and Confidence: no-mask 0.86
+Position: (166, 362), (280, 344), Obj and Confidence: mask 0.88
+Position: (634, 339), (790, 321), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-15: Position: (564, 362), (720, 344), Obj and Confidence: no-mask 0.76
+Position: (1029, 385), (1185, 367), Obj and Confidence: no-mask 0.80
+Position: (785, 344), (941, 326), Obj and Confidence: no-mask 0.85
+Position: (618, 340), (774, 322), Obj and Confidence: no-mask 0.88
+Position: (166, 360), (280, 342), Obj and Confidence: mask 0.89
+2024-01-23-16-39-15: Position: (564, 362), (720, 344), Obj and Confidence: no-mask 0.76
+Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.77
+Position: (789, 343), (945, 325), Obj and Confidence: no-mask 0.86
+Position: (622, 340), (778, 322), Obj and Confidence: no-mask 0.87
+Position: (165, 359), (279, 341), Obj and Confidence: mask 0.91
+2024-01-23-16-39-15: Position: (1030, 386), (1186, 368), Obj and Confidence: no-mask 0.72
+Position: (802, 348), (958, 330), Obj and Confidence: no-mask 0.77
+Position: (571, 364), (727, 346), Obj and Confidence: no-mask 0.79
+Position: (647, 340), (803, 322), Obj and Confidence: no-mask 0.86
+Position: (165, 359), (279, 341), Obj and Confidence: mask 0.89
+2024-01-23-16-39-15: Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.74
+Position: (683, 337), (839, 319), Obj and Confidence: no-mask 0.88
+Position: (811, 354), (967, 336), Obj and Confidence: no-mask 0.88
+Position: (549, 355), (705, 337), Obj and Confidence: no-mask 0.88
+Position: (165, 360), (279, 342), Obj and Confidence: mask 0.91
+2024-01-23-16-39-15: Position: (55, 364), (211, 346), Obj and Confidence: no-mask 0.74
+Position: (1030, 386), (1186, 368), Obj and Confidence: no-mask 0.77
+Position: (554, 352), (710, 334), Obj and Confidence: no-mask 0.85
+Position: (818, 358), (974, 340), Obj and Confidence: no-mask 0.88
+Position: (702, 337), (858, 319), Obj and Confidence: no-mask 0.89
+Position: (170, 362), (284, 344), Obj and Confidence: mask 0.90
+2024-01-23-16-39-16: Position: (1030, 386), (1186, 368), Obj and Confidence: no-mask 0.79
+Position: (820, 358), (976, 340), Obj and Confidence: no-mask 0.86
+Position: (27, 357), (183, 339), Obj and Confidence: no-mask 0.86
+Position: (556, 352), (712, 334), Obj and Confidence: no-mask 0.86
+Position: (697, 337), (853, 319), Obj and Confidence: no-mask 0.89
+Position: (181, 365), (295, 347), Obj and Confidence: mask 0.92
+2024-01-23-16-39-16: Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.80
+Position: (821, 356), (977, 338), Obj and Confidence: no-mask 0.85
+Position: (27, 357), (183, 339), Obj and Confidence: no-mask 0.86
+Position: (556, 351), (712, 333), Obj and Confidence: no-mask 0.87
+Position: (662, 341), (818, 323), Obj and Confidence: no-mask 0.88
+Position: (183, 366), (297, 348), Obj and Confidence: mask 0.89
+Position: (449, 343), (605, 325), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-16: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.77
+Position: (27, 357), (183, 339), Obj and Confidence: no-mask 0.86
+Position: (821, 357), (977, 339), Obj and Confidence: no-mask 0.87
+Position: (683, 340), (839, 322), Obj and Confidence: no-mask 0.87
+Position: (557, 350), (713, 332), Obj and Confidence: no-mask 0.87
+Position: (176, 363), (290, 345), Obj and Confidence: mask 0.90
+Position: (463, 335), (619, 317), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-17: Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.78
+Position: (27, 357), (183, 339), Obj and Confidence: no-mask 0.79
+Position: (691, 345), (847, 327), Obj and Confidence: no-mask 0.81
+Position: (822, 356), (978, 338), Obj and Confidence: no-mask 0.86
+Position: (563, 348), (719, 330), Obj and Confidence: no-mask 0.90
+Position: (469, 333), (625, 315), Obj and Confidence: no-mask 0.93
+Position: (161, 355), (275, 337), Obj and Confidence: mask 0.95
+2024-01-23-16-39-17: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.77
+Position: (28, 357), (184, 339), Obj and Confidence: no-mask 0.78
+Position: (824, 359), (980, 341), Obj and Confidence: no-mask 0.87
+Position: (656, 340), (812, 322), Obj and Confidence: no-mask 0.88
+Position: (578, 342), (734, 324), Obj and Confidence: no-mask 0.89
+Position: (137, 352), (251, 334), Obj and Confidence: mask 0.92
+Position: (471, 332), (627, 314), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-17: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.77
+Position: (824, 360), (980, 342), Obj and Confidence: no-mask 0.87
+Position: (596, 340), (752, 322), Obj and Confidence: no-mask 0.88
+Position: (659, 339), (815, 321), Obj and Confidence: no-mask 0.88
+Position: (472, 331), (628, 313), Obj and Confidence: no-mask 0.92
+Position: (117, 356), (231, 338), Obj and Confidence: mask 0.94
+2024-01-23-16-39-17: Position: (35, 358), (191, 340), Obj and Confidence: no-mask 0.69
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.75
+Position: (105, 355), (219, 337), Obj and Confidence: mask 0.85
+Position: (823, 359), (979, 341), Obj and Confidence: no-mask 0.87
+Position: (681, 342), (837, 324), Obj and Confidence: no-mask 0.89
+Position: (608, 344), (764, 326), Obj and Confidence: no-mask 0.90
+Position: (473, 330), (629, 312), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-17: Position: (35, 359), (191, 341), Obj and Confidence: no-mask 0.53
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.73
+Position: (105, 355), (219, 337), Obj and Confidence: mask 0.81
+Position: (823, 357), (979, 339), Obj and Confidence: no-mask 0.86
+Position: (622, 344), (778, 326), Obj and Confidence: no-mask 0.88
+Position: (476, 329), (632, 311), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-18: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.75
+Position: (822, 356), (978, 338), Obj and Confidence: no-mask 0.87
+Position: (629, 343), (785, 325), Obj and Confidence: no-mask 0.87
+Position: (108, 356), (222, 338), Obj and Confidence: mask 0.91
+Position: (485, 328), (641, 310), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-18: Position: (34, 357), (190, 339), Obj and Confidence: no-mask 0.36
+Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.78
+Position: (822, 356), (978, 338), Obj and Confidence: no-mask 0.86
+Position: (685, 342), (841, 324), Obj and Confidence: no-mask 0.87
+Position: (631, 343), (787, 325), Obj and Confidence: no-mask 0.88
+Position: (464, 336), (620, 318), Obj and Confidence: no-mask 0.91
+Position: (108, 356), (222, 338), Obj and Confidence: mask 0.92
+2024-01-23-16-39-18: Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.79
+Position: (821, 355), (977, 337), Obj and Confidence: no-mask 0.86
+Position: (631, 344), (787, 326), Obj and Confidence: no-mask 0.88
+Position: (105, 351), (219, 333), Obj and Confidence: mask 0.93
+2024-01-23-16-39-18: Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.80
+Position: (820, 355), (976, 337), Obj and Confidence: no-mask 0.86
+Position: (98, 350), (212, 332), Obj and Confidence: mask 0.89
+Position: (632, 344), (788, 326), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-19: Position: (442, 363), (598, 345), Obj and Confidence: no-mask 0.77
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.82
+Position: (96, 349), (210, 331), Obj and Confidence: mask 0.85
+Position: (819, 355), (975, 337), Obj and Confidence: no-mask 0.86
+Position: (679, 343), (835, 325), Obj and Confidence: no-mask 0.88
+Position: (634, 344), (790, 326), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-19: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.80
+Position: (818, 352), (974, 334), Obj and Confidence: no-mask 0.85
+Position: (440, 342), (596, 324), Obj and Confidence: no-mask 0.90
+Position: (635, 344), (791, 326), Obj and Confidence: no-mask 0.91
+Position: (97, 351), (211, 333), Obj and Confidence: mask 0.93
+2024-01-23-16-39-19: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.80
+Position: (816, 351), (972, 333), Obj and Confidence: no-mask 0.84
+Position: (635, 345), (791, 327), Obj and Confidence: no-mask 0.91
+Position: (430, 336), (586, 318), Obj and Confidence: no-mask 0.91
+Position: (95, 351), (209, 333), Obj and Confidence: mask 0.94
+2024-01-23-16-39-20: Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.80
+Position: (427, 340), (583, 322), Obj and Confidence: no-mask 0.82
+Position: (816, 353), (972, 335), Obj and Confidence: no-mask 0.87
+Position: (681, 341), (837, 323), Obj and Confidence: no-mask 0.89
+Position: (634, 345), (790, 327), Obj and Confidence: no-mask 0.90
+Position: (96, 352), (210, 334), Obj and Confidence: mask 0.93
+2024-01-23-16-39-20: Position: (423, 346), (579, 328), Obj and Confidence: no-mask 0.30
+Position: (299, 329), (455, 311), Obj and Confidence: no-mask 0.67
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.78
+Position: (816, 354), (972, 336), Obj and Confidence: no-mask 0.85
+Position: (634, 345), (790, 327), Obj and Confidence: no-mask 0.90
+Position: (94, 350), (208, 332), Obj and Confidence: mask 0.94
+2024-01-23-16-39-20: Position: (21, 357), (177, 339), Obj and Confidence: no-mask 0.54
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.77
+Position: (305, 276), (461, 258), Obj and Confidence: no-mask 0.83
+Position: (817, 355), (973, 337), Obj and Confidence: no-mask 0.85
+Position: (633, 346), (789, 328), Obj and Confidence: no-mask 0.90
+Position: (93, 348), (207, 330), Obj and Confidence: mask 0.94
+2024-01-23-16-39-20: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.79
+Position: (675, 343), (831, 325), Obj and Confidence: no-mask 0.79
+Position: (817, 354), (973, 336), Obj and Confidence: no-mask 0.85
+Position: (634, 346), (790, 328), Obj and Confidence: no-mask 0.89
+Position: (336, 245), (492, 227), Obj and Confidence: no-mask 0.92
+Position: (94, 347), (208, 329), Obj and Confidence: mask 0.95
+2024-01-23-16-39-21: Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.77
+Position: (675, 345), (831, 327), Obj and Confidence: no-mask 0.79
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.85
+Position: (634, 347), (790, 329), Obj and Confidence: no-mask 0.89
+Position: (351, 231), (507, 213), Obj and Confidence: no-mask 0.92
+Position: (94, 347), (208, 329), Obj and Confidence: mask 0.95
+2024-01-23-16-39-21: Position: (19, 356), (175, 338), Obj and Confidence: no-mask 0.49
+Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.78
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.85
+Position: (634, 347), (790, 329), Obj and Confidence: no-mask 0.89
+Position: (352, 222), (508, 204), Obj and Confidence: no-mask 0.90
+Position: (94, 347), (208, 329), Obj and Confidence: mask 0.95
+2024-01-23-16-39-21: Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.69
+Position: (817, 355), (973, 337), Obj and Confidence: no-mask 0.84
+Position: (19, 356), (175, 338), Obj and Confidence: no-mask 0.86
+Position: (634, 346), (790, 328), Obj and Confidence: no-mask 0.89
+Position: (343, 220), (499, 202), Obj and Confidence: no-mask 0.91
+Position: (94, 347), (208, 329), Obj and Confidence: mask 0.95
+2024-01-23-16-39-21: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.74
+Position: (817, 355), (973, 337), Obj and Confidence: no-mask 0.84
+Position: (20, 356), (176, 338), Obj and Confidence: no-mask 0.87
+Position: (679, 345), (835, 327), Obj and Confidence: no-mask 0.87
+Position: (632, 347), (788, 329), Obj and Confidence: no-mask 0.88
+Position: (341, 218), (497, 200), Obj and Confidence: no-mask 0.92
+Position: (94, 347), (208, 329), Obj and Confidence: mask 0.95
+2024-01-23-16-39-22: Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.75
+Position: (20, 355), (176, 337), Obj and Confidence: no-mask 0.83
+Position: (816, 354), (972, 336), Obj and Confidence: no-mask 0.86
+Position: (633, 346), (789, 328), Obj and Confidence: no-mask 0.89
+Position: (348, 217), (504, 199), Obj and Confidence: no-mask 0.91
+Position: (93, 348), (207, 330), Obj and Confidence: mask 0.95
+2024-01-23-16-39-22: Position: (21, 355), (135, 337), Obj and Confidence: mask 0.35
+Position: (670, 339), (826, 321), Obj and Confidence: no-mask 0.37
+Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.76
+Position: (20, 355), (176, 337), Obj and Confidence: no-mask 0.82
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.86
+Position: (632, 347), (788, 329), Obj and Confidence: no-mask 0.89
+Position: (350, 215), (506, 197), Obj and Confidence: no-mask 0.92
+Position: (95, 348), (209, 330), Obj and Confidence: mask 0.95
+2024-01-23-16-39-22: Position: (21, 354), (135, 336), Obj and Confidence: mask 0.38
+Position: (675, 343), (831, 325), Obj and Confidence: no-mask 0.73
+Position: (1028, 386), (1184, 368), Obj and Confidence: no-mask 0.75
+Position: (21, 355), (177, 337), Obj and Confidence: no-mask 0.80
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.86
+Position: (632, 348), (788, 330), Obj and Confidence: no-mask 0.89
+Position: (353, 215), (509, 197), Obj and Confidence: no-mask 0.93
+Position: (95, 349), (209, 331), Obj and Confidence: mask 0.95
+2024-01-23-16-39-22: Position: (1028, 386), (1184, 368), Obj and Confidence: no-mask 0.72
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.85
+Position: (21, 355), (177, 337), Obj and Confidence: no-mask 0.85
+Position: (632, 348), (788, 330), Obj and Confidence: no-mask 0.89
+Position: (355, 214), (511, 196), Obj and Confidence: no-mask 0.93
+Position: (97, 349), (211, 331), Obj and Confidence: mask 0.95
+2024-01-23-16-39-23: Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.72
+Position: (21, 355), (177, 337), Obj and Confidence: no-mask 0.84
+Position: (816, 354), (972, 336), Obj and Confidence: no-mask 0.85
+Position: (632, 347), (788, 329), Obj and Confidence: no-mask 0.90
+Position: (356, 215), (512, 197), Obj and Confidence: no-mask 0.93
+Position: (98, 351), (212, 333), Obj and Confidence: mask 0.93
+2024-01-23-16-39-23: Position: (99, 352), (255, 334), Obj and Confidence: no-mask 0.51
+Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.70
+Position: (102, 351), (216, 333), Obj and Confidence: mask 0.81
+Position: (602, 343), (758, 325), Obj and Confidence: no-mask 0.82
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.86
+Position: (19, 356), (175, 338), Obj and Confidence: no-mask 0.88
+Position: (633, 348), (789, 330), Obj and Confidence: no-mask 0.89
+Position: (356, 214), (512, 196), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-23: Position: (473, 325), (629, 307), Obj and Confidence: no-mask 0.29
+Position: (100, 353), (256, 335), Obj and Confidence: no-mask 0.52
+Position: (1028, 386), (1184, 368), Obj and Confidence: no-mask 0.68
+Position: (102, 353), (216, 335), Obj and Confidence: mask 0.75
+Position: (816, 354), (972, 336), Obj and Confidence: no-mask 0.87
+Position: (634, 349), (790, 331), Obj and Confidence: no-mask 0.88
+Position: (19, 356), (175, 338), Obj and Confidence: no-mask 0.88
+Position: (359, 214), (515, 196), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-23: Position: (100, 353), (256, 335), Obj and Confidence: no-mask 0.39
+Position: (1028, 386), (1184, 368), Obj and Confidence: no-mask 0.71
+Position: (484, 324), (640, 306), Obj and Confidence: no-mask 0.76
+Position: (103, 353), (217, 335), Obj and Confidence: mask 0.80
+Position: (816, 355), (972, 337), Obj and Confidence: no-mask 0.87
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.88
+Position: (20, 355), (176, 337), Obj and Confidence: no-mask 0.88
+Position: (361, 213), (517, 195), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-23: Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.71
+Position: (19, 356), (175, 338), Obj and Confidence: no-mask 0.85
+Position: (816, 352), (972, 334), Obj and Confidence: no-mask 0.87
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.88
+Position: (490, 320), (646, 302), Obj and Confidence: no-mask 0.90
+Position: (361, 213), (517, 195), Obj and Confidence: no-mask 0.92
+Position: (101, 350), (215, 332), Obj and Confidence: mask 0.94
+2024-01-23-16-39-24: Position: (20, 356), (134, 338), Obj and Confidence: mask 0.30
+Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.71
+Position: (18, 356), (174, 338), Obj and Confidence: no-mask 0.81
+Position: (817, 351), (973, 333), Obj and Confidence: no-mask 0.86
+Position: (634, 350), (790, 332), Obj and Confidence: no-mask 0.88
+Position: (493, 320), (607, 302), Obj and Confidence: mask 0.90
+Position: (690, 332), (846, 314), Obj and Confidence: no-mask 0.90
+Position: (363, 213), (519, 195), Obj and Confidence: no-mask 0.92
+Position: (94, 345), (208, 327), Obj and Confidence: mask 0.95
+2024-01-23-16-39-24: Position: (17, 354), (131, 336), Obj and Confidence: mask 0.27
+Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.73
+Position: (17, 356), (173, 338), Obj and Confidence: no-mask 0.77
+Position: (816, 353), (972, 335), Obj and Confidence: no-mask 0.79
+Position: (704, 335), (860, 317), Obj and Confidence: no-mask 0.86
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.89
+Position: (495, 323), (609, 305), Obj and Confidence: mask 0.92
+Position: (362, 213), (518, 195), Obj and Confidence: no-mask 0.92
+Position: (90, 346), (204, 328), Obj and Confidence: mask 0.94
+2024-01-23-16-39-24: Position: (19, 353), (133, 335), Obj and Confidence: mask 0.27
+Position: (810, 352), (966, 334), Obj and Confidence: no-mask 0.27
+Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.73
+Position: (18, 356), (174, 338), Obj and Confidence: no-mask 0.75
+Position: (801, 344), (957, 326), Obj and Confidence: no-mask 0.83
+Position: (690, 333), (846, 315), Obj and Confidence: no-mask 0.88
+Position: (634, 349), (790, 331), Obj and Confidence: no-mask 0.88
+Position: (87, 346), (201, 328), Obj and Confidence: mask 0.90
+Position: (350, 213), (506, 195), Obj and Confidence: no-mask 0.92
+Position: (494, 321), (608, 303), Obj and Confidence: mask 0.94
+2024-01-23-16-39-25: Position: (814, 357), (970, 339), Obj and Confidence: no-mask 0.30
+Position: (1029, 386), (1185, 368), Obj and Confidence: no-mask 0.71
+Position: (805, 347), (961, 329), Obj and Confidence: no-mask 0.79
+Position: (16, 355), (172, 337), Obj and Confidence: no-mask 0.82
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.89
+Position: (320, 213), (476, 195), Obj and Confidence: no-mask 0.92
+Position: (85, 346), (199, 328), Obj and Confidence: mask 0.92
+Position: (495, 322), (609, 304), Obj and Confidence: mask 0.95
+2024-01-23-16-39-25: Position: (14, 351), (128, 333), Obj and Confidence: mask 0.41
+Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.73
+Position: (807, 352), (963, 334), Obj and Confidence: no-mask 0.84
+Position: (11, 354), (167, 336), Obj and Confidence: no-mask 0.88
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.89
+Position: (500, 319), (614, 301), Obj and Confidence: mask 0.93
+Position: (83, 346), (197, 328), Obj and Confidence: mask 0.94
+2024-01-23-16-39-25: Position: (1028, 387), (1184, 369), Obj and Confidence: no-mask 0.72
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.83
+Position: (634, 350), (790, 332), Obj and Confidence: no-mask 0.89
+Position: (11, 354), (167, 336), Obj and Confidence: no-mask 0.91
+Position: (83, 345), (197, 327), Obj and Confidence: mask 0.94
+Position: (506, 321), (620, 303), Obj and Confidence: mask 0.96
+2024-01-23-16-39-25: Position: (813, 359), (969, 341), Obj and Confidence: no-mask 0.29
+Position: (13, 351), (127, 333), Obj and Confidence: mask 0.32
+Position: (1029, 387), (1185, 369), Obj and Confidence: no-mask 0.76
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (633, 349), (789, 331), Obj and Confidence: no-mask 0.89
+Position: (10, 353), (166, 335), Obj and Confidence: no-mask 0.91
+Position: (83, 345), (197, 327), Obj and Confidence: mask 0.94
+Position: (507, 320), (621, 302), Obj and Confidence: mask 0.96
+2024-01-23-16-39-26: Position: (814, 361), (970, 343), Obj and Confidence: no-mask 0.32
+Position: (1030, 387), (1186, 369), Obj and Confidence: no-mask 0.71
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (635, 345), (791, 327), Obj and Confidence: no-mask 0.82
+Position: (6, 349), (162, 331), Obj and Confidence: no-mask 0.91
+Position: (83, 347), (197, 329), Obj and Confidence: mask 0.94
+Position: (506, 320), (620, 302), Obj and Confidence: mask 0.96
+2024-01-23-16-39-26: Position: (818, 364), (974, 346), Obj and Confidence: no-mask 0.30
+Position: (1030, 385), (1186, 367), Obj and Confidence: no-mask 0.71
+Position: (806, 353), (962, 335), Obj and Confidence: no-mask 0.81
+Position: (637, 349), (793, 331), Obj and Confidence: no-mask 0.85
+Position: (684, 333), (840, 315), Obj and Confidence: no-mask 0.89
+Position: (5, 350), (161, 332), Obj and Confidence: no-mask 0.92
+Position: (83, 346), (197, 328), Obj and Confidence: mask 0.94
+Position: (506, 323), (620, 305), Obj and Confidence: mask 0.96
+2024-01-23-16-39-26: Position: (0, 227), (156, 209), Obj and Confidence: no-mask 0.25
+Position: (1032, 390), (1188, 372), Obj and Confidence: no-mask 0.58
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.81
+Position: (709, 336), (865, 318), Obj and Confidence: no-mask 0.86
+Position: (634, 349), (790, 331), Obj and Confidence: no-mask 0.88
+Position: (3, 352), (159, 334), Obj and Confidence: no-mask 0.91
+Position: (497, 323), (611, 305), Obj and Confidence: mask 0.91
+Position: (83, 345), (197, 327), Obj and Confidence: mask 0.94
+2024-01-23-16-39-26: Position: (817, 361), (973, 343), Obj and Confidence: no-mask 0.29
+Position: (1033, 393), (1189, 375), Obj and Confidence: no-mask 0.74
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.81
+Position: (707, 337), (863, 319), Obj and Confidence: no-mask 0.85
+Position: (634, 350), (790, 332), Obj and Confidence: no-mask 0.88
+Position: (3, 351), (159, 333), Obj and Confidence: no-mask 0.91
+Position: (83, 346), (197, 328), Obj and Confidence: mask 0.94
+Position: (489, 328), (603, 310), Obj and Confidence: mask 0.94
+2024-01-23-16-39-27: Position: (0, 236), (156, 218), Obj and Confidence: no-mask 0.31
+Position: (1037, 391), (1193, 373), Obj and Confidence: no-mask 0.78
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (636, 349), (792, 331), Obj and Confidence: no-mask 0.86
+Position: (688, 337), (844, 319), Obj and Confidence: no-mask 0.89
+Position: (3, 351), (159, 333), Obj and Confidence: no-mask 0.91
+Position: (82, 345), (196, 327), Obj and Confidence: mask 0.94
+Position: (491, 326), (605, 308), Obj and Confidence: mask 0.95
+2024-01-23-16-39-27: Position: (640, 350), (796, 332), Obj and Confidence: no-mask 0.69
+Position: (0, 232), (156, 214), Obj and Confidence: no-mask 0.74
+Position: (1034, 392), (1190, 374), Obj and Confidence: no-mask 0.79
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (3, 341), (159, 323), Obj and Confidence: no-mask 0.91
+Position: (503, 323), (617, 305), Obj and Confidence: mask 0.93
+Position: (83, 345), (197, 327), Obj and Confidence: mask 0.93
+2024-01-23-16-39-27: Position: (1032, 394), (1188, 376), Obj and Confidence: no-mask 0.75
+Position: (631, 349), (787, 331), Obj and Confidence: no-mask 0.81
+Position: (805, 353), (961, 335), Obj and Confidence: no-mask 0.82
+Position: (516, 316), (630, 298), Obj and Confidence: mask 0.92
+Position: (86, 346), (200, 328), Obj and Confidence: mask 0.92
+2024-01-23-16-39-27: Position: (0, 236), (156, 218), Obj and Confidence: no-mask 0.41
+Position: (1032, 396), (1188, 378), Obj and Confidence: no-mask 0.73
+Position: (12, 228), (168, 210), Obj and Confidence: no-mask 0.79
+Position: (632, 349), (788, 331), Obj and Confidence: no-mask 0.80
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (89, 345), (203, 327), Obj and Confidence: mask 0.92
+Position: (520, 311), (634, 293), Obj and Confidence: mask 0.93
+2024-01-23-16-39-28: Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.71
+Position: (38, 228), (194, 210), Obj and Confidence: no-mask 0.74
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.79
+Position: (0, 231), (156, 213), Obj and Confidence: no-mask 0.79
+Position: (520, 308), (634, 290), Obj and Confidence: mask 0.94
+Position: (93, 348), (207, 330), Obj and Confidence: mask 0.95
+2024-01-23-16-39-28: Position: (0, 227), (156, 209), Obj and Confidence: no-mask 0.32
+Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.75
+Position: (47, 226), (203, 208), Obj and Confidence: no-mask 0.80
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.81
+Position: (97, 351), (211, 333), Obj and Confidence: mask 0.95
+Position: (520, 306), (634, 288), Obj and Confidence: mask 0.95
+2024-01-23-16-39-28: Position: (0, 224), (156, 206), Obj and Confidence: no-mask 0.43
+Position: (670, 334), (826, 316), Obj and Confidence: no-mask 0.55
+Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.72
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.81
+Position: (48, 225), (204, 207), Obj and Confidence: no-mask 0.87
+Position: (96, 351), (210, 333), Obj and Confidence: mask 0.95
+Position: (522, 307), (636, 289), Obj and Confidence: mask 0.95
+2024-01-23-16-39-28: Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.74
+Position: (0, 223), (156, 205), Obj and Confidence: no-mask 0.81
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (57, 225), (213, 207), Obj and Confidence: no-mask 0.86
+Position: (96, 347), (210, 329), Obj and Confidence: mask 0.94
+Position: (524, 309), (638, 291), Obj and Confidence: mask 0.95
+2024-01-23-16-39-29: Position: (1031, 397), (1187, 379), Obj and Confidence: no-mask 0.75
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (1, 221), (157, 203), Obj and Confidence: no-mask 0.86
+Position: (75, 229), (231, 211), Obj and Confidence: no-mask 0.87
+Position: (630, 350), (786, 332), Obj and Confidence: no-mask 0.90
+Position: (98, 344), (212, 326), Obj and Confidence: mask 0.92
+Position: (521, 312), (635, 294), Obj and Confidence: mask 0.94
+2024-01-23-16-39-29: Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.75
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (101, 231), (257, 213), Obj and Confidence: no-mask 0.88
+Position: (96, 340), (210, 322), Obj and Confidence: mask 0.88
+Position: (0, 224), (156, 206), Obj and Confidence: no-mask 0.89
+Position: (630, 350), (786, 332), Obj and Confidence: no-mask 0.89
+Position: (513, 309), (627, 291), Obj and Confidence: mask 0.93
+2024-01-23-16-39-29: Position: (91, 340), (205, 322), Obj and Confidence: mask 0.70
+Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.78
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.82
+Position: (0, 228), (156, 210), Obj and Confidence: no-mask 0.84
+Position: (513, 314), (627, 296), Obj and Confidence: mask 0.86
+Position: (123, 238), (279, 220), Obj and Confidence: no-mask 0.88
+Position: (631, 352), (787, 334), Obj and Confidence: no-mask 0.89
+2024-01-23-16-39-29: Position: (0, 236), (156, 218), Obj and Confidence: no-mask 0.78
+Position: (1032, 398), (1188, 380), Obj and Confidence: no-mask 0.78
+Position: (805, 352), (961, 334), Obj and Confidence: no-mask 0.83
+Position: (139, 240), (295, 222), Obj and Confidence: no-mask 0.84
+Position: (632, 350), (788, 332), Obj and Confidence: no-mask 0.87
+Position: (682, 333), (838, 315), Obj and Confidence: no-mask 0.87
+2024-01-23-16-39-30: Position: (0, 224), (156, 206), Obj and Confidence: no-mask 0.78
+Position: (1032, 397), (1188, 379), Obj and Confidence: no-mask 0.79
+Position: (805, 353), (961, 335), Obj and Confidence: no-mask 0.82
+Position: (151, 242), (307, 224), Obj and Confidence: no-mask 0.82
+Position: (629, 351), (785, 333), Obj and Confidence: no-mask 0.89
+Position: (692, 331), (848, 313), Obj and Confidence: no-mask 0.91
+Position: (80, 343), (194, 325), Obj and Confidence: mask 0.91
+2024-01-23-16-39-30: Position: (0, 221), (156, 203), Obj and Confidence: no-mask 0.31
+Position: (644, 344), (800, 326), Obj and Confidence: no-mask 0.37
+Position: (1034, 397), (1190, 379), Obj and Confidence: no-mask 0.78
+Position: (1263, 337), (1419, 319), Obj and Confidence: no-mask 0.79
+Position: (669, 334), (825, 316), Obj and Confidence: no-mask 0.81
+Position: (806, 352), (962, 334), Obj and Confidence: no-mask 0.84
+Position: (160, 241), (316, 223), Obj and Confidence: no-mask 0.86
+Position: (630, 351), (786, 333), Obj and Confidence: no-mask 0.88
+Position: (78, 341), (192, 323), Obj and Confidence: mask 0.90
+2024-01-23-16-39-30: Position: (1267, 336), (1423, 318), Obj and Confidence: no-mask 0.65
+Position: (1034, 396), (1190, 378), Obj and Confidence: no-mask 0.76
+Position: (806, 352), (962, 334), Obj and Confidence: no-mask 0.84
+Position: (160, 241), (316, 223), Obj and Confidence: no-mask 0.86
+Position: (631, 350), (787, 332), Obj and Confidence: no-mask 0.88
+Position: (80, 341), (194, 323), Obj and Confidence: mask 0.90
+Position: (364, 231), (520, 213), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-30: Position: (1268, 333), (1424, 315), Obj and Confidence: no-mask 0.33
+Position: (546, 325), (702, 307), Obj and Confidence: no-mask 0.67
+Position: (157, 246), (313, 228), Obj and Confidence: no-mask 0.71
+Position: (1031, 396), (1187, 378), Obj and Confidence: no-mask 0.72
+Position: (800, 348), (956, 330), Obj and Confidence: no-mask 0.76
+Position: (424, 385), (580, 367), Obj and Confidence: no-mask 0.84
+Position: (631, 350), (787, 332), Obj and Confidence: no-mask 0.88
+Position: (78, 341), (192, 323), Obj and Confidence: mask 0.89
+Position: (309, 225), (465, 207), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-31: Position: (1, 235), (157, 217), Obj and Confidence: no-mask 0.27
+Position: (550, 326), (706, 308), Obj and Confidence: no-mask 0.49
+Position: (822, 371), (978, 353), Obj and Confidence: no-mask 0.64
+Position: (1264, 342), (1420, 324), Obj and Confidence: no-mask 0.68
+Position: (78, 338), (192, 320), Obj and Confidence: mask 0.70
+Position: (1032, 396), (1188, 378), Obj and Confidence: no-mask 0.70
+Position: (156, 245), (312, 227), Obj and Confidence: no-mask 0.77
+Position: (424, 386), (580, 368), Obj and Confidence: no-mask 0.83
+Position: (794, 347), (950, 329), Obj and Confidence: no-mask 0.87
+Position: (631, 348), (787, 330), Obj and Confidence: no-mask 0.88
+Position: (279, 231), (435, 213), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-31: Position: (551, 326), (707, 308), Obj and Confidence: no-mask 0.26
+Position: (0, 226), (156, 208), Obj and Confidence: no-mask 0.41
+Position: (799, 361), (955, 343), Obj and Confidence: no-mask 0.46
+Position: (1257, 346), (1413, 328), Obj and Confidence: no-mask 0.74
+Position: (1032, 393), (1188, 375), Obj and Confidence: no-mask 0.74
+Position: (158, 243), (314, 225), Obj and Confidence: no-mask 0.78
+Position: (666, 332), (822, 314), Obj and Confidence: no-mask 0.81
+Position: (425, 387), (581, 369), Obj and Confidence: no-mask 0.82
+Position: (80, 342), (194, 324), Obj and Confidence: mask 0.84
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.84
+Position: (631, 349), (787, 331), Obj and Confidence: no-mask 0.89
+Position: (272, 239), (428, 221), Obj and Confidence: no-mask 0.94
+2024-01-23-16-39-31: Position: (0, 227), (156, 209), Obj and Confidence: no-mask 0.32
+Position: (800, 363), (956, 345), Obj and Confidence: no-mask 0.37
+Position: (1031, 394), (1187, 376), Obj and Confidence: no-mask 0.68
+Position: (1253, 348), (1409, 330), Obj and Confidence: no-mask 0.80
+Position: (158, 245), (314, 227), Obj and Confidence: no-mask 0.80
+Position: (424, 386), (580, 368), Obj and Confidence: no-mask 0.84
+Position: (820, 370), (976, 352), Obj and Confidence: no-mask 0.85
+Position: (79, 343), (193, 325), Obj and Confidence: mask 0.87
+Position: (631, 349), (787, 331), Obj and Confidence: no-mask 0.87
+Position: (686, 330), (842, 312), Obj and Confidence: no-mask 0.88
+Position: (286, 246), (442, 228), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-32: Position: (1031, 395), (1187, 377), Obj and Confidence: no-mask 0.68
+Position: (159, 246), (315, 228), Obj and Confidence: no-mask 0.78
+Position: (424, 386), (580, 368), Obj and Confidence: no-mask 0.83
+Position: (1245, 349), (1401, 331), Obj and Confidence: no-mask 0.83
+Position: (819, 369), (975, 351), Obj and Confidence: no-mask 0.85
+Position: (683, 331), (839, 313), Obj and Confidence: no-mask 0.88
+Position: (630, 349), (786, 331), Obj and Confidence: no-mask 0.88
+Position: (79, 342), (193, 324), Obj and Confidence: mask 0.89
+Position: (293, 244), (449, 226), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-32: Position: (0, 229), (156, 211), Obj and Confidence: no-mask 0.40
+Position: (663, 331), (819, 313), Obj and Confidence: no-mask 0.54
+Position: (1031, 395), (1187, 377), Obj and Confidence: no-mask 0.63
+Position: (157, 246), (313, 228), Obj and Confidence: no-mask 0.75
+Position: (422, 386), (578, 368), Obj and Confidence: no-mask 0.84
+Position: (818, 369), (974, 351), Obj and Confidence: no-mask 0.84
+Position: (629, 349), (785, 331), Obj and Confidence: no-mask 0.88
+Position: (1233, 351), (1389, 333), Obj and Confidence: no-mask 0.91
+Position: (81, 343), (195, 325), Obj and Confidence: mask 0.91
+Position: (292, 244), (448, 226), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-32: Position: (0, 228), (156, 210), Obj and Confidence: no-mask 0.40
+Position: (1031, 394), (1187, 376), Obj and Confidence: no-mask 0.67
+Position: (155, 246), (311, 228), Obj and Confidence: no-mask 0.72
+Position: (818, 368), (974, 350), Obj and Confidence: no-mask 0.83
+Position: (411, 381), (567, 363), Obj and Confidence: no-mask 0.86
+Position: (629, 348), (785, 330), Obj and Confidence: no-mask 0.89
+Position: (1227, 349), (1383, 331), Obj and Confidence: no-mask 0.91
+Position: (287, 245), (443, 227), Obj and Confidence: no-mask 0.93
+Position: (83, 343), (197, 325), Obj and Confidence: mask 0.93
+2024-01-23-16-39-32: Position: (562, 325), (718, 307), Obj and Confidence: no-mask 0.31
+Position: (0, 226), (114, 208), Obj and Confidence: mask 0.51
+Position: (1032, 396), (1188, 378), Obj and Confidence: no-mask 0.55
+Position: (155, 246), (311, 228), Obj and Confidence: no-mask 0.73
+Position: (814, 361), (970, 343), Obj and Confidence: no-mask 0.84
+Position: (631, 350), (787, 332), Obj and Confidence: no-mask 0.87
+Position: (1226, 350), (1382, 332), Obj and Confidence: no-mask 0.90
+Position: (405, 380), (561, 362), Obj and Confidence: no-mask 0.90
+Position: (281, 249), (437, 231), Obj and Confidence: no-mask 0.93
+Position: (84, 344), (198, 326), Obj and Confidence: mask 0.93
+2024-01-23-16-39-33: Position: (508, 374), (664, 356), Obj and Confidence: no-mask 0.47
+Position: (0, 225), (114, 207), Obj and Confidence: mask 0.62
+Position: (1032, 395), (1188, 377), Obj and Confidence: no-mask 0.70
+Position: (154, 246), (310, 228), Obj and Confidence: no-mask 0.75
+Position: (1252, 348), (1408, 330), Obj and Confidence: no-mask 0.82
+Position: (635, 350), (791, 332), Obj and Confidence: no-mask 0.83
+Position: (815, 364), (971, 346), Obj and Confidence: no-mask 0.84
+Position: (404, 379), (560, 361), Obj and Confidence: no-mask 0.90
+Position: (278, 249), (434, 231), Obj and Confidence: no-mask 0.93
+Position: (84, 343), (198, 325), Obj and Confidence: mask 0.94
+2024-01-23-16-39-33: Position: (575, 325), (731, 307), Obj and Confidence: no-mask 0.63
+Position: (0, 224), (156, 206), Obj and Confidence: no-mask 0.70
+Position: (1033, 393), (1189, 375), Obj and Confidence: no-mask 0.73
+Position: (154, 246), (310, 228), Obj and Confidence: no-mask 0.74
+Position: (639, 349), (795, 331), Obj and Confidence: no-mask 0.81
+Position: (817, 365), (973, 347), Obj and Confidence: no-mask 0.86
+Position: (406, 381), (562, 363), Obj and Confidence: no-mask 0.89
+Position: (277, 249), (433, 231), Obj and Confidence: no-mask 0.93
+Position: (84, 344), (198, 326), Obj and Confidence: mask 0.94
+2024-01-23-16-39-33: Position: (1031, 396), (1187, 378), Obj and Confidence: no-mask 0.37
+Position: (653, 336), (809, 318), Obj and Confidence: no-mask 0.40
+Position: (0, 225), (156, 207), Obj and Confidence: no-mask 0.64
+Position: (155, 246), (311, 228), Obj and Confidence: no-mask 0.74
+Position: (645, 351), (801, 333), Obj and Confidence: no-mask 0.83
+Position: (817, 367), (973, 349), Obj and Confidence: no-mask 0.85
+Position: (677, 333), (833, 315), Obj and Confidence: no-mask 0.87
+Position: (406, 381), (562, 363), Obj and Confidence: no-mask 0.90
+Position: (276, 250), (432, 232), Obj and Confidence: no-mask 0.93
+Position: (83, 345), (197, 327), Obj and Confidence: mask 0.93
+2024-01-23-16-39-33: Position: (794, 361), (950, 343), Obj and Confidence: no-mask 0.37
+Position: (154, 247), (310, 229), Obj and Confidence: no-mask 0.78
+Position: (820, 371), (976, 353), Obj and Confidence: no-mask 0.83
+Position: (647, 349), (803, 331), Obj and Confidence: no-mask 0.84
+Position: (700, 332), (856, 314), Obj and Confidence: no-mask 0.86
+Position: (405, 381), (561, 363), Obj and Confidence: no-mask 0.90
+Position: (275, 252), (431, 234), Obj and Confidence: no-mask 0.92
+Position: (77, 346), (191, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-39-34: Position: (1013, 397), (1169, 379), Obj and Confidence: no-mask 0.28
+Position: (642, 346), (798, 328), Obj and Confidence: no-mask 0.53
+Position: (153, 248), (309, 230), Obj and Confidence: no-mask 0.82
+Position: (820, 370), (976, 352), Obj and Confidence: no-mask 0.84
+Position: (783, 351), (939, 333), Obj and Confidence: no-mask 0.86
+Position: (701, 332), (857, 314), Obj and Confidence: no-mask 0.86
+Position: (1235, 205), (1391, 187), Obj and Confidence: no-mask 0.89
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.90
+Position: (581, 329), (695, 311), Obj and Confidence: mask 0.92
+Position: (274, 254), (430, 236), Obj and Confidence: no-mask 0.92
+Position: (75, 344), (189, 326), Obj and Confidence: mask 0.94
+2024-01-23-16-39-34: Position: (615, 345), (729, 327), Obj and Confidence: mask 0.37
+Position: (1008, 398), (1164, 380), Obj and Confidence: no-mask 0.57
+Position: (153, 247), (309, 229), Obj and Confidence: no-mask 0.83
+Position: (820, 369), (976, 351), Obj and Confidence: no-mask 0.85
+Position: (771, 344), (927, 326), Obj and Confidence: no-mask 0.86
+Position: (677, 331), (833, 313), Obj and Confidence: no-mask 0.87
+Position: (629, 351), (785, 333), Obj and Confidence: no-mask 0.89
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.90
+Position: (1177, 214), (1333, 196), Obj and Confidence: no-mask 0.91
+Position: (272, 253), (428, 235), Obj and Confidence: no-mask 0.92
+Position: (565, 331), (679, 313), Obj and Confidence: mask 0.93
+Position: (75, 344), (189, 326), Obj and Confidence: mask 0.94
+2024-01-23-16-39-34: Position: (1222, 251), (1378, 233), Obj and Confidence: no-mask 0.28
+Position: (346, 386), (502, 368), Obj and Confidence: no-mask 0.30
+Position: (791, 355), (947, 337), Obj and Confidence: no-mask 0.40
+Position: (1007, 401), (1163, 383), Obj and Confidence: no-mask 0.75
+Position: (821, 370), (977, 352), Obj and Confidence: no-mask 0.80
+Position: (153, 247), (309, 229), Obj and Confidence: no-mask 0.83
+Position: (1150, 224), (1306, 206), Obj and Confidence: no-mask 0.87
+Position: (628, 351), (784, 333), Obj and Confidence: no-mask 0.88
+Position: (769, 343), (925, 325), Obj and Confidence: no-mask 0.90
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.91
+Position: (271, 253), (427, 235), Obj and Confidence: no-mask 0.92
+Position: (76, 343), (190, 325), Obj and Confidence: mask 0.94
+Position: (544, 336), (658, 318), Obj and Confidence: mask 0.96
+2024-01-23-16-39-34: Position: (1006, 403), (1162, 385), Obj and Confidence: no-mask 0.63
+Position: (154, 247), (310, 229), Obj and Confidence: no-mask 0.83
+Position: (819, 369), (975, 351), Obj and Confidence: no-mask 0.84
+Position: (772, 342), (928, 324), Obj and Confidence: no-mask 0.86
+Position: (627, 351), (783, 333), Obj and Confidence: no-mask 0.89
+Position: (1139, 232), (1295, 214), Obj and Confidence: no-mask 0.92
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.92
+Position: (270, 253), (426, 235), Obj and Confidence: no-mask 0.92
+Position: (85, 347), (199, 329), Obj and Confidence: mask 0.94
+Position: (525, 331), (639, 313), Obj and Confidence: mask 0.96
+2024-01-23-16-39-35: Position: (1006, 401), (1162, 383), Obj and Confidence: no-mask 0.70
+Position: (154, 247), (310, 229), Obj and Confidence: no-mask 0.82
+Position: (818, 369), (974, 351), Obj and Confidence: no-mask 0.85
+Position: (772, 341), (928, 323), Obj and Confidence: no-mask 0.87
+Position: (626, 351), (782, 333), Obj and Confidence: no-mask 0.89
+Position: (86, 348), (200, 330), Obj and Confidence: mask 0.90
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.91
+Position: (1132, 236), (1288, 218), Obj and Confidence: no-mask 0.91
+Position: (270, 253), (426, 235), Obj and Confidence: no-mask 0.92
+Position: (513, 323), (627, 305), Obj and Confidence: mask 0.92
+2024-01-23-16-39-35: Position: (731, 376), (887, 358), Obj and Confidence: no-mask 0.39
+Position: (1007, 401), (1163, 383), Obj and Confidence: no-mask 0.70
+Position: (154, 246), (310, 228), Obj and Confidence: no-mask 0.81
+Position: (774, 342), (930, 324), Obj and Confidence: no-mask 0.85
+Position: (818, 369), (974, 351), Obj and Confidence: no-mask 0.86
+Position: (88, 348), (202, 330), Obj and Confidence: mask 0.90
+Position: (627, 350), (783, 332), Obj and Confidence: no-mask 0.91
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.91
+Position: (1137, 237), (1293, 219), Obj and Confidence: no-mask 0.91
+Position: (270, 254), (426, 236), Obj and Confidence: no-mask 0.92
+Position: (513, 318), (627, 300), Obj and Confidence: mask 0.95
+2024-01-23-16-39-35: Position: (1217, 271), (1373, 253), Obj and Confidence: no-mask 0.34
+Position: (730, 378), (886, 360), Obj and Confidence: no-mask 0.35
+Position: (663, 333), (819, 315), Obj and Confidence: no-mask 0.58
+Position: (1009, 397), (1165, 379), Obj and Confidence: no-mask 0.67
+Position: (155, 246), (311, 228), Obj and Confidence: no-mask 0.78
+Position: (777, 344), (933, 326), Obj and Confidence: no-mask 0.82
+Position: (818, 369), (974, 351), Obj and Confidence: no-mask 0.85
+Position: (404, 382), (560, 364), Obj and Confidence: no-mask 0.89
+Position: (627, 350), (783, 332), Obj and Confidence: no-mask 0.91
+Position: (91, 349), (205, 331), Obj and Confidence: mask 0.92
+Position: (272, 254), (428, 236), Obj and Confidence: no-mask 0.92
+Position: (1145, 233), (1301, 215), Obj and Confidence: no-mask 0.92
+Position: (504, 313), (618, 295), Obj and Confidence: mask 0.93
+2024-01-23-16-39-35: Position: (107, 354), (221, 336), Obj and Confidence: mask 0.46
+Position: (1012, 395), (1168, 377), Obj and Confidence: no-mask 0.68
+Position: (779, 348), (935, 330), Obj and Confidence: no-mask 0.82
+Position: (154, 247), (310, 229), Obj and Confidence: no-mask 0.83
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.83
+Position: (621, 353), (777, 335), Obj and Confidence: no-mask 0.86
+Position: (694, 330), (850, 312), Obj and Confidence: no-mask 0.87
+Position: (1, 220), (115, 202), Obj and Confidence: mask 0.88
+Position: (405, 381), (561, 363), Obj and Confidence: no-mask 0.90
+Position: (1174, 224), (1330, 206), Obj and Confidence: no-mask 0.92
+Position: (271, 254), (427, 236), Obj and Confidence: no-mask 0.92
+Position: (494, 308), (608, 290), Obj and Confidence: mask 0.95
+2024-01-23-16-39-36: Position: (1009, 397), (1165, 379), Obj and Confidence: no-mask 0.60
+Position: (819, 371), (975, 353), Obj and Confidence: no-mask 0.74
+Position: (152, 249), (308, 231), Obj and Confidence: no-mask 0.75
+Position: (780, 348), (936, 330), Obj and Confidence: no-mask 0.82
+Position: (695, 331), (851, 313), Obj and Confidence: no-mask 0.87
+Position: (607, 354), (763, 336), Obj and Confidence: no-mask 0.89
+Position: (405, 382), (561, 364), Obj and Confidence: no-mask 0.90
+Position: (1188, 221), (1344, 203), Obj and Confidence: no-mask 0.91
+Position: (67, 240), (181, 222), Obj and Confidence: mask 0.91
+Position: (272, 254), (428, 236), Obj and Confidence: no-mask 0.92
+Position: (488, 308), (602, 290), Obj and Confidence: mask 0.95
+2024-01-23-16-39-36: Position: (1008, 399), (1164, 381), Obj and Confidence: no-mask 0.71
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.76
+Position: (669, 334), (825, 316), Obj and Confidence: no-mask 0.81
+Position: (775, 348), (931, 330), Obj and Confidence: no-mask 0.84
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.87
+Position: (404, 381), (560, 363), Obj and Confidence: no-mask 0.89
+Position: (1186, 223), (1342, 205), Obj and Confidence: no-mask 0.91
+Position: (271, 254), (427, 236), Obj and Confidence: no-mask 0.92
+Position: (483, 303), (597, 285), Obj and Confidence: mask 0.93
+Position: (90, 255), (204, 237), Obj and Confidence: mask 0.93
+2024-01-23-16-39-36: Position: (774, 352), (930, 334), Obj and Confidence: no-mask 0.33
+Position: (1007, 400), (1163, 382), Obj and Confidence: no-mask 0.72
+Position: (821, 370), (977, 352), Obj and Confidence: no-mask 0.76
+Position: (771, 348), (927, 330), Obj and Confidence: no-mask 0.84
+Position: (588, 354), (744, 336), Obj and Confidence: no-mask 0.88
+Position: (1178, 228), (1334, 210), Obj and Confidence: no-mask 0.91
+Position: (405, 382), (561, 364), Obj and Confidence: no-mask 0.91
+Position: (270, 253), (426, 235), Obj and Confidence: no-mask 0.92
+Position: (490, 302), (604, 284), Obj and Confidence: mask 0.94
+Position: (103, 261), (217, 243), Obj and Confidence: mask 0.94
+2024-01-23-16-39-36: Position: (1010, 398), (1166, 380), Obj and Confidence: no-mask 0.65
+Position: (570, 346), (726, 328), Obj and Confidence: no-mask 0.77
+Position: (769, 347), (925, 329), Obj and Confidence: no-mask 0.84
+Position: (1177, 229), (1333, 211), Obj and Confidence: no-mask 0.91
+Position: (268, 253), (424, 235), Obj and Confidence: no-mask 0.91
+Position: (103, 259), (217, 241), Obj and Confidence: mask 0.92
+Position: (495, 299), (609, 281), Obj and Confidence: mask 0.96
+2024-01-23-16-39-37: Position: (1010, 398), (1166, 380), Obj and Confidence: no-mask 0.67
+Position: (264, 253), (378, 235), Obj and Confidence: mask 0.83
+Position: (644, 332), (800, 314), Obj and Confidence: no-mask 0.89
+Position: (1177, 229), (1333, 211), Obj and Confidence: no-mask 0.90
+Position: (102, 262), (216, 244), Obj and Confidence: mask 0.92
+Position: (508, 299), (622, 281), Obj and Confidence: mask 0.96
+2024-01-23-16-39-37: Position: (793, 363), (949, 345), Obj and Confidence: no-mask 0.30
+Position: (259, 254), (415, 236), Obj and Confidence: no-mask 0.53
+Position: (823, 370), (979, 352), Obj and Confidence: no-mask 0.59
+Position: (1010, 398), (1166, 380), Obj and Confidence: no-mask 0.65
+Position: (258, 257), (372, 239), Obj and Confidence: mask 0.83
+Position: (680, 333), (836, 315), Obj and Confidence: no-mask 0.85
+Position: (1179, 228), (1335, 210), Obj and Confidence: no-mask 0.89
+Position: (102, 263), (216, 245), Obj and Confidence: mask 0.93
+Position: (511, 299), (625, 281), Obj and Confidence: mask 0.96
+2024-01-23-16-39-37: Position: (781, 352), (937, 334), Obj and Confidence: no-mask 0.28
+Position: (769, 346), (925, 328), Obj and Confidence: no-mask 0.29
+Position: (259, 255), (415, 237), Obj and Confidence: no-mask 0.51
+Position: (796, 362), (952, 344), Obj and Confidence: no-mask 0.51
+Position: (1010, 398), (1166, 380), Obj and Confidence: no-mask 0.63
+Position: (822, 371), (978, 353), Obj and Confidence: no-mask 0.80
+Position: (258, 257), (372, 239), Obj and Confidence: mask 0.86
+Position: (708, 331), (864, 313), Obj and Confidence: no-mask 0.89
+Position: (1182, 226), (1338, 208), Obj and Confidence: no-mask 0.89
+Position: (101, 261), (215, 243), Obj and Confidence: mask 0.93
+Position: (509, 298), (623, 280), Obj and Confidence: mask 0.96
+2024-01-23-16-39-37: Position: (783, 353), (939, 335), Obj and Confidence: no-mask 0.30
+Position: (770, 344), (926, 326), Obj and Confidence: no-mask 0.33
+Position: (795, 364), (951, 346), Obj and Confidence: no-mask 0.51
+Position: (259, 255), (415, 237), Obj and Confidence: no-mask 0.55
+Position: (1009, 398), (1165, 380), Obj and Confidence: no-mask 0.68
+Position: (259, 257), (373, 239), Obj and Confidence: mask 0.79
+Position: (820, 370), (976, 352), Obj and Confidence: no-mask 0.85
+Position: (710, 332), (866, 314), Obj and Confidence: no-mask 0.88
+Position: (1181, 227), (1337, 209), Obj and Confidence: no-mask 0.88
+Position: (98, 259), (212, 241), Obj and Confidence: mask 0.92
+Position: (508, 298), (622, 280), Obj and Confidence: mask 0.96
+2024-01-23-16-39-38: Position: (795, 366), (951, 348), Obj and Confidence: no-mask 0.34
+Position: (770, 346), (926, 328), Obj and Confidence: no-mask 0.56
+Position: (1010, 399), (1166, 381), Obj and Confidence: no-mask 0.64
+Position: (819, 369), (975, 351), Obj and Confidence: no-mask 0.86
+Position: (687, 332), (843, 314), Obj and Confidence: no-mask 0.86
+Position: (261, 256), (375, 238), Obj and Confidence: mask 0.88
+Position: (99, 258), (213, 240), Obj and Confidence: mask 0.90
+Position: (1175, 231), (1331, 213), Obj and Confidence: no-mask 0.91
+Position: (508, 298), (622, 280), Obj and Confidence: mask 0.96
+2024-01-23-16-39-38: Position: (798, 368), (954, 350), Obj and Confidence: no-mask 0.29
+Position: (770, 348), (926, 330), Obj and Confidence: no-mask 0.54
+Position: (1010, 398), (1166, 380), Obj and Confidence: no-mask 0.67
+Position: (647, 334), (803, 316), Obj and Confidence: no-mask 0.82
+Position: (820, 370), (976, 352), Obj and Confidence: no-mask 0.84
+Position: (98, 255), (212, 237), Obj and Confidence: mask 0.89
+Position: (262, 253), (376, 235), Obj and Confidence: mask 0.91
+Position: (1159, 234), (1315, 216), Obj and Confidence: no-mask 0.93
+Position: (508, 298), (622, 280), Obj and Confidence: mask 0.96
+2024-01-23-16-39-38: Position: (770, 346), (926, 328), Obj and Confidence: no-mask 0.49
+Position: (1014, 396), (1170, 378), Obj and Confidence: no-mask 0.62
+Position: (151, 249), (307, 231), Obj and Confidence: no-mask 0.74
+Position: (613, 332), (769, 314), Obj and Confidence: no-mask 0.82
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.84
+Position: (80, 245), (194, 227), Obj and Confidence: mask 0.90
+Position: (1149, 237), (1305, 219), Obj and Confidence: no-mask 0.90
+Position: (270, 253), (426, 235), Obj and Confidence: no-mask 0.92
+Position: (500, 304), (614, 286), Obj and Confidence: mask 0.93
+2024-01-23-16-39-38: Position: (607, 334), (763, 316), Obj and Confidence: no-mask 0.36
+Position: (1019, 392), (1175, 374), Obj and Confidence: no-mask 0.50
+Position: (771, 347), (927, 329), Obj and Confidence: no-mask 0.63
+Position: (405, 382), (561, 364), Obj and Confidence: no-mask 0.81
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.84
+Position: (151, 250), (307, 232), Obj and Confidence: no-mask 0.87
+Position: (1145, 241), (1301, 223), Obj and Confidence: no-mask 0.91
+Position: (41, 230), (155, 212), Obj and Confidence: mask 0.92
+Position: (272, 254), (428, 236), Obj and Confidence: no-mask 0.92
+Position: (503, 315), (617, 297), Obj and Confidence: mask 0.96
+2024-01-23-16-39-39: Position: (788, 363), (944, 345), Obj and Confidence: no-mask 0.26
+Position: (795, 371), (951, 353), Obj and Confidence: no-mask 0.33
+Position: (1020, 390), (1176, 372), Obj and Confidence: no-mask 0.64
+Position: (770, 347), (926, 329), Obj and Confidence: no-mask 0.68
+Position: (1230, 402), (1386, 384), Obj and Confidence: no-mask 0.79
+Position: (154, 249), (310, 231), Obj and Confidence: no-mask 0.82
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.84
+Position: (626, 333), (782, 315), Obj and Confidence: no-mask 0.85
+Position: (406, 383), (562, 365), Obj and Confidence: no-mask 0.90
+Position: (504, 321), (618, 303), Obj and Confidence: mask 0.91
+Position: (1148, 238), (1304, 220), Obj and Confidence: no-mask 0.91
+Position: (273, 256), (429, 238), Obj and Confidence: no-mask 0.93
+Position: (0, 219), (114, 201), Obj and Confidence: mask 0.95
+2024-01-23-16-39-39: Position: (1021, 390), (1177, 372), Obj and Confidence: no-mask 0.54
+Position: (770, 347), (926, 329), Obj and Confidence: no-mask 0.62
+Position: (523, 347), (637, 329), Obj and Confidence: mask 0.69
+Position: (1196, 419), (1352, 401), Obj and Confidence: no-mask 0.75
+Position: (0, 231), (114, 213), Obj and Confidence: mask 0.78
+Position: (154, 247), (310, 229), Obj and Confidence: no-mask 0.82
+Position: (821, 371), (977, 353), Obj and Confidence: no-mask 0.83
+Position: (662, 334), (818, 316), Obj and Confidence: no-mask 0.87
+Position: (406, 382), (562, 364), Obj and Confidence: no-mask 0.89
+Position: (273, 256), (429, 238), Obj and Confidence: no-mask 0.93
+Position: (1156, 233), (1312, 215), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-39: Position: (510, 368), (666, 350), Obj and Confidence: no-mask 0.27
+Position: (770, 346), (926, 328), Obj and Confidence: no-mask 0.52
+Position: (1182, 434), (1338, 416), Obj and Confidence: no-mask 0.53
+Position: (1021, 389), (1177, 371), Obj and Confidence: no-mask 0.54
+Position: (592, 345), (748, 327), Obj and Confidence: no-mask 0.75
+Position: (155, 246), (311, 228), Obj and Confidence: no-mask 0.78
+Position: (821, 370), (977, 352), Obj and Confidence: no-mask 0.81
+Position: (696, 332), (852, 314), Obj and Confidence: no-mask 0.88
+Position: (406, 383), (562, 365), Obj and Confidence: no-mask 0.89
+Position: (1162, 232), (1318, 214), Obj and Confidence: no-mask 0.92
+Position: (275, 255), (431, 237), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-40: Position: (737, 363), (893, 345), Obj and Confidence: no-mask 0.36
+Position: (1021, 390), (1177, 372), Obj and Confidence: no-mask 0.51
+Position: (769, 346), (925, 328), Obj and Confidence: no-mask 0.52
+Position: (820, 370), (976, 352), Obj and Confidence: no-mask 0.82
+Position: (159, 245), (315, 227), Obj and Confidence: no-mask 0.85
+Position: (702, 333), (858, 315), Obj and Confidence: no-mask 0.86
+Position: (406, 383), (562, 365), Obj and Confidence: no-mask 0.89
+Position: (589, 348), (745, 330), Obj and Confidence: no-mask 0.89
+Position: (1162, 232), (1318, 214), Obj and Confidence: no-mask 0.91
+Position: (276, 254), (432, 236), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-40: Position: (773, 350), (929, 332), Obj and Confidence: no-mask 0.30
+Position: (1022, 390), (1178, 372), Obj and Confidence: no-mask 0.43
+Position: (164, 247), (320, 229), Obj and Confidence: no-mask 0.76
+Position: (819, 369), (975, 351), Obj and Confidence: no-mask 0.83
+Position: (680, 334), (836, 316), Obj and Confidence: no-mask 0.87
+Position: (597, 346), (753, 328), Obj and Confidence: no-mask 0.90
+Position: (1163, 231), (1319, 213), Obj and Confidence: no-mask 0.91
+Position: (282, 258), (438, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-40: Position: (1022, 389), (1178, 371), Obj and Confidence: no-mask 0.63
+Position: (154, 241), (310, 223), Obj and Confidence: no-mask 0.69
+Position: (0, 243), (156, 225), Obj and Confidence: no-mask 0.71
+Position: (820, 369), (976, 351), Obj and Confidence: no-mask 0.81
+Position: (770, 349), (926, 331), Obj and Confidence: no-mask 0.83
+Position: (599, 348), (755, 330), Obj and Confidence: no-mask 0.88
+Position: (642, 334), (798, 316), Obj and Confidence: no-mask 0.89
+Position: (1163, 231), (1319, 213), Obj and Confidence: no-mask 0.91
+Position: (297, 263), (453, 245), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-40: Position: (1023, 389), (1179, 371), Obj and Confidence: no-mask 0.67
+Position: (1216, 417), (1372, 399), Obj and Confidence: no-mask 0.68
+Position: (136, 242), (292, 224), Obj and Confidence: no-mask 0.75
+Position: (765, 350), (921, 332), Obj and Confidence: no-mask 0.84
+Position: (818, 370), (974, 352), Obj and Confidence: no-mask 0.85
+Position: (21, 272), (135, 254), Obj and Confidence: mask 0.88
+Position: (599, 349), (755, 331), Obj and Confidence: no-mask 0.88
+Position: (406, 382), (562, 364), Obj and Confidence: no-mask 0.89
+Position: (1163, 232), (1319, 214), Obj and Confidence: no-mask 0.90
+Position: (465, 328), (579, 310), Obj and Confidence: mask 0.92
+Position: (307, 266), (463, 248), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-41: Position: (1022, 390), (1178, 372), Obj and Confidence: no-mask 0.52
+Position: (55, 308), (211, 290), Obj and Confidence: no-mask 0.56
+Position: (114, 240), (270, 222), Obj and Confidence: no-mask 0.77
+Position: (816, 369), (972, 351), Obj and Confidence: no-mask 0.82
+Position: (768, 348), (924, 330), Obj and Confidence: no-mask 0.84
+Position: (405, 383), (561, 365), Obj and Confidence: no-mask 0.87
+Position: (600, 348), (756, 330), Obj and Confidence: no-mask 0.89
+Position: (1168, 234), (1324, 216), Obj and Confidence: no-mask 0.89
+Position: (488, 313), (602, 295), Obj and Confidence: mask 0.91
+Position: (309, 264), (465, 246), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-41: Position: (1023, 390), (1179, 372), Obj and Confidence: no-mask 0.60
+Position: (88, 240), (244, 222), Obj and Confidence: no-mask 0.83
+Position: (815, 370), (971, 352), Obj and Confidence: no-mask 0.83
+Position: (1184, 228), (1340, 210), Obj and Confidence: no-mask 0.84
+Position: (341, 375), (497, 357), Obj and Confidence: no-mask 0.85
+Position: (404, 383), (560, 365), Obj and Confidence: no-mask 0.86
+Position: (769, 346), (925, 328), Obj and Confidence: no-mask 0.88
+Position: (66, 337), (222, 319), Obj and Confidence: no-mask 0.89
+Position: (603, 348), (759, 330), Obj and Confidence: no-mask 0.89
+Position: (294, 255), (450, 237), Obj and Confidence: no-mask 0.92
+Position: (490, 317), (604, 299), Obj and Confidence: mask 0.96
+2024-01-23-16-39-41: Position: (795, 358), (951, 340), Obj and Confidence: no-mask 0.35
+Position: (1023, 390), (1179, 372), Obj and Confidence: no-mask 0.55
+Position: (816, 370), (972, 352), Obj and Confidence: no-mask 0.84
+Position: (67, 240), (223, 222), Obj and Confidence: no-mask 0.86
+Position: (347, 375), (503, 357), Obj and Confidence: no-mask 0.87
+Position: (405, 384), (561, 366), Obj and Confidence: no-mask 0.87
+Position: (770, 347), (926, 329), Obj and Confidence: no-mask 0.87
+Position: (604, 351), (760, 333), Obj and Confidence: no-mask 0.88
+Position: (654, 333), (810, 315), Obj and Confidence: no-mask 0.88
+Position: (96, 360), (252, 342), Obj and Confidence: no-mask 0.90
+Position: (1219, 220), (1375, 202), Obj and Confidence: no-mask 0.90
+Position: (289, 254), (445, 236), Obj and Confidence: no-mask 0.92
+Position: (490, 322), (604, 304), Obj and Confidence: mask 0.94
+2024-01-23-16-39-41: Position: (785, 354), (941, 336), Obj and Confidence: no-mask 0.33
+Position: (1269, 222), (1425, 204), Obj and Confidence: no-mask 0.48
+Position: (104, 379), (260, 361), Obj and Confidence: no-mask 0.61
+Position: (1023, 390), (1179, 372), Obj and Confidence: no-mask 0.63
+Position: (772, 348), (928, 330), Obj and Confidence: no-mask 0.83
+Position: (815, 369), (971, 351), Obj and Confidence: no-mask 0.86
+Position: (286, 256), (442, 238), Obj and Confidence: no-mask 0.87
+Position: (688, 330), (844, 312), Obj and Confidence: no-mask 0.87
+Position: (346, 375), (502, 357), Obj and Confidence: no-mask 0.87
+Position: (405, 382), (561, 364), Obj and Confidence: no-mask 0.88
+Position: (60, 237), (216, 219), Obj and Confidence: no-mask 0.89
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.89
+Position: (494, 321), (608, 303), Obj and Confidence: mask 0.94
+2024-01-23-16-39-42: Position: (103, 376), (259, 358), Obj and Confidence: no-mask 0.56
+Position: (1023, 390), (1179, 372), Obj and Confidence: no-mask 0.63
+Position: (1221, 275), (1335, 257), Obj and Confidence: mask 0.69
+Position: (403, 382), (559, 364), Obj and Confidence: no-mask 0.82
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.85
+Position: (346, 374), (502, 356), Obj and Confidence: no-mask 0.86
+Position: (769, 346), (925, 328), Obj and Confidence: no-mask 0.86
+Position: (697, 330), (853, 312), Obj and Confidence: no-mask 0.88
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.90
+Position: (60, 238), (216, 220), Obj and Confidence: no-mask 0.90
+Position: (283, 258), (439, 240), Obj and Confidence: no-mask 0.92
+Position: (507, 320), (621, 302), Obj and Confidence: mask 0.94
+2024-01-23-16-39-42: Position: (798, 358), (954, 340), Obj and Confidence: no-mask 0.32
+Position: (771, 347), (927, 329), Obj and Confidence: no-mask 0.47
+Position: (1023, 391), (1179, 373), Obj and Confidence: no-mask 0.57
+Position: (103, 374), (259, 356), Obj and Confidence: no-mask 0.60
+Position: (771, 346), (885, 328), Obj and Confidence: mask 0.67
+Position: (1252, 223), (1408, 205), Obj and Confidence: no-mask 0.79
+Position: (402, 383), (558, 365), Obj and Confidence: no-mask 0.85
+Position: (62, 244), (218, 226), Obj and Confidence: no-mask 0.85
+Position: (681, 333), (837, 315), Obj and Confidence: no-mask 0.86
+Position: (818, 369), (974, 351), Obj and Confidence: no-mask 0.88
+Position: (360, 373), (516, 355), Obj and Confidence: no-mask 0.89
+Position: (605, 351), (761, 333), Obj and Confidence: no-mask 0.89
+Position: (282, 260), (438, 242), Obj and Confidence: no-mask 0.93
+Position: (509, 309), (623, 291), Obj and Confidence: mask 0.96
+2024-01-23-16-39-42: Position: (377, 376), (533, 358), Obj and Confidence: no-mask 0.26
+Position: (772, 348), (928, 330), Obj and Confidence: no-mask 0.48
+Position: (1023, 390), (1179, 372), Obj and Confidence: no-mask 0.56
+Position: (773, 347), (887, 329), Obj and Confidence: mask 0.71
+Position: (821, 370), (977, 352), Obj and Confidence: no-mask 0.80
+Position: (647, 334), (803, 316), Obj and Confidence: no-mask 0.81
+Position: (371, 373), (527, 355), Obj and Confidence: no-mask 0.83
+Position: (403, 382), (559, 364), Obj and Confidence: no-mask 0.85
+Position: (68, 249), (224, 231), Obj and Confidence: no-mask 0.85
+Position: (92, 366), (248, 348), Obj and Confidence: no-mask 0.87
+Position: (1241, 226), (1397, 208), Obj and Confidence: no-mask 0.88
+Position: (606, 349), (762, 331), Obj and Confidence: no-mask 0.89
+Position: (278, 260), (434, 242), Obj and Confidence: no-mask 0.93
+Position: (506, 304), (620, 286), Obj and Confidence: mask 0.95
+2024-01-23-16-39-43: Position: (777, 351), (891, 333), Obj and Confidence: mask 0.26
+Position: (777, 350), (933, 332), Obj and Confidence: no-mask 0.42
+Position: (403, 381), (559, 363), Obj and Confidence: no-mask 0.63
+Position: (1024, 390), (1180, 372), Obj and Confidence: no-mask 0.69
+Position: (820, 371), (976, 353), Obj and Confidence: no-mask 0.76
+Position: (377, 374), (533, 356), Obj and Confidence: no-mask 0.82
+Position: (77, 256), (233, 238), Obj and Confidence: no-mask 0.82
+Position: (1243, 226), (1399, 208), Obj and Confidence: no-mask 0.86
+Position: (605, 349), (761, 331), Obj and Confidence: no-mask 0.90
+Position: (82, 355), (238, 337), Obj and Confidence: no-mask 0.90
+Position: (278, 260), (434, 242), Obj and Confidence: no-mask 0.93
+Position: (493, 306), (607, 288), Obj and Confidence: mask 0.95
+2024-01-23-16-39-43: Position: (1024, 390), (1180, 372), Obj and Confidence: no-mask 0.58
+Position: (785, 350), (941, 332), Obj and Confidence: no-mask 0.70
+Position: (818, 371), (974, 353), Obj and Confidence: no-mask 0.76
+Position: (1249, 223), (1405, 205), Obj and Confidence: no-mask 0.81
+Position: (83, 262), (239, 244), Obj and Confidence: no-mask 0.83
+Position: (379, 374), (535, 356), Obj and Confidence: no-mask 0.84
+Position: (50, 356), (206, 338), Obj and Confidence: no-mask 0.89
+Position: (603, 350), (759, 332), Obj and Confidence: no-mask 0.89
+Position: (489, 307), (603, 289), Obj and Confidence: mask 0.90
+Position: (279, 260), (435, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-43: Position: (1024, 391), (1180, 373), Obj and Confidence: no-mask 0.41
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.53
+Position: (91, 265), (247, 247), Obj and Confidence: no-mask 0.72
+Position: (1253, 222), (1409, 204), Obj and Confidence: no-mask 0.81
+Position: (376, 374), (532, 356), Obj and Confidence: no-mask 0.87
+Position: (2, 368), (158, 350), Obj and Confidence: no-mask 0.89
+Position: (603, 350), (759, 332), Obj and Confidence: no-mask 0.90
+Position: (280, 258), (436, 240), Obj and Confidence: no-mask 0.92
+Position: (493, 308), (607, 290), Obj and Confidence: mask 0.93
+2024-01-23-16-39-43: Position: (791, 356), (947, 338), Obj and Confidence: no-mask 0.35
+Position: (1025, 391), (1181, 373), Obj and Confidence: no-mask 0.54
+Position: (111, 263), (267, 245), Obj and Confidence: no-mask 0.71
+Position: (819, 372), (975, 354), Obj and Confidence: no-mask 0.73
+Position: (0, 359), (156, 341), Obj and Confidence: no-mask 0.75
+Position: (1257, 221), (1413, 203), Obj and Confidence: no-mask 0.80
+Position: (657, 337), (813, 319), Obj and Confidence: no-mask 0.87
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.88
+Position: (292, 252), (448, 234), Obj and Confidence: no-mask 0.92
+Position: (487, 302), (601, 284), Obj and Confidence: mask 0.93
+Position: (167, 352), (281, 334), Obj and Confidence: mask 0.95
+2024-01-23-16-39-44: Position: (808, 362), (964, 344), Obj and Confidence: no-mask 0.35
+Position: (1025, 392), (1181, 374), Obj and Confidence: no-mask 0.55
+Position: (129, 264), (285, 246), Obj and Confidence: no-mask 0.67
+Position: (786, 352), (942, 334), Obj and Confidence: no-mask 0.70
+Position: (1260, 219), (1416, 201), Obj and Confidence: no-mask 0.75
+Position: (0, 361), (156, 343), Obj and Confidence: no-mask 0.77
+Position: (817, 370), (973, 352), Obj and Confidence: no-mask 0.80
+Position: (686, 331), (842, 313), Obj and Confidence: no-mask 0.88
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.90
+Position: (311, 252), (467, 234), Obj and Confidence: no-mask 0.92
+Position: (468, 301), (582, 283), Obj and Confidence: mask 0.93
+Position: (164, 353), (278, 335), Obj and Confidence: mask 0.95
+2024-01-23-16-39-44: Position: (822, 372), (978, 354), Obj and Confidence: no-mask 0.41
+Position: (1024, 392), (1180, 374), Obj and Confidence: no-mask 0.50
+Position: (1263, 219), (1419, 201), Obj and Confidence: no-mask 0.61
+Position: (143, 265), (299, 247), Obj and Confidence: no-mask 0.67
+Position: (5, 352), (161, 334), Obj and Confidence: no-mask 0.87
+Position: (604, 349), (760, 331), Obj and Confidence: no-mask 0.90
+Position: (694, 332), (850, 314), Obj and Confidence: no-mask 0.91
+Position: (307, 257), (463, 239), Obj and Confidence: no-mask 0.92
+Position: (458, 301), (572, 283), Obj and Confidence: mask 0.94
+Position: (164, 351), (278, 333), Obj and Confidence: mask 0.96
+2024-01-23-16-39-44: Position: (1264, 221), (1420, 203), Obj and Confidence: no-mask 0.57
+Position: (1024, 391), (1180, 373), Obj and Confidence: no-mask 0.59
+Position: (826, 371), (982, 353), Obj and Confidence: no-mask 0.68
+Position: (156, 268), (312, 250), Obj and Confidence: no-mask 0.72
+Position: (791, 359), (947, 341), Obj and Confidence: no-mask 0.73
+Position: (11, 348), (167, 330), Obj and Confidence: no-mask 0.88
+Position: (603, 350), (759, 332), Obj and Confidence: no-mask 0.90
+Position: (675, 332), (831, 314), Obj and Confidence: no-mask 0.90
+Position: (293, 257), (449, 239), Obj and Confidence: no-mask 0.92
+Position: (468, 299), (582, 281), Obj and Confidence: mask 0.93
+Position: (164, 352), (278, 334), Obj and Confidence: mask 0.93
+2024-01-23-16-39-44: Position: (1024, 392), (1180, 374), Obj and Confidence: no-mask 0.42
+Position: (1264, 216), (1420, 198), Obj and Confidence: no-mask 0.50
+Position: (821, 369), (977, 351), Obj and Confidence: no-mask 0.56
+Position: (636, 334), (792, 316), Obj and Confidence: no-mask 0.73
+Position: (603, 349), (759, 331), Obj and Confidence: no-mask 0.86
+Position: (164, 266), (320, 248), Obj and Confidence: no-mask 0.87
+Position: (4, 349), (160, 331), Obj and Confidence: no-mask 0.87
+Position: (790, 353), (946, 335), Obj and Confidence: no-mask 0.88
+Position: (162, 351), (276, 333), Obj and Confidence: mask 0.92
+Position: (463, 297), (577, 279), Obj and Confidence: mask 0.92
+Position: (288, 261), (444, 243), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-45: Position: (822, 372), (978, 354), Obj and Confidence: no-mask 0.27
+Position: (1230, 239), (1344, 221), Obj and Confidence: mask 0.38
+Position: (1025, 392), (1181, 374), Obj and Confidence: no-mask 0.39
+Position: (797, 353), (953, 335), Obj and Confidence: no-mask 0.68
+Position: (168, 267), (324, 249), Obj and Confidence: no-mask 0.87
+Position: (5, 350), (161, 332), Obj and Confidence: no-mask 0.87
+Position: (603, 349), (759, 331), Obj and Confidence: no-mask 0.90
+Position: (148, 343), (262, 325), Obj and Confidence: mask 0.93
+Position: (457, 286), (571, 268), Obj and Confidence: mask 0.93
+Position: (278, 260), (434, 242), Obj and Confidence: no-mask 0.95
+2024-01-23-16-39-45: Position: (798, 357), (954, 339), Obj and Confidence: no-mask 0.45
+Position: (1026, 392), (1182, 374), Obj and Confidence: no-mask 0.45
+Position: (172, 271), (328, 253), Obj and Confidence: no-mask 0.63
+Position: (5, 352), (161, 334), Obj and Confidence: no-mask 0.87
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.89
+Position: (270, 252), (426, 234), Obj and Confidence: no-mask 0.93
+Position: (459, 267), (573, 249), Obj and Confidence: mask 0.94
+Position: (126, 339), (240, 321), Obj and Confidence: mask 0.95
+2024-01-23-16-39-45: Position: (1026, 392), (1182, 374), Obj and Confidence: no-mask 0.44
+Position: (824, 372), (980, 354), Obj and Confidence: no-mask 0.52
+Position: (795, 353), (951, 335), Obj and Confidence: no-mask 0.77
+Position: (7, 351), (163, 333), Obj and Confidence: no-mask 0.87
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.88
+Position: (176, 271), (332, 253), Obj and Confidence: no-mask 0.88
+Position: (104, 337), (218, 319), Obj and Confidence: mask 0.92
+Position: (275, 263), (431, 245), Obj and Confidence: no-mask 0.94
+Position: (458, 266), (572, 248), Obj and Confidence: mask 0.96
+2024-01-23-16-39-46: Position: (1026, 392), (1182, 374), Obj and Confidence: no-mask 0.37
+Position: (825, 370), (981, 352), Obj and Confidence: no-mask 0.53
+Position: (289, 292), (445, 274), Obj and Confidence: no-mask 0.68
+Position: (796, 353), (952, 335), Obj and Confidence: no-mask 0.74
+Position: (169, 271), (325, 253), Obj and Confidence: no-mask 0.81
+Position: (1254, 220), (1410, 202), Obj and Confidence: no-mask 0.81
+Position: (682, 334), (838, 316), Obj and Confidence: no-mask 0.86
+Position: (13, 348), (169, 330), Obj and Confidence: no-mask 0.88
+Position: (604, 351), (760, 333), Obj and Confidence: no-mask 0.90
+Position: (89, 336), (203, 318), Obj and Confidence: mask 0.93
+Position: (476, 294), (590, 276), Obj and Confidence: mask 0.94
+2024-01-23-16-39-46: Position: (1027, 393), (1183, 375), Obj and Confidence: no-mask 0.27
+Position: (797, 353), (953, 335), Obj and Confidence: no-mask 0.58
+Position: (1194, 222), (1350, 204), Obj and Confidence: no-mask 0.60
+Position: (142, 266), (298, 248), Obj and Confidence: no-mask 0.71
+Position: (711, 333), (867, 315), Obj and Confidence: no-mask 0.83
+Position: (21, 350), (177, 332), Obj and Confidence: no-mask 0.89
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.89
+Position: (103, 339), (217, 321), Obj and Confidence: mask 0.94
+Position: (502, 298), (616, 280), Obj and Confidence: mask 0.94
+2024-01-23-16-39-46: Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.31
+Position: (298, 309), (454, 291), Obj and Confidence: no-mask 0.34
+Position: (376, 378), (532, 360), Obj and Confidence: no-mask 0.41
+Position: (798, 354), (954, 336), Obj and Confidence: no-mask 0.44
+Position: (707, 336), (863, 318), Obj and Confidence: no-mask 0.73
+Position: (117, 264), (273, 246), Obj and Confidence: no-mask 0.81
+Position: (20, 350), (176, 332), Obj and Confidence: no-mask 0.88
+Position: (1161, 241), (1317, 223), Obj and Confidence: no-mask 0.89
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.89
+Position: (114, 340), (228, 322), Obj and Confidence: mask 0.96
+Position: (505, 299), (619, 281), Obj and Confidence: mask 0.97
+2024-01-23-16-39-46: Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.35
+Position: (798, 354), (954, 336), Obj and Confidence: no-mask 0.61
+Position: (378, 374), (534, 356), Obj and Confidence: no-mask 0.79
+Position: (1184, 229), (1340, 211), Obj and Confidence: no-mask 0.83
+Position: (99, 262), (255, 244), Obj and Confidence: no-mask 0.85
+Position: (659, 335), (815, 317), Obj and Confidence: no-mask 0.86
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.88
+Position: (18, 348), (174, 330), Obj and Confidence: no-mask 0.88
+Position: (119, 341), (233, 323), Obj and Confidence: mask 0.94
+Position: (502, 301), (616, 283), Obj and Confidence: mask 0.94
+2024-01-23-16-39-47: Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.28
+Position: (376, 377), (532, 359), Obj and Confidence: no-mask 0.55
+Position: (91, 258), (247, 240), Obj and Confidence: no-mask 0.81
+Position: (5, 337), (161, 319), Obj and Confidence: no-mask 0.84
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.88
+Position: (1227, 216), (1383, 198), Obj and Confidence: no-mask 0.92
+Position: (117, 342), (231, 324), Obj and Confidence: mask 0.95
+Position: (489, 302), (603, 284), Obj and Confidence: mask 0.96
+2024-01-23-16-39-47: Position: (375, 375), (489, 357), Obj and Confidence: mask 0.34
+Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.37
+Position: (785, 350), (899, 332), Obj and Confidence: mask 0.40
+Position: (375, 376), (531, 358), Obj and Confidence: no-mask 0.45
+Position: (785, 351), (941, 333), Obj and Confidence: no-mask 0.67
+Position: (1253, 215), (1409, 197), Obj and Confidence: no-mask 0.81
+Position: (1, 337), (115, 319), Obj and Confidence: mask 0.84
+Position: (604, 350), (760, 332), Obj and Confidence: no-mask 0.87
+Position: (96, 254), (252, 236), Obj and Confidence: no-mask 0.89
+Position: (112, 342), (226, 324), Obj and Confidence: mask 0.96
+Position: (474, 302), (588, 284), Obj and Confidence: mask 0.96
+2024-01-23-16-39-47: Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.37
+Position: (821, 377), (977, 359), Obj and Confidence: no-mask 0.55
+Position: (376, 376), (532, 358), Obj and Confidence: no-mask 0.67
+Position: (777, 351), (933, 333), Obj and Confidence: no-mask 0.77
+Position: (104, 252), (260, 234), Obj and Confidence: no-mask 0.82
+Position: (664, 334), (820, 316), Obj and Confidence: no-mask 0.85
+Position: (7, 342), (163, 324), Obj and Confidence: no-mask 0.86
+Position: (1203, 223), (1359, 205), Obj and Confidence: no-mask 0.87
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.89
+Position: (471, 302), (585, 284), Obj and Confidence: mask 0.94
+Position: (110, 341), (224, 323), Obj and Confidence: mask 0.95
+2024-01-23-16-39-47: Position: (380, 379), (494, 361), Obj and Confidence: mask 0.35
+Position: (777, 361), (933, 343), Obj and Confidence: no-mask 0.36
+Position: (1025, 394), (1181, 376), Obj and Confidence: no-mask 0.40
+Position: (7, 347), (121, 329), Obj and Confidence: mask 0.45
+Position: (812, 373), (968, 355), Obj and Confidence: no-mask 0.56
+Position: (110, 249), (266, 231), Obj and Confidence: no-mask 0.72
+Position: (8, 346), (164, 328), Obj and Confidence: no-mask 0.78
+Position: (1168, 245), (1324, 227), Obj and Confidence: no-mask 0.83
+Position: (691, 331), (847, 313), Obj and Confidence: no-mask 0.88
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.89
+Position: (470, 303), (584, 285), Obj and Confidence: mask 0.92
+Position: (112, 341), (226, 323), Obj and Confidence: mask 0.95
+2024-01-23-16-39-48: Position: (382, 382), (496, 364), Obj and Confidence: mask 0.31
+Position: (772, 360), (928, 342), Obj and Confidence: no-mask 0.51
+Position: (817, 379), (973, 361), Obj and Confidence: no-mask 0.54
+Position: (1024, 394), (1180, 376), Obj and Confidence: no-mask 0.54
+Position: (23, 344), (137, 326), Obj and Confidence: mask 0.73
+Position: (101, 245), (257, 227), Obj and Confidence: no-mask 0.80
+Position: (1209, 226), (1365, 208), Obj and Confidence: no-mask 0.82
+Position: (690, 332), (846, 314), Obj and Confidence: no-mask 0.88
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.89
+Position: (468, 302), (582, 284), Obj and Confidence: mask 0.91
+Position: (113, 343), (227, 325), Obj and Confidence: mask 0.95
+2024-01-23-16-39-48: Position: (1025, 394), (1181, 376), Obj and Confidence: no-mask 0.61
+Position: (24, 343), (180, 325), Obj and Confidence: no-mask 0.64
+Position: (1263, 215), (1419, 197), Obj and Confidence: no-mask 0.67
+Position: (767, 355), (923, 337), Obj and Confidence: no-mask 0.72
+Position: (823, 378), (979, 360), Obj and Confidence: no-mask 0.80
+Position: (71, 241), (227, 223), Obj and Confidence: no-mask 0.80
+Position: (378, 389), (492, 371), Obj and Confidence: mask 0.80
+Position: (660, 333), (816, 315), Obj and Confidence: no-mask 0.87
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.88
+Position: (469, 304), (583, 286), Obj and Confidence: mask 0.91
+Position: (112, 343), (226, 325), Obj and Confidence: mask 0.94
+2024-01-23-16-39-48: Position: (22, 342), (136, 324), Obj and Confidence: mask 0.32
+Position: (1025, 394), (1181, 376), Obj and Confidence: no-mask 0.38
+Position: (765, 357), (921, 339), Obj and Confidence: no-mask 0.62
+Position: (23, 341), (179, 323), Obj and Confidence: no-mask 0.66
+Position: (820, 378), (976, 360), Obj and Confidence: no-mask 0.69
+Position: (378, 387), (492, 369), Obj and Confidence: mask 0.83
+Position: (1213, 219), (1369, 201), Obj and Confidence: no-mask 0.86
+Position: (27, 232), (183, 214), Obj and Confidence: no-mask 0.88
+Position: (603, 350), (759, 332), Obj and Confidence: no-mask 0.89
+Position: (468, 303), (582, 285), Obj and Confidence: mask 0.91
+Position: (112, 344), (226, 326), Obj and Confidence: mask 0.94
+2024-01-23-16-39-49: Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.49
+Position: (768, 355), (924, 337), Obj and Confidence: no-mask 0.73
+Position: (379, 392), (493, 374), Obj and Confidence: mask 0.76
+Position: (17, 339), (131, 321), Obj and Confidence: mask 0.77
+Position: (1, 226), (157, 208), Obj and Confidence: no-mask 0.80
+Position: (824, 378), (980, 360), Obj and Confidence: no-mask 0.83
+Position: (1174, 233), (1330, 215), Obj and Confidence: no-mask 0.88
+Position: (602, 351), (758, 333), Obj and Confidence: no-mask 0.89
+Position: (465, 303), (579, 285), Obj and Confidence: mask 0.91
+Position: (110, 344), (224, 326), Obj and Confidence: mask 0.95
+2024-01-23-16-39-49: Position: (0, 229), (156, 211), Obj and Confidence: no-mask 0.47
+Position: (1027, 395), (1183, 377), Obj and Confidence: no-mask 0.50
+Position: (378, 392), (492, 374), Obj and Confidence: mask 0.74
+Position: (821, 379), (977, 361), Obj and Confidence: no-mask 0.77
+Position: (646, 334), (802, 316), Obj and Confidence: no-mask 0.80
+Position: (15, 337), (129, 319), Obj and Confidence: mask 0.80
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.86
+Position: (777, 355), (933, 337), Obj and Confidence: no-mask 0.88
+Position: (1205, 215), (1361, 197), Obj and Confidence: no-mask 0.93
+Position: (112, 345), (226, 327), Obj and Confidence: mask 0.93
+Position: (462, 303), (576, 285), Obj and Confidence: mask 0.95
+2024-01-23-16-39-49: Position: (17, 337), (131, 319), Obj and Confidence: mask 0.39
+Position: (1026, 394), (1182, 376), Obj and Confidence: no-mask 0.55
+Position: (1261, 211), (1417, 193), Obj and Confidence: no-mask 0.69
+Position: (20, 338), (176, 320), Obj and Confidence: no-mask 0.71
+Position: (821, 379), (977, 361), Obj and Confidence: no-mask 0.76
+Position: (378, 391), (492, 373), Obj and Confidence: mask 0.79
+Position: (777, 357), (933, 339), Obj and Confidence: no-mask 0.82
+Position: (697, 332), (853, 314), Obj and Confidence: no-mask 0.85
+Position: (603, 351), (759, 333), Obj and Confidence: no-mask 0.89
+Position: (109, 344), (223, 326), Obj and Confidence: mask 0.94
+Position: (460, 303), (574, 285), Obj and Confidence: mask 0.94
+2024-01-23-16-39-49: Position: (1026, 395), (1182, 377), Obj and Confidence: no-mask 0.55
+Position: (376, 381), (490, 363), Obj and Confidence: mask 0.66
+Position: (1254, 212), (1410, 194), Obj and Confidence: no-mask 0.72
+Position: (16, 346), (130, 328), Obj and Confidence: mask 0.73
+Position: (774, 358), (930, 340), Obj and Confidence: no-mask 0.73
+Position: (822, 379), (978, 361), Obj and Confidence: no-mask 0.76
+Position: (719, 332), (875, 314), Obj and Confidence: no-mask 0.83
+Position: (602, 352), (758, 334), Obj and Confidence: no-mask 0.89
+Position: (109, 345), (223, 327), Obj and Confidence: mask 0.94
+Position: (456, 303), (570, 285), Obj and Confidence: mask 0.95
+2024-01-23-16-39-50: Position: (834, 450), (990, 432), Obj and Confidence: no-mask 0.27
+Position: (1026, 395), (1182, 377), Obj and Confidence: no-mask 0.55
+Position: (821, 377), (977, 359), Obj and Confidence: no-mask 0.73
+Position: (774, 359), (930, 341), Obj and Confidence: no-mask 0.73
+Position: (297, 267), (453, 249), Obj and Confidence: no-mask 0.79
+Position: (727, 332), (883, 314), Obj and Confidence: no-mask 0.82
+Position: (18, 352), (174, 334), Obj and Confidence: no-mask 0.87
+Position: (602, 352), (758, 334), Obj and Confidence: no-mask 0.88
+Position: (1199, 222), (1355, 204), Obj and Confidence: no-mask 0.90
+Position: (109, 345), (223, 327), Obj and Confidence: mask 0.93
+Position: (455, 304), (569, 286), Obj and Confidence: mask 0.95
+2024-01-23-16-39-50: Position: (1026, 395), (1182, 377), Obj and Confidence: no-mask 0.54
+Position: (822, 379), (978, 361), Obj and Confidence: no-mask 0.75
+Position: (712, 333), (868, 315), Obj and Confidence: no-mask 0.81
+Position: (288, 275), (444, 257), Obj and Confidence: no-mask 0.85
+Position: (36, 353), (192, 335), Obj and Confidence: no-mask 0.89
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.89
+Position: (1212, 216), (1368, 198), Obj and Confidence: no-mask 0.91
+Position: (452, 305), (566, 287), Obj and Confidence: mask 0.92
+Position: (110, 344), (224, 326), Obj and Confidence: mask 0.93
+2024-01-23-16-39-50: Position: (68, 361), (224, 343), Obj and Confidence: no-mask 0.50
+Position: (1025, 395), (1181, 377), Obj and Confidence: no-mask 0.59
+Position: (104, 344), (218, 326), Obj and Confidence: mask 0.66
+Position: (69, 360), (183, 342), Obj and Confidence: mask 0.72
+Position: (781, 360), (937, 342), Obj and Confidence: no-mask 0.74
+Position: (822, 379), (978, 361), Obj and Confidence: no-mask 0.77
+Position: (676, 333), (832, 315), Obj and Confidence: no-mask 0.87
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.88
+Position: (280, 271), (436, 253), Obj and Confidence: no-mask 0.93
+Position: (456, 301), (570, 283), Obj and Confidence: mask 0.95
+2024-01-23-16-39-50: Position: (768, 358), (882, 340), Obj and Confidence: mask 0.48
+Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.50
+Position: (768, 358), (924, 340), Obj and Confidence: no-mask 0.59
+Position: (821, 378), (977, 360), Obj and Confidence: no-mask 0.79
+Position: (645, 333), (801, 315), Obj and Confidence: no-mask 0.83
+Position: (81, 350), (195, 332), Obj and Confidence: mask 0.85
+Position: (604, 353), (760, 335), Obj and Confidence: no-mask 0.86
+Position: (282, 272), (438, 254), Obj and Confidence: no-mask 0.92
+Position: (455, 303), (569, 285), Obj and Confidence: mask 0.95
+2024-01-23-16-39-51: Position: (369, 346), (483, 328), Obj and Confidence: mask 0.44
+Position: (768, 358), (882, 340), Obj and Confidence: mask 0.52
+Position: (1025, 395), (1181, 377), Obj and Confidence: no-mask 0.56
+Position: (768, 358), (924, 340), Obj and Confidence: no-mask 0.57
+Position: (1214, 214), (1370, 196), Obj and Confidence: no-mask 0.74
+Position: (821, 379), (977, 361), Obj and Confidence: no-mask 0.79
+Position: (51, 348), (207, 330), Obj and Confidence: no-mask 0.84
+Position: (645, 334), (801, 316), Obj and Confidence: no-mask 0.85
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.86
+Position: (285, 273), (441, 255), Obj and Confidence: no-mask 0.91
+Position: (110, 345), (224, 327), Obj and Confidence: mask 0.91
+Position: (445, 303), (559, 285), Obj and Confidence: mask 0.96
+2024-01-23-16-39-51: Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.43
+Position: (367, 319), (523, 301), Obj and Confidence: no-mask 0.45
+Position: (341, 319), (497, 301), Obj and Confidence: no-mask 0.46
+Position: (769, 358), (925, 340), Obj and Confidence: no-mask 0.57
+Position: (770, 358), (884, 340), Obj and Confidence: mask 0.57
+Position: (822, 378), (978, 360), Obj and Confidence: no-mask 0.82
+Position: (22, 346), (178, 328), Obj and Confidence: no-mask 0.86
+Position: (650, 333), (806, 315), Obj and Confidence: no-mask 0.86
+Position: (603, 352), (759, 334), Obj and Confidence: no-mask 0.87
+Position: (1185, 224), (1341, 206), Obj and Confidence: no-mask 0.90
+Position: (286, 275), (442, 257), Obj and Confidence: no-mask 0.91
+Position: (436, 304), (550, 286), Obj and Confidence: mask 0.93
+Position: (109, 345), (223, 327), Obj and Confidence: mask 0.93
+2024-01-23-16-39-51: Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.41
+Position: (768, 358), (882, 340), Obj and Confidence: mask 0.44
+Position: (768, 358), (924, 340), Obj and Confidence: no-mask 0.61
+Position: (823, 379), (979, 361), Obj and Confidence: no-mask 0.80
+Position: (19, 348), (175, 330), Obj and Confidence: no-mask 0.84
+Position: (650, 333), (806, 315), Obj and Confidence: no-mask 0.86
+Position: (604, 351), (760, 333), Obj and Confidence: no-mask 0.87
+Position: (290, 275), (446, 257), Obj and Confidence: no-mask 0.88
+Position: (1227, 210), (1383, 192), Obj and Confidence: no-mask 0.90
+Position: (106, 345), (220, 327), Obj and Confidence: mask 0.91
+Position: (432, 310), (546, 292), Obj and Confidence: mask 0.93
+2024-01-23-16-39-51: Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.53
+Position: (766, 358), (922, 340), Obj and Confidence: no-mask 0.56
+Position: (37, 350), (151, 332), Obj and Confidence: mask 0.58
+Position: (767, 358), (881, 340), Obj and Confidence: mask 0.61
+Position: (822, 379), (978, 361), Obj and Confidence: no-mask 0.81
+Position: (36, 350), (192, 332), Obj and Confidence: no-mask 0.83
+Position: (647, 335), (803, 317), Obj and Confidence: no-mask 0.86
+Position: (292, 277), (448, 259), Obj and Confidence: no-mask 0.86
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.87
+Position: (113, 344), (227, 326), Obj and Confidence: mask 0.94
+Position: (430, 307), (544, 289), Obj and Confidence: mask 0.94
+2024-01-23-16-39-52: Position: (1267, 204), (1423, 186), Obj and Confidence: no-mask 0.28
+Position: (1025, 395), (1181, 377), Obj and Confidence: no-mask 0.37
+Position: (768, 354), (882, 336), Obj and Confidence: mask 0.77
+Position: (821, 378), (977, 360), Obj and Confidence: no-mask 0.81
+Position: (645, 335), (801, 317), Obj and Confidence: no-mask 0.85
+Position: (604, 353), (760, 335), Obj and Confidence: no-mask 0.86
+Position: (292, 277), (448, 259), Obj and Confidence: no-mask 0.87
+Position: (47, 351), (203, 333), Obj and Confidence: no-mask 0.89
+Position: (116, 347), (230, 329), Obj and Confidence: mask 0.94
+Position: (430, 305), (544, 287), Obj and Confidence: mask 0.95
+2024-01-23-16-39-52: Position: (1240, 217), (1396, 199), Obj and Confidence: no-mask 0.26
+Position: (297, 280), (453, 262), Obj and Confidence: no-mask 0.84
+Position: (776, 349), (890, 331), Obj and Confidence: mask 0.85
+Position: (53, 346), (209, 328), Obj and Confidence: no-mask 0.85
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.86
+Position: (647, 335), (803, 317), Obj and Confidence: no-mask 0.86
+Position: (113, 345), (227, 327), Obj and Confidence: mask 0.94
+Position: (444, 303), (558, 285), Obj and Confidence: mask 0.96
+2024-01-23-16-39-52: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.48
+Position: (356, 314), (470, 296), Obj and Confidence: mask 0.56
+Position: (50, 346), (164, 328), Obj and Confidence: mask 0.73
+Position: (792, 347), (906, 329), Obj and Confidence: mask 0.81
+Position: (651, 334), (807, 316), Obj and Confidence: no-mask 0.85
+Position: (604, 352), (760, 334), Obj and Confidence: no-mask 0.87
+Position: (469, 301), (583, 283), Obj and Confidence: mask 0.92
+Position: (110, 345), (224, 327), Obj and Confidence: mask 0.92
+2024-01-23-16-39-53: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.44
+Position: (360, 315), (474, 297), Obj and Confidence: mask 0.46
+Position: (362, 316), (518, 298), Obj and Confidence: no-mask 0.52
+Position: (1252, 215), (1408, 197), Obj and Confidence: no-mask 0.61
+Position: (50, 347), (164, 329), Obj and Confidence: mask 0.72
+Position: (686, 337), (842, 319), Obj and Confidence: no-mask 0.78
+Position: (800, 349), (914, 331), Obj and Confidence: mask 0.83
+Position: (595, 354), (751, 336), Obj and Confidence: no-mask 0.90
+Position: (108, 346), (222, 328), Obj and Confidence: mask 0.91
+Position: (489, 306), (603, 288), Obj and Confidence: mask 0.93
+2024-01-23-16-39-53: Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.50
+Position: (50, 344), (206, 326), Obj and Confidence: no-mask 0.54
+Position: (49, 345), (163, 327), Obj and Confidence: mask 0.56
+Position: (800, 348), (956, 330), Obj and Confidence: no-mask 0.78
+Position: (725, 338), (881, 320), Obj and Confidence: no-mask 0.82
+Position: (595, 353), (751, 335), Obj and Confidence: no-mask 0.86
+Position: (109, 344), (223, 326), Obj and Confidence: mask 0.90
+Position: (521, 311), (635, 293), Obj and Confidence: mask 0.90
+Position: (1204, 224), (1360, 206), Obj and Confidence: no-mask 0.91
+2024-01-23-16-39-53: Position: (802, 350), (958, 332), Obj and Confidence: no-mask 0.57
+Position: (613, 355), (769, 337), Obj and Confidence: no-mask 0.61
+Position: (1252, 211), (1408, 193), Obj and Confidence: no-mask 0.62
+Position: (802, 350), (916, 332), Obj and Confidence: mask 0.69
+Position: (733, 338), (889, 320), Obj and Confidence: no-mask 0.74
+Position: (48, 345), (204, 327), Obj and Confidence: no-mask 0.81
+Position: (107, 346), (221, 328), Obj and Confidence: mask 0.90
+Position: (532, 313), (646, 295), Obj and Confidence: mask 0.94
+2024-01-23-16-39-53: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.33
+Position: (801, 350), (957, 332), Obj and Confidence: no-mask 0.76
+Position: (607, 350), (763, 332), Obj and Confidence: no-mask 0.78
+Position: (721, 335), (877, 317), Obj and Confidence: no-mask 0.88
+Position: (47, 343), (203, 325), Obj and Confidence: no-mask 0.89
+Position: (108, 345), (222, 327), Obj and Confidence: mask 0.90
+Position: (511, 323), (625, 305), Obj and Confidence: mask 0.94
+2024-01-23-16-39-54: Position: (485, 325), (641, 307), Obj and Confidence: no-mask 0.47
+Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.55
+Position: (589, 343), (745, 325), Obj and Confidence: no-mask 0.66
+Position: (800, 350), (956, 332), Obj and Confidence: no-mask 0.81
+Position: (686, 332), (842, 314), Obj and Confidence: no-mask 0.89
+Position: (47, 343), (203, 325), Obj and Confidence: no-mask 0.89
+Position: (1213, 230), (1369, 212), Obj and Confidence: no-mask 0.89
+Position: (110, 345), (224, 327), Obj and Confidence: mask 0.93
+2024-01-23-16-39-54: Position: (1184, 306), (1298, 288), Obj and Confidence: mask 0.41
+Position: (1261, 213), (1417, 195), Obj and Confidence: no-mask 0.49
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.67
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.76
+Position: (43, 343), (199, 325), Obj and Confidence: no-mask 0.85
+Position: (649, 330), (805, 312), Obj and Confidence: no-mask 0.88
+Position: (110, 345), (224, 327), Obj and Confidence: mask 0.94
+2024-01-23-16-39-54: Position: (451, 337), (607, 319), Obj and Confidence: no-mask 0.25
+Position: (1172, 305), (1328, 287), Obj and Confidence: no-mask 0.40
+Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.65
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.78
+Position: (634, 332), (790, 314), Obj and Confidence: no-mask 0.86
+Position: (42, 342), (198, 324), Obj and Confidence: no-mask 0.87
+Position: (110, 346), (224, 328), Obj and Confidence: mask 0.94
+2024-01-23-16-39-55: Position: (1172, 304), (1328, 286), Obj and Confidence: no-mask 0.31
+Position: (1173, 304), (1287, 286), Obj and Confidence: mask 0.38
+Position: (414, 324), (570, 306), Obj and Confidence: no-mask 0.42
+Position: (1224, 289), (1380, 271), Obj and Confidence: no-mask 0.48
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.58
+Position: (476, 335), (632, 317), Obj and Confidence: no-mask 0.75
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.79
+Position: (1229, 217), (1385, 199), Obj and Confidence: no-mask 0.84
+Position: (39, 345), (195, 327), Obj and Confidence: no-mask 0.87
+Position: (662, 333), (818, 315), Obj and Confidence: no-mask 0.91
+Position: (110, 346), (224, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-39-55: Position: (567, 335), (723, 317), Obj and Confidence: no-mask 0.31
+Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.59
+Position: (800, 350), (956, 332), Obj and Confidence: no-mask 0.75
+Position: (477, 331), (633, 313), Obj and Confidence: no-mask 0.83
+Position: (1238, 209), (1394, 191), Obj and Confidence: no-mask 0.83
+Position: (730, 340), (886, 322), Obj and Confidence: no-mask 0.85
+Position: (36, 343), (192, 325), Obj and Confidence: no-mask 0.88
+Position: (109, 345), (223, 327), Obj and Confidence: mask 0.93
+2024-01-23-16-39-55: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.58
+Position: (400, 395), (556, 377), Obj and Confidence: no-mask 0.61
+Position: (799, 351), (955, 333), Obj and Confidence: no-mask 0.80
+Position: (764, 335), (920, 317), Obj and Confidence: no-mask 0.81
+Position: (475, 331), (631, 313), Obj and Confidence: no-mask 0.83
+Position: (37, 342), (193, 324), Obj and Confidence: no-mask 0.90
+Position: (109, 346), (223, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-39-55: Position: (1237, 292), (1393, 274), Obj and Confidence: no-mask 0.31
+Position: (1181, 304), (1295, 286), Obj and Confidence: mask 0.42
+Position: (110, 347), (266, 329), Obj and Confidence: no-mask 0.55
+Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.67
+Position: (799, 351), (955, 333), Obj and Confidence: no-mask 0.78
+Position: (760, 337), (916, 319), Obj and Confidence: no-mask 0.82
+Position: (475, 326), (631, 308), Obj and Confidence: no-mask 0.82
+Position: (39, 340), (195, 322), Obj and Confidence: no-mask 0.91
+Position: (324, 241), (480, 223), Obj and Confidence: no-mask 0.91
+Position: (109, 347), (223, 329), Obj and Confidence: mask 0.92
+2024-01-23-16-39-56: Position: (402, 395), (558, 377), Obj and Confidence: no-mask 0.34
+Position: (1025, 395), (1181, 377), Obj and Confidence: no-mask 0.47
+Position: (109, 347), (265, 329), Obj and Confidence: no-mask 0.62
+Position: (474, 326), (630, 308), Obj and Confidence: no-mask 0.80
+Position: (712, 340), (868, 322), Obj and Confidence: no-mask 0.80
+Position: (800, 350), (956, 332), Obj and Confidence: no-mask 0.83
+Position: (1235, 217), (1391, 199), Obj and Confidence: no-mask 0.84
+Position: (43, 344), (199, 326), Obj and Confidence: no-mask 0.87
+Position: (109, 346), (223, 328), Obj and Confidence: mask 0.91
+Position: (290, 230), (446, 212), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-56: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.32
+Position: (547, 311), (703, 293), Obj and Confidence: no-mask 0.57
+Position: (109, 347), (265, 329), Obj and Confidence: no-mask 0.69
+Position: (800, 351), (956, 333), Obj and Confidence: no-mask 0.71
+Position: (473, 331), (629, 313), Obj and Confidence: no-mask 0.78
+Position: (1231, 278), (1345, 260), Obj and Confidence: mask 0.81
+Position: (641, 336), (797, 318), Obj and Confidence: no-mask 0.85
+Position: (43, 344), (199, 326), Obj and Confidence: no-mask 0.88
+Position: (108, 345), (222, 327), Obj and Confidence: mask 0.89
+Position: (265, 236), (421, 218), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-56: Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.34
+Position: (1263, 268), (1419, 250), Obj and Confidence: no-mask 0.53
+Position: (547, 310), (703, 292), Obj and Confidence: no-mask 0.59
+Position: (476, 331), (632, 313), Obj and Confidence: no-mask 0.72
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.74
+Position: (633, 340), (789, 322), Obj and Confidence: no-mask 0.75
+Position: (45, 348), (201, 330), Obj and Confidence: no-mask 0.88
+Position: (277, 258), (433, 240), Obj and Confidence: no-mask 0.89
+Position: (111, 345), (225, 327), Obj and Confidence: mask 0.94
+2024-01-23-16-39-57: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.29
+Position: (310, 287), (466, 269), Obj and Confidence: no-mask 0.73
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.73
+Position: (547, 312), (703, 294), Obj and Confidence: no-mask 0.77
+Position: (112, 346), (268, 328), Obj and Confidence: no-mask 0.79
+Position: (475, 334), (631, 316), Obj and Confidence: no-mask 0.80
+Position: (110, 347), (224, 329), Obj and Confidence: mask 0.85
+Position: (50, 349), (206, 331), Obj and Confidence: no-mask 0.87
+Position: (669, 341), (825, 323), Obj and Confidence: no-mask 0.90
+2024-01-23-16-39-57: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.40
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.71
+Position: (313, 282), (469, 264), Obj and Confidence: no-mask 0.76
+Position: (112, 347), (268, 329), Obj and Confidence: no-mask 0.78
+Position: (542, 312), (698, 294), Obj and Confidence: no-mask 0.84
+Position: (690, 345), (846, 327), Obj and Confidence: no-mask 0.84
+Position: (49, 349), (205, 331), Obj and Confidence: no-mask 0.88
+Position: (110, 347), (224, 329), Obj and Confidence: mask 0.89
+2024-01-23-16-39-57: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.44
+Position: (444, 324), (600, 306), Obj and Confidence: no-mask 0.72
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.75
+Position: (113, 346), (269, 328), Obj and Confidence: no-mask 0.81
+Position: (674, 340), (830, 322), Obj and Confidence: no-mask 0.82
+Position: (110, 347), (224, 329), Obj and Confidence: mask 0.84
+Position: (306, 276), (462, 258), Obj and Confidence: no-mask 0.88
+Position: (46, 348), (202, 330), Obj and Confidence: no-mask 0.88
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.89
+2024-01-23-16-39-58: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.31
+Position: (444, 329), (600, 311), Obj and Confidence: no-mask 0.33
+Position: (1257, 268), (1371, 250), Obj and Confidence: mask 0.60
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.79
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.86
+Position: (657, 344), (813, 326), Obj and Confidence: no-mask 0.86
+Position: (311, 274), (467, 256), Obj and Confidence: no-mask 0.88
+Position: (44, 348), (200, 330), Obj and Confidence: no-mask 0.88
+Position: (110, 346), (224, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-39-58: Position: (448, 334), (604, 316), Obj and Confidence: no-mask 0.29
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.35
+Position: (112, 348), (268, 330), Obj and Confidence: no-mask 0.60
+Position: (379, 314), (535, 296), Obj and Confidence: no-mask 0.76
+Position: (801, 350), (957, 332), Obj and Confidence: no-mask 0.78
+Position: (540, 312), (696, 294), Obj and Confidence: no-mask 0.86
+Position: (1238, 287), (1352, 269), Obj and Confidence: mask 0.87
+Position: (44, 346), (200, 328), Obj and Confidence: no-mask 0.88
+Position: (665, 343), (821, 325), Obj and Confidence: no-mask 0.91
+Position: (283, 253), (439, 235), Obj and Confidence: no-mask 0.91
+Position: (111, 347), (225, 329), Obj and Confidence: mask 0.92
+2024-01-23-16-39-58: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.30
+Position: (443, 335), (599, 317), Obj and Confidence: no-mask 0.70
+Position: (376, 316), (532, 298), Obj and Confidence: no-mask 0.81
+Position: (800, 350), (956, 332), Obj and Confidence: no-mask 0.83
+Position: (539, 313), (695, 295), Obj and Confidence: no-mask 0.86
+Position: (665, 339), (821, 321), Obj and Confidence: no-mask 0.87
+Position: (44, 346), (200, 328), Obj and Confidence: no-mask 0.88
+Position: (1224, 319), (1338, 301), Obj and Confidence: mask 0.90
+Position: (278, 252), (434, 234), Obj and Confidence: no-mask 0.93
+Position: (111, 346), (225, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-39-58: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.27
+Position: (1219, 351), (1333, 333), Obj and Confidence: mask 0.45
+Position: (399, 320), (555, 302), Obj and Confidence: no-mask 0.77
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.84
+Position: (50, 349), (206, 331), Obj and Confidence: no-mask 0.88
+Position: (661, 344), (817, 326), Obj and Confidence: no-mask 0.89
+Position: (111, 346), (225, 328), Obj and Confidence: mask 0.92
+Position: (278, 255), (434, 237), Obj and Confidence: no-mask 0.93
+2024-01-23-16-39-59: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.27
+Position: (800, 356), (956, 338), Obj and Confidence: no-mask 0.32
+Position: (1229, 378), (1343, 360), Obj and Confidence: mask 0.75
+Position: (283, 253), (439, 235), Obj and Confidence: no-mask 0.84
+Position: (540, 313), (696, 295), Obj and Confidence: no-mask 0.85
+Position: (663, 337), (819, 319), Obj and Confidence: no-mask 0.87
+2024-01-23-16-39-59: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.37
+Position: (423, 321), (579, 303), Obj and Confidence: no-mask 0.49
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.85
+Position: (1242, 389), (1356, 371), Obj and Confidence: mask 0.87
+Position: (665, 334), (821, 316), Obj and Confidence: no-mask 0.88
+Position: (285, 260), (441, 242), Obj and Confidence: no-mask 0.92
+2024-01-23-16-39-59: Position: (415, 322), (571, 304), Obj and Confidence: no-mask 0.39
+Position: (797, 349), (953, 331), Obj and Confidence: no-mask 0.80
+Position: (1254, 374), (1368, 356), Obj and Confidence: mask 0.80
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.85
+Position: (313, 261), (469, 243), Obj and Confidence: no-mask 0.88
+Position: (665, 341), (821, 323), Obj and Confidence: no-mask 0.91
+2024-01-23-16-40-00: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.36
+Position: (397, 322), (553, 304), Obj and Confidence: no-mask 0.60
+Position: (797, 350), (953, 332), Obj and Confidence: no-mask 0.80
+Position: (309, 262), (465, 244), Obj and Confidence: no-mask 0.84
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.86
+Position: (666, 334), (822, 316), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-00: Position: (375, 320), (531, 302), Obj and Confidence: no-mask 0.70
+Position: (445, 341), (601, 323), Obj and Confidence: no-mask 0.79
+Position: (304, 260), (460, 242), Obj and Confidence: no-mask 0.80
+Position: (797, 351), (953, 333), Obj and Confidence: no-mask 0.80
+Position: (544, 314), (700, 296), Obj and Confidence: no-mask 0.89
+Position: (668, 342), (824, 324), Obj and Confidence: no-mask 0.91
+2024-01-23-16-40-00: Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.39
+Position: (363, 317), (519, 299), Obj and Confidence: no-mask 0.39
+Position: (1262, 365), (1376, 347), Obj and Confidence: mask 0.66
+Position: (797, 351), (953, 333), Obj and Confidence: no-mask 0.83
+Position: (443, 342), (599, 324), Obj and Confidence: no-mask 0.85
+Position: (307, 261), (463, 243), Obj and Confidence: no-mask 0.87
+Position: (545, 313), (701, 295), Obj and Confidence: no-mask 0.90
+Position: (669, 341), (825, 323), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-00: Position: (1260, 367), (1374, 349), Obj and Confidence: mask 0.64
+Position: (804, 355), (960, 337), Obj and Confidence: no-mask 0.72
+Position: (347, 311), (503, 293), Obj and Confidence: no-mask 0.77
+Position: (443, 341), (599, 323), Obj and Confidence: no-mask 0.82
+Position: (668, 335), (824, 317), Obj and Confidence: no-mask 0.84
+Position: (547, 312), (703, 294), Obj and Confidence: no-mask 0.89
+Position: (290, 258), (446, 240), Obj and Confidence: no-mask 0.89
+2024-01-23-16-40-01: Position: (347, 312), (503, 294), Obj and Confidence: no-mask 0.45
+Position: (802, 354), (958, 336), Obj and Confidence: no-mask 0.77
+Position: (1256, 364), (1370, 346), Obj and Confidence: mask 0.78
+Position: (443, 341), (599, 323), Obj and Confidence: no-mask 0.82
+Position: (668, 351), (824, 333), Obj and Confidence: no-mask 0.88
+Position: (548, 312), (704, 294), Obj and Confidence: no-mask 0.89
+Position: (282, 258), (438, 240), Obj and Confidence: no-mask 0.91
+2024-01-23-16-40-01: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.34
+Position: (347, 311), (503, 293), Obj and Confidence: no-mask 0.45
+Position: (445, 340), (601, 322), Obj and Confidence: no-mask 0.72
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.81
+Position: (1252, 365), (1366, 347), Obj and Confidence: mask 0.83
+Position: (668, 333), (824, 315), Obj and Confidence: no-mask 0.88
+Position: (546, 312), (702, 294), Obj and Confidence: no-mask 0.89
+Position: (283, 258), (439, 240), Obj and Confidence: no-mask 0.91
+Position: (143, 355), (257, 337), Obj and Confidence: mask 0.97
+2024-01-23-16-40-01: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.36
+Position: (446, 340), (602, 322), Obj and Confidence: no-mask 0.39
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.50
+Position: (345, 314), (501, 296), Obj and Confidence: no-mask 0.54
+Position: (29, 338), (185, 320), Obj and Confidence: no-mask 0.77
+Position: (1253, 367), (1367, 349), Obj and Confidence: mask 0.80
+Position: (664, 337), (820, 319), Obj and Confidence: no-mask 0.88
+Position: (549, 313), (705, 295), Obj and Confidence: no-mask 0.89
+Position: (282, 258), (438, 240), Obj and Confidence: no-mask 0.92
+Position: (123, 347), (237, 329), Obj and Confidence: mask 0.94
+2024-01-23-16-40-02: Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.27
+Position: (800, 354), (956, 336), Obj and Confidence: no-mask 0.42
+Position: (344, 311), (500, 293), Obj and Confidence: no-mask 0.45
+Position: (451, 336), (607, 318), Obj and Confidence: no-mask 0.62
+Position: (800, 353), (914, 335), Obj and Confidence: mask 0.69
+Position: (1252, 369), (1366, 351), Obj and Confidence: mask 0.78
+Position: (30, 338), (186, 320), Obj and Confidence: no-mask 0.82
+Position: (668, 348), (824, 330), Obj and Confidence: no-mask 0.86
+Position: (549, 313), (705, 295), Obj and Confidence: no-mask 0.89
+Position: (114, 347), (228, 329), Obj and Confidence: mask 0.92
+Position: (279, 259), (435, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-02: Position: (667, 341), (823, 323), Obj and Confidence: no-mask 0.34
+Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.34
+Position: (344, 311), (500, 293), Obj and Confidence: no-mask 0.44
+Position: (449, 338), (605, 320), Obj and Confidence: no-mask 0.47
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.80
+Position: (33, 339), (189, 321), Obj and Confidence: no-mask 0.83
+Position: (1250, 367), (1364, 349), Obj and Confidence: mask 0.85
+Position: (549, 314), (705, 296), Obj and Confidence: no-mask 0.89
+Position: (111, 348), (225, 330), Obj and Confidence: mask 0.93
+Position: (278, 259), (434, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-02: Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.30
+Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.41
+Position: (458, 337), (614, 319), Obj and Confidence: no-mask 0.43
+Position: (345, 312), (501, 294), Obj and Confidence: no-mask 0.64
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.79
+Position: (1250, 367), (1364, 349), Obj and Confidence: mask 0.85
+Position: (35, 339), (191, 321), Obj and Confidence: no-mask 0.87
+Position: (670, 338), (826, 320), Obj and Confidence: no-mask 0.88
+Position: (549, 313), (705, 295), Obj and Confidence: no-mask 0.89
+Position: (110, 349), (224, 331), Obj and Confidence: mask 0.93
+Position: (280, 260), (436, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-02: Position: (464, 332), (620, 314), Obj and Confidence: no-mask 0.48
+Position: (345, 313), (501, 295), Obj and Confidence: no-mask 0.61
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.79
+Position: (1255, 366), (1369, 348), Obj and Confidence: mask 0.79
+Position: (667, 334), (823, 316), Obj and Confidence: no-mask 0.86
+Position: (548, 314), (704, 296), Obj and Confidence: no-mask 0.88
+Position: (36, 341), (192, 323), Obj and Confidence: no-mask 0.91
+Position: (108, 346), (222, 328), Obj and Confidence: mask 0.92
+Position: (279, 259), (435, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-03: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.34
+Position: (467, 329), (623, 311), Obj and Confidence: no-mask 0.64
+Position: (1259, 369), (1373, 351), Obj and Confidence: mask 0.75
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.80
+Position: (363, 312), (519, 294), Obj and Confidence: no-mask 0.82
+Position: (546, 315), (702, 297), Obj and Confidence: no-mask 0.84
+Position: (668, 335), (824, 317), Obj and Confidence: no-mask 0.86
+Position: (105, 343), (219, 325), Obj and Confidence: mask 0.88
+Position: (41, 341), (197, 323), Obj and Confidence: no-mask 0.91
+Position: (278, 259), (434, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-03: Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.31
+Position: (465, 329), (621, 311), Obj and Confidence: no-mask 0.76
+Position: (1258, 369), (1372, 351), Obj and Confidence: mask 0.79
+Position: (368, 313), (524, 295), Obj and Confidence: no-mask 0.80
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.80
+Position: (543, 314), (699, 296), Obj and Confidence: no-mask 0.81
+Position: (668, 336), (824, 318), Obj and Confidence: no-mask 0.85
+Position: (104, 343), (218, 325), Obj and Confidence: mask 0.88
+Position: (40, 341), (196, 323), Obj and Confidence: no-mask 0.90
+Position: (279, 259), (435, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-03: Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.36
+Position: (463, 330), (619, 312), Obj and Confidence: no-mask 0.69
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.78
+Position: (542, 315), (698, 297), Obj and Confidence: no-mask 0.79
+Position: (366, 312), (522, 294), Obj and Confidence: no-mask 0.81
+Position: (1252, 365), (1366, 347), Obj and Confidence: mask 0.83
+Position: (663, 338), (819, 320), Obj and Confidence: no-mask 0.84
+Position: (106, 345), (220, 327), Obj and Confidence: mask 0.89
+Position: (39, 340), (195, 322), Obj and Confidence: no-mask 0.92
+Position: (279, 259), (435, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-04: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.28
+Position: (831, 375), (987, 357), Obj and Confidence: no-mask 0.29
+Position: (462, 333), (618, 315), Obj and Confidence: no-mask 0.41
+Position: (351, 314), (507, 296), Obj and Confidence: no-mask 0.68
+Position: (802, 353), (958, 335), Obj and Confidence: no-mask 0.76
+Position: (661, 338), (817, 320), Obj and Confidence: no-mask 0.86
+Position: (545, 315), (701, 297), Obj and Confidence: no-mask 0.86
+Position: (1235, 365), (1349, 347), Obj and Confidence: mask 0.88
+Position: (38, 337), (194, 319), Obj and Confidence: no-mask 0.88
+Position: (128, 351), (242, 333), Obj and Confidence: mask 0.92
+Position: (278, 258), (434, 240), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-04: Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.27
+Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.33
+Position: (458, 335), (614, 317), Obj and Confidence: no-mask 0.60
+Position: (355, 314), (511, 296), Obj and Confidence: no-mask 0.60
+Position: (802, 353), (958, 335), Obj and Confidence: no-mask 0.76
+Position: (1216, 369), (1330, 351), Obj and Confidence: mask 0.81
+Position: (543, 311), (699, 293), Obj and Confidence: no-mask 0.86
+Position: (154, 359), (268, 341), Obj and Confidence: mask 0.87
+Position: (34, 337), (190, 319), Obj and Confidence: no-mask 0.87
+Position: (662, 342), (818, 324), Obj and Confidence: no-mask 0.88
+Position: (277, 259), (433, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-04: Position: (159, 362), (315, 344), Obj and Confidence: no-mask 0.26
+Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.31
+Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.37
+Position: (456, 334), (612, 316), Obj and Confidence: no-mask 0.71
+Position: (802, 353), (958, 335), Obj and Confidence: no-mask 0.76
+Position: (1209, 373), (1323, 355), Obj and Confidence: mask 0.82
+Position: (367, 316), (523, 298), Obj and Confidence: no-mask 0.82
+Position: (669, 337), (825, 319), Obj and Confidence: no-mask 0.84
+Position: (159, 363), (273, 345), Obj and Confidence: mask 0.86
+Position: (544, 311), (700, 293), Obj and Confidence: no-mask 0.87
+Position: (20, 342), (176, 324), Obj and Confidence: no-mask 0.89
+Position: (277, 258), (433, 240), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-05: Position: (831, 375), (987, 357), Obj and Confidence: no-mask 0.25
+Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.37
+Position: (450, 335), (606, 317), Obj and Confidence: no-mask 0.47
+Position: (375, 315), (531, 297), Obj and Confidence: no-mask 0.72
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.78
+Position: (1208, 374), (1322, 356), Obj and Confidence: mask 0.84
+Position: (545, 313), (701, 295), Obj and Confidence: no-mask 0.88
+Position: (668, 338), (824, 320), Obj and Confidence: no-mask 0.90
+Position: (15, 346), (171, 328), Obj and Confidence: no-mask 0.90
+Position: (278, 260), (434, 242), Obj and Confidence: no-mask 0.93
+Position: (139, 358), (253, 340), Obj and Confidence: mask 0.95
+2024-01-23-16-40-05: Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.29
+Position: (458, 338), (614, 320), Obj and Confidence: no-mask 0.30
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.79
+Position: (383, 315), (539, 297), Obj and Confidence: no-mask 0.85
+Position: (1209, 374), (1323, 356), Obj and Confidence: mask 0.86
+Position: (546, 312), (702, 294), Obj and Confidence: no-mask 0.89
+Position: (17, 344), (173, 326), Obj and Confidence: no-mask 0.89
+Position: (667, 339), (823, 321), Obj and Confidence: no-mask 0.91
+Position: (278, 259), (434, 241), Obj and Confidence: no-mask 0.93
+Position: (128, 356), (242, 338), Obj and Confidence: mask 0.94
+2024-01-23-16-40-05: Position: (830, 373), (986, 355), Obj and Confidence: no-mask 0.31
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.79
+Position: (385, 317), (541, 299), Obj and Confidence: no-mask 0.80
+Position: (1211, 374), (1325, 356), Obj and Confidence: mask 0.84
+Position: (542, 313), (698, 295), Obj and Confidence: no-mask 0.85
+Position: (665, 337), (821, 319), Obj and Confidence: no-mask 0.87
+Position: (16, 344), (172, 326), Obj and Confidence: no-mask 0.88
+Position: (278, 258), (434, 240), Obj and Confidence: no-mask 0.93
+Position: (132, 354), (246, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-05: Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.34
+Position: (88, 455), (244, 437), Obj and Confidence: no-mask 0.47
+Position: (1214, 373), (1328, 355), Obj and Confidence: mask 0.78
+Position: (384, 318), (540, 300), Obj and Confidence: no-mask 0.79
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.80
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (659, 336), (815, 318), Obj and Confidence: no-mask 0.89
+Position: (18, 346), (174, 328), Obj and Confidence: no-mask 0.89
+Position: (277, 258), (433, 240), Obj and Confidence: no-mask 0.93
+Position: (134, 355), (248, 337), Obj and Confidence: mask 0.95
+2024-01-23-16-40-06: Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.31
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.82
+Position: (541, 312), (697, 294), Obj and Confidence: no-mask 0.85
+Position: (382, 318), (538, 300), Obj and Confidence: no-mask 0.88
+Position: (1237, 368), (1351, 350), Obj and Confidence: mask 0.89
+Position: (21, 351), (177, 333), Obj and Confidence: no-mask 0.90
+Position: (661, 334), (817, 316), Obj and Confidence: no-mask 0.91
+Position: (275, 258), (431, 240), Obj and Confidence: no-mask 0.93
+Position: (137, 356), (251, 338), Obj and Confidence: mask 0.94
+2024-01-23-16-40-06: Position: (1268, 369), (1382, 351), Obj and Confidence: mask 0.29
+Position: (450, 338), (606, 320), Obj and Confidence: no-mask 0.32
+Position: (373, 311), (529, 293), Obj and Confidence: no-mask 0.72
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.82
+Position: (8, 364), (164, 346), Obj and Confidence: no-mask 0.83
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.84
+Position: (146, 362), (260, 344), Obj and Confidence: mask 0.88
+Position: (678, 332), (834, 314), Obj and Confidence: no-mask 0.92
+Position: (275, 259), (431, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-06: Position: (832, 375), (988, 357), Obj and Confidence: no-mask 0.28
+Position: (153, 363), (309, 345), Obj and Confidence: no-mask 0.35
+Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.36
+Position: (352, 308), (508, 290), Obj and Confidence: no-mask 0.40
+Position: (446, 341), (602, 323), Obj and Confidence: no-mask 0.47
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.80
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.85
+Position: (153, 364), (267, 346), Obj and Confidence: mask 0.86
+Position: (2, 363), (158, 345), Obj and Confidence: no-mask 0.87
+Position: (669, 332), (825, 314), Obj and Confidence: no-mask 0.91
+Position: (276, 257), (432, 239), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-07: Position: (832, 375), (988, 357), Obj and Confidence: no-mask 0.26
+Position: (158, 363), (314, 345), Obj and Confidence: no-mask 0.45
+Position: (445, 343), (601, 325), Obj and Confidence: no-mask 0.51
+Position: (344, 311), (500, 293), Obj and Confidence: no-mask 0.52
+Position: (802, 351), (958, 333), Obj and Confidence: no-mask 0.81
+Position: (541, 312), (697, 294), Obj and Confidence: no-mask 0.85
+Position: (160, 364), (274, 346), Obj and Confidence: mask 0.85
+Position: (640, 331), (796, 313), Obj and Confidence: no-mask 0.86
+Position: (2, 363), (158, 345), Obj and Confidence: no-mask 0.89
+Position: (276, 258), (432, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-07: Position: (1024, 396), (1180, 378), Obj and Confidence: no-mask 0.26
+Position: (831, 373), (987, 355), Obj and Confidence: no-mask 0.33
+Position: (445, 341), (601, 323), Obj and Confidence: no-mask 0.56
+Position: (160, 366), (316, 348), Obj and Confidence: no-mask 0.62
+Position: (351, 308), (507, 290), Obj and Confidence: no-mask 0.63
+Position: (619, 334), (775, 316), Obj and Confidence: no-mask 0.73
+Position: (162, 366), (276, 348), Obj and Confidence: mask 0.80
+Position: (802, 351), (958, 333), Obj and Confidence: no-mask 0.81
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (2, 364), (158, 346), Obj and Confidence: no-mask 0.86
+Position: (277, 259), (433, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-07: Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.30
+Position: (446, 340), (602, 322), Obj and Confidence: no-mask 0.33
+Position: (367, 310), (523, 292), Obj and Confidence: no-mask 0.37
+Position: (832, 373), (988, 355), Obj and Confidence: no-mask 0.37
+Position: (619, 335), (775, 317), Obj and Confidence: no-mask 0.38
+Position: (164, 368), (320, 350), Obj and Confidence: no-mask 0.64
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.79
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.84
+Position: (1, 365), (157, 347), Obj and Confidence: no-mask 0.84
+Position: (277, 260), (433, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-07: Position: (1024, 397), (1180, 379), Obj and Confidence: no-mask 0.30
+Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.44
+Position: (163, 367), (319, 349), Obj and Confidence: no-mask 0.69
+Position: (377, 311), (533, 293), Obj and Confidence: no-mask 0.73
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.82
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (2, 365), (158, 347), Obj and Confidence: no-mask 0.89
+Position: (276, 260), (432, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-08: Position: (833, 377), (989, 359), Obj and Confidence: no-mask 0.35
+Position: (1266, 370), (1380, 352), Obj and Confidence: mask 0.36
+Position: (1025, 396), (1181, 378), Obj and Confidence: no-mask 0.50
+Position: (167, 366), (323, 348), Obj and Confidence: no-mask 0.53
+Position: (374, 315), (530, 297), Obj and Confidence: no-mask 0.66
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.78
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.86
+Position: (2, 365), (158, 347), Obj and Confidence: no-mask 0.89
+Position: (276, 259), (432, 241), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-08: Position: (832, 376), (988, 358), Obj and Confidence: no-mask 0.40
+Position: (443, 339), (599, 321), Obj and Confidence: no-mask 0.42
+Position: (1025, 398), (1181, 380), Obj and Confidence: no-mask 0.44
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.78
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.86
+Position: (1241, 367), (1355, 349), Obj and Confidence: mask 0.91
+Position: (7, 371), (163, 353), Obj and Confidence: no-mask 0.91
+Position: (277, 260), (433, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-08: Position: (833, 377), (989, 359), Obj and Confidence: no-mask 0.32
+Position: (429, 336), (585, 318), Obj and Confidence: no-mask 0.38
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.47
+Position: (800, 353), (956, 335), Obj and Confidence: no-mask 0.70
+Position: (1211, 372), (1325, 354), Obj and Confidence: mask 0.80
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.86
+Position: (11, 364), (167, 346), Obj and Confidence: no-mask 0.88
+Position: (278, 261), (434, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-09: Position: (356, 325), (512, 307), Obj and Confidence: no-mask 0.27
+Position: (833, 377), (989, 359), Obj and Confidence: no-mask 0.29
+Position: (451, 338), (607, 320), Obj and Confidence: no-mask 0.35
+Position: (364, 333), (520, 315), Obj and Confidence: no-mask 0.42
+Position: (801, 351), (915, 333), Obj and Confidence: mask 0.42
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.54
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.67
+Position: (1215, 373), (1329, 355), Obj and Confidence: mask 0.72
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.86
+Position: (19, 352), (175, 334), Obj and Confidence: no-mask 0.89
+Position: (276, 260), (432, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-09: Position: (354, 325), (510, 307), Obj and Confidence: no-mask 0.31
+Position: (332, 313), (488, 295), Obj and Confidence: no-mask 0.31
+Position: (448, 335), (604, 317), Obj and Confidence: no-mask 0.34
+Position: (2, 331), (158, 313), Obj and Confidence: no-mask 0.39
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.43
+Position: (367, 333), (523, 315), Obj and Confidence: no-mask 0.51
+Position: (115, 417), (271, 399), Obj and Confidence: no-mask 0.56
+Position: (807, 352), (963, 334), Obj and Confidence: no-mask 0.63
+Position: (1, 331), (115, 313), Obj and Confidence: mask 0.84
+Position: (542, 312), (698, 294), Obj and Confidence: no-mask 0.86
+Position: (1244, 367), (1358, 349), Obj and Confidence: mask 0.91
+Position: (276, 260), (432, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-09: Position: (343, 322), (499, 304), Obj and Confidence: no-mask 0.40
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.45
+Position: (0, 330), (156, 312), Obj and Confidence: no-mask 0.57
+Position: (368, 332), (524, 314), Obj and Confidence: no-mask 0.58
+Position: (332, 316), (488, 298), Obj and Confidence: no-mask 0.64
+Position: (449, 334), (605, 316), Obj and Confidence: no-mask 0.67
+Position: (109, 412), (265, 394), Obj and Confidence: no-mask 0.74
+Position: (809, 352), (965, 334), Obj and Confidence: no-mask 0.81
+Position: (544, 314), (700, 296), Obj and Confidence: no-mask 0.86
+Position: (276, 260), (432, 242), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-09: Position: (347, 323), (503, 305), Obj and Confidence: no-mask 0.26
+Position: (335, 315), (491, 297), Obj and Confidence: no-mask 0.34
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.51
+Position: (447, 333), (603, 315), Obj and Confidence: no-mask 0.52
+Position: (0, 329), (114, 311), Obj and Confidence: mask 0.57
+Position: (370, 331), (526, 313), Obj and Confidence: no-mask 0.58
+Position: (808, 352), (964, 334), Obj and Confidence: no-mask 0.79
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.85
+Position: (278, 258), (434, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-10: Position: (341, 322), (497, 304), Obj and Confidence: no-mask 0.47
+Position: (1024, 399), (1180, 381), Obj and Confidence: no-mask 0.47
+Position: (447, 334), (603, 316), Obj and Confidence: no-mask 0.49
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.75
+Position: (1, 337), (115, 319), Obj and Confidence: mask 0.80
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (277, 260), (433, 242), Obj and Confidence: no-mask 0.94
+2024-01-23-16-40-10: Position: (347, 321), (503, 303), Obj and Confidence: no-mask 0.42
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.46
+Position: (447, 332), (603, 314), Obj and Confidence: no-mask 0.56
+Position: (1, 336), (115, 318), Obj and Confidence: mask 0.62
+Position: (797, 350), (953, 332), Obj and Confidence: no-mask 0.72
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (274, 260), (430, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-10: Position: (1269, 368), (1425, 350), Obj and Confidence: no-mask 0.26
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.33
+Position: (363, 322), (519, 304), Obj and Confidence: no-mask 0.35
+Position: (384, 330), (540, 312), Obj and Confidence: no-mask 0.45
+Position: (447, 332), (603, 314), Obj and Confidence: no-mask 0.51
+Position: (798, 351), (954, 333), Obj and Confidence: no-mask 0.66
+Position: (0, 336), (114, 318), Obj and Confidence: mask 0.82
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.85
+Position: (274, 261), (430, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-11: Position: (798, 351), (912, 333), Obj and Confidence: mask 0.38
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.41
+Position: (445, 332), (601, 314), Obj and Confidence: no-mask 0.51
+Position: (798, 352), (954, 334), Obj and Confidence: no-mask 0.67
+Position: (0, 338), (114, 320), Obj and Confidence: mask 0.83
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.85
+Position: (1251, 368), (1407, 350), Obj and Confidence: no-mask 0.85
+Position: (276, 261), (432, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-11: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.53
+Position: (446, 329), (602, 311), Obj and Confidence: no-mask 0.56
+Position: (800, 352), (914, 334), Obj and Confidence: mask 0.58
+Position: (799, 352), (955, 334), Obj and Confidence: no-mask 0.60
+Position: (0, 338), (114, 320), Obj and Confidence: mask 0.82
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.85
+Position: (1218, 370), (1374, 352), Obj and Confidence: no-mask 0.86
+Position: (275, 261), (431, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-11: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.52
+Position: (445, 328), (601, 310), Obj and Confidence: no-mask 0.62
+Position: (0, 334), (156, 316), Obj and Confidence: no-mask 0.73
+Position: (800, 353), (956, 335), Obj and Confidence: no-mask 0.77
+Position: (1204, 374), (1360, 356), Obj and Confidence: no-mask 0.85
+Position: (543, 314), (699, 296), Obj and Confidence: no-mask 0.86
+Position: (274, 260), (430, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-11: Position: (375, 314), (531, 296), Obj and Confidence: no-mask 0.43
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.49
+Position: (447, 327), (603, 309), Obj and Confidence: no-mask 0.51
+Position: (0, 333), (156, 315), Obj and Confidence: no-mask 0.78
+Position: (542, 313), (698, 295), Obj and Confidence: no-mask 0.85
+Position: (1209, 374), (1365, 356), Obj and Confidence: no-mask 0.86
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.86
+Position: (269, 257), (425, 239), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-12: Position: (445, 327), (601, 309), Obj and Confidence: no-mask 0.44
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.54
+Position: (380, 315), (536, 297), Obj and Confidence: no-mask 0.60
+Position: (1215, 374), (1371, 356), Obj and Confidence: no-mask 0.80
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.85
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.86
+Position: (268, 258), (424, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-12: Position: (445, 328), (601, 310), Obj and Confidence: no-mask 0.33
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.43
+Position: (381, 314), (537, 296), Obj and Confidence: no-mask 0.69
+Position: (801, 351), (957, 333), Obj and Confidence: no-mask 0.83
+Position: (1218, 372), (1374, 354), Obj and Confidence: no-mask 0.86
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.86
+Position: (271, 257), (427, 239), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-12: Position: (1, 338), (157, 320), Obj and Confidence: no-mask 0.30
+Position: (0, 340), (114, 322), Obj and Confidence: mask 0.34
+Position: (448, 328), (604, 310), Obj and Confidence: no-mask 0.44
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.50
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.74
+Position: (383, 315), (539, 297), Obj and Confidence: no-mask 0.81
+Position: (1231, 368), (1387, 350), Obj and Confidence: no-mask 0.86
+Position: (543, 312), (699, 294), Obj and Confidence: no-mask 0.86
+Position: (274, 257), (430, 239), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-12: Position: (447, 328), (603, 310), Obj and Confidence: no-mask 0.34
+Position: (0, 339), (114, 321), Obj and Confidence: mask 0.40
+Position: (830, 374), (986, 356), Obj and Confidence: no-mask 0.41
+Position: (1, 339), (157, 321), Obj and Confidence: no-mask 0.48
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.53
+Position: (384, 315), (540, 297), Obj and Confidence: no-mask 0.83
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.86
+Position: (797, 352), (953, 334), Obj and Confidence: no-mask 0.86
+Position: (1249, 367), (1405, 349), Obj and Confidence: no-mask 0.90
+Position: (274, 257), (430, 239), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-13: Position: (1, 338), (157, 320), Obj and Confidence: no-mask 0.28
+Position: (831, 377), (987, 359), Obj and Confidence: no-mask 0.34
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.59
+Position: (383, 315), (539, 297), Obj and Confidence: no-mask 0.86
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.86
+Position: (793, 354), (949, 336), Obj and Confidence: no-mask 0.86
+Position: (1256, 369), (1412, 351), Obj and Confidence: no-mask 0.87
+Position: (271, 258), (427, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-13: Position: (449, 328), (605, 310), Obj and Confidence: no-mask 0.31
+Position: (831, 376), (987, 358), Obj and Confidence: no-mask 0.34
+Position: (1, 336), (157, 318), Obj and Confidence: no-mask 0.38
+Position: (163, 356), (319, 338), Obj and Confidence: no-mask 0.58
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.62
+Position: (1261, 367), (1417, 349), Obj and Confidence: no-mask 0.79
+Position: (383, 316), (539, 298), Obj and Confidence: no-mask 0.84
+Position: (544, 313), (700, 295), Obj and Confidence: no-mask 0.86
+Position: (161, 357), (275, 339), Obj and Confidence: mask 0.86
+Position: (793, 352), (949, 334), Obj and Confidence: no-mask 0.91
+Position: (270, 258), (426, 240), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-13: Position: (1269, 364), (1425, 346), Obj and Confidence: no-mask 0.30
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.53
+Position: (0, 333), (156, 315), Obj and Confidence: no-mask 0.69
+Position: (383, 315), (539, 297), Obj and Confidence: no-mask 0.78
+Position: (796, 352), (952, 334), Obj and Confidence: no-mask 0.82
+Position: (544, 313), (700, 295), Obj and Confidence: no-mask 0.86
+Position: (156, 356), (270, 338), Obj and Confidence: mask 0.92
+Position: (270, 259), (426, 241), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-14: Position: (1026, 396), (1182, 378), Obj and Confidence: no-mask 0.54
+Position: (797, 352), (953, 334), Obj and Confidence: no-mask 0.82
+Position: (383, 316), (539, 298), Obj and Confidence: no-mask 0.82
+Position: (542, 312), (698, 294), Obj and Confidence: no-mask 0.86
+Position: (269, 260), (425, 242), Obj and Confidence: no-mask 0.92
+Position: (139, 349), (253, 331), Obj and Confidence: mask 0.95
+2024-01-23-16-40-14: Position: (1, 342), (115, 324), Obj and Confidence: mask 0.26
+Position: (1026, 398), (1182, 380), Obj and Confidence: no-mask 0.43
+Position: (799, 353), (913, 335), Obj and Confidence: mask 0.44
+Position: (0, 337), (156, 319), Obj and Confidence: no-mask 0.52
+Position: (798, 354), (954, 336), Obj and Confidence: no-mask 0.74
+Position: (384, 317), (540, 299), Obj and Confidence: no-mask 0.74
+Position: (542, 311), (698, 293), Obj and Confidence: no-mask 0.86
+Position: (267, 259), (423, 241), Obj and Confidence: no-mask 0.92
+Position: (125, 346), (239, 328), Obj and Confidence: mask 0.95
+2024-01-23-16-40-14: Position: (799, 352), (913, 334), Obj and Confidence: mask 0.40
+Position: (1026, 397), (1182, 379), Obj and Confidence: no-mask 0.51
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.75
+Position: (0, 340), (156, 322), Obj and Confidence: no-mask 0.77
+Position: (382, 316), (538, 298), Obj and Confidence: no-mask 0.83
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.85
+Position: (268, 259), (424, 241), Obj and Confidence: no-mask 0.92
+Position: (112, 345), (226, 327), Obj and Confidence: mask 0.95
+2024-01-23-16-40-14: Position: (1025, 398), (1181, 380), Obj and Confidence: no-mask 0.37
+Position: (1, 341), (157, 323), Obj and Confidence: no-mask 0.39
+Position: (799, 353), (913, 335), Obj and Confidence: mask 0.39
+Position: (0, 342), (114, 324), Obj and Confidence: mask 0.43
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.76
+Position: (542, 312), (698, 294), Obj and Confidence: no-mask 0.85
+Position: (380, 315), (536, 297), Obj and Confidence: no-mask 0.88
+Position: (269, 259), (425, 241), Obj and Confidence: no-mask 0.92
+Position: (114, 346), (228, 328), Obj and Confidence: mask 0.94
+2024-01-23-16-40-15: Position: (0, 343), (156, 325), Obj and Confidence: no-mask 0.34
+Position: (1026, 398), (1182, 380), Obj and Confidence: no-mask 0.45
+Position: (0, 343), (114, 325), Obj and Confidence: mask 0.48
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.78
+Position: (542, 313), (698, 295), Obj and Confidence: no-mask 0.85
+Position: (378, 315), (534, 297), Obj and Confidence: no-mask 0.87
+Position: (268, 259), (424, 241), Obj and Confidence: no-mask 0.93
+Position: (141, 354), (255, 336), Obj and Confidence: mask 0.94
+2024-01-23-16-40-15: Position: (1025, 399), (1181, 381), Obj and Confidence: no-mask 0.36
+Position: (447, 329), (603, 311), Obj and Confidence: no-mask 0.40
+Position: (800, 353), (914, 335), Obj and Confidence: mask 0.60
+Position: (0, 342), (156, 324), Obj and Confidence: no-mask 0.69
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.70
+Position: (160, 360), (274, 342), Obj and Confidence: mask 0.70
+Position: (160, 359), (316, 341), Obj and Confidence: no-mask 0.74
+Position: (378, 315), (534, 297), Obj and Confidence: no-mask 0.78
+Position: (541, 313), (697, 295), Obj and Confidence: no-mask 0.85
+Position: (270, 260), (426, 242), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-15: Position: (164, 376), (320, 358), Obj and Confidence: no-mask 0.27
+Position: (449, 329), (605, 311), Obj and Confidence: no-mask 0.42
+Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.49
+Position: (0, 343), (156, 325), Obj and Confidence: no-mask 0.61
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.73
+Position: (379, 316), (535, 298), Obj and Confidence: no-mask 0.76
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.85
+Position: (271, 261), (427, 243), Obj and Confidence: no-mask 0.92
+2024-01-23-16-40-15: Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.40
+Position: (447, 328), (603, 310), Obj and Confidence: no-mask 0.41
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.78
+Position: (378, 315), (534, 297), Obj and Confidence: no-mask 0.82
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.85
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-16: Position: (448, 333), (604, 315), Obj and Confidence: no-mask 0.36
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.39
+Position: (164, 357), (320, 339), Obj and Confidence: no-mask 0.69
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.79
+Position: (378, 316), (534, 298), Obj and Confidence: no-mask 0.81
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.84
+Position: (162, 357), (276, 339), Obj and Confidence: mask 0.85
+Position: (273, 261), (429, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-16: Position: (455, 329), (611, 311), Obj and Confidence: no-mask 0.41
+Position: (1025, 398), (1181, 380), Obj and Confidence: no-mask 0.43
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.80
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.84
+Position: (378, 316), (534, 298), Obj and Confidence: no-mask 0.88
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+Position: (146, 348), (260, 330), Obj and Confidence: mask 0.96
+2024-01-23-16-40-16: Position: (449, 332), (605, 314), Obj and Confidence: no-mask 0.38
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.42
+Position: (800, 351), (956, 333), Obj and Confidence: no-mask 0.83
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.84
+Position: (383, 317), (539, 299), Obj and Confidence: no-mask 0.87
+Position: (137, 348), (251, 330), Obj and Confidence: mask 0.91
+Position: (272, 261), (428, 243), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-16: Position: (1025, 398), (1181, 380), Obj and Confidence: no-mask 0.42
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.84
+Position: (539, 314), (695, 296), Obj and Confidence: no-mask 0.84
+Position: (383, 316), (539, 298), Obj and Confidence: no-mask 0.89
+Position: (272, 261), (428, 243), Obj and Confidence: no-mask 0.93
+Position: (130, 347), (244, 329), Obj and Confidence: mask 0.94
+2024-01-23-16-40-17: Position: (834, 379), (990, 361), Obj and Confidence: no-mask 0.28
+Position: (1025, 397), (1181, 379), Obj and Confidence: no-mask 0.54
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.83
+Position: (540, 315), (696, 297), Obj and Confidence: no-mask 0.84
+Position: (385, 316), (541, 298), Obj and Confidence: no-mask 0.89
+Position: (271, 260), (427, 242), Obj and Confidence: no-mask 0.92
+Position: (131, 345), (245, 327), Obj and Confidence: mask 0.95
+2024-01-23-16-40-17: Position: (452, 333), (608, 315), Obj and Confidence: no-mask 0.27
+Position: (834, 379), (990, 361), Obj and Confidence: no-mask 0.32
+Position: (1030, 392), (1186, 374), Obj and Confidence: no-mask 0.71
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.82
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.84
+Position: (385, 316), (541, 298), Obj and Confidence: no-mask 0.88
+Position: (271, 260), (427, 242), Obj and Confidence: no-mask 0.92
+Position: (131, 345), (245, 327), Obj and Confidence: mask 0.95
+2024-01-23-16-40-17: Position: (1029, 392), (1185, 374), Obj and Confidence: no-mask 0.74
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.81
+Position: (540, 314), (696, 296), Obj and Confidence: no-mask 0.85
+Position: (386, 317), (542, 299), Obj and Confidence: no-mask 0.87
+Position: (271, 260), (427, 242), Obj and Confidence: no-mask 0.92
+Position: (130, 344), (244, 326), Obj and Confidence: mask 0.95
+2024-01-23-16-40-18: Position: (452, 334), (608, 316), Obj and Confidence: no-mask 0.39
+Position: (1029, 394), (1185, 376), Obj and Confidence: no-mask 0.73
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.83
+Position: (541, 314), (697, 296), Obj and Confidence: no-mask 0.84
+Position: (0, 362), (156, 344), Obj and Confidence: no-mask 0.86
+Position: (386, 316), (542, 298), Obj and Confidence: no-mask 0.87
+Position: (271, 260), (427, 242), Obj and Confidence: no-mask 0.92
+Position: (121, 339), (235, 321), Obj and Confidence: mask 0.94
+2024-01-23-16-40-18: Position: (453, 332), (609, 314), Obj and Confidence: no-mask 0.48
+Position: (1028, 396), (1184, 378), Obj and Confidence: no-mask 0.73
+Position: (8, 363), (164, 345), Obj and Confidence: no-mask 0.81
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.82
+Position: (385, 318), (541, 300), Obj and Confidence: no-mask 0.83
+Position: (540, 315), (696, 297), Obj and Confidence: no-mask 0.84
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+Position: (109, 335), (223, 317), Obj and Confidence: mask 0.94
+2024-01-23-16-40-18: Position: (451, 333), (607, 315), Obj and Confidence: no-mask 0.58
+Position: (1027, 397), (1183, 379), Obj and Confidence: no-mask 0.76
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.83
+Position: (540, 315), (696, 297), Obj and Confidence: no-mask 0.84
+Position: (28, 357), (184, 339), Obj and Confidence: no-mask 0.86
+Position: (384, 317), (540, 299), Obj and Confidence: no-mask 0.87
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+Position: (98, 334), (212, 316), Obj and Confidence: mask 0.94
+2024-01-23-16-40-18: Position: (450, 331), (606, 313), Obj and Confidence: no-mask 0.52
+Position: (1028, 397), (1184, 379), Obj and Confidence: no-mask 0.69
+Position: (33, 356), (189, 338), Obj and Confidence: no-mask 0.82
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.82
+Position: (540, 315), (696, 297), Obj and Confidence: no-mask 0.84
+Position: (382, 316), (538, 298), Obj and Confidence: no-mask 0.87
+Position: (95, 334), (209, 316), Obj and Confidence: mask 0.92
+Position: (272, 260), (428, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-19: Position: (452, 335), (608, 317), Obj and Confidence: no-mask 0.44
+Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.55
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.82
+Position: (539, 316), (695, 298), Obj and Confidence: no-mask 0.84
+Position: (19, 357), (175, 339), Obj and Confidence: no-mask 0.86
+Position: (382, 318), (538, 300), Obj and Confidence: no-mask 0.86
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+Position: (100, 335), (214, 317), Obj and Confidence: mask 0.93
+2024-01-23-16-40-19: Position: (451, 334), (607, 316), Obj and Confidence: no-mask 0.36
+Position: (1026, 398), (1182, 380), Obj and Confidence: no-mask 0.59
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.84
+Position: (18, 358), (174, 340), Obj and Confidence: no-mask 0.84
+Position: (539, 315), (695, 297), Obj and Confidence: no-mask 0.84
+Position: (383, 318), (539, 300), Obj and Confidence: no-mask 0.87
+Position: (273, 259), (429, 241), Obj and Confidence: no-mask 0.93
+Position: (131, 339), (245, 321), Obj and Confidence: mask 0.96
+2024-01-23-16-40-19: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.25
+Position: (398, 324), (554, 306), Obj and Confidence: no-mask 0.44
+Position: (1029, 399), (1185, 381), Obj and Confidence: no-mask 0.50
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.83
+Position: (539, 316), (695, 298), Obj and Confidence: no-mask 0.85
+Position: (24, 357), (180, 339), Obj and Confidence: no-mask 0.88
+Position: (273, 260), (429, 242), Obj and Confidence: no-mask 0.93
+2024-01-23-16-40-19: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.28
+Position: (414, 327), (570, 309), Obj and Confidence: no-mask 0.38
+Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.41
+Position: (800, 354), (956, 336), Obj and Confidence: no-mask 0.79
+Position: (538, 317), (694, 299), Obj and Confidence: no-mask 0.85
+Position: (27, 356), (183, 338), Obj and Confidence: no-mask 0.87
+Position: (306, 263), (462, 245), Obj and Confidence: no-mask 0.89
+2024-01-23-16-40-20: Position: (1029, 400), (1185, 382), Obj and Confidence: no-mask 0.51
+Position: (420, 332), (576, 314), Obj and Confidence: no-mask 0.52
+Position: (308, 280), (464, 262), Obj and Confidence: no-mask 0.76
+Position: (801, 352), (957, 334), Obj and Confidence: no-mask 0.79
+Position: (26, 353), (182, 335), Obj and Confidence: no-mask 0.86
+Position: (538, 318), (694, 300), Obj and Confidence: no-mask 0.86
+2024-01-23-16-40-20: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.27
+Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.56
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.83
+Position: (538, 318), (694, 300), Obj and Confidence: no-mask 0.87
+Position: (26, 355), (182, 337), Obj and Confidence: no-mask 0.87
+2024-01-23-16-40-20: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.29
+Position: (403, 327), (559, 309), Obj and Confidence: no-mask 0.49
+Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.54
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.80
+Position: (538, 318), (694, 300), Obj and Confidence: no-mask 0.86
+Position: (29, 355), (185, 337), Obj and Confidence: no-mask 0.87
+Position: (137, 328), (251, 310), Obj and Confidence: mask 0.90
+2024-01-23-16-40-20: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.31
+Position: (366, 305), (522, 287), Obj and Confidence: no-mask 0.46
+Position: (1026, 398), (1182, 380), Obj and Confidence: no-mask 0.54
+Position: (376, 317), (532, 299), Obj and Confidence: no-mask 0.55
+Position: (387, 326), (543, 308), Obj and Confidence: no-mask 0.69
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.80
+Position: (538, 318), (694, 300), Obj and Confidence: no-mask 0.86
+Position: (35, 355), (191, 337), Obj and Confidence: no-mask 0.90
+Position: (107, 325), (221, 307), Obj and Confidence: mask 0.95
+2024-01-23-16-40-21: Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.58
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.77
+Position: (373, 299), (529, 281), Obj and Confidence: no-mask 0.78
+Position: (538, 319), (694, 301), Obj and Confidence: no-mask 0.87
+Position: (34, 358), (190, 340), Obj and Confidence: no-mask 0.87
+Position: (92, 326), (206, 308), Obj and Confidence: mask 0.96
+2024-01-23-16-40-21: Position: (34, 354), (148, 336), Obj and Confidence: mask 0.50
+Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.60
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.78
+Position: (34, 358), (190, 340), Obj and Confidence: no-mask 0.84
+Position: (538, 319), (694, 301), Obj and Confidence: no-mask 0.86
+Position: (90, 326), (204, 308), Obj and Confidence: mask 0.95
+2024-01-23-16-40-21: Position: (26, 358), (140, 340), Obj and Confidence: mask 0.26
+Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.59
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.76
+Position: (26, 362), (182, 344), Obj and Confidence: no-mask 0.84
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (91, 326), (205, 308), Obj and Confidence: mask 0.96
+2024-01-23-16-40-22: Position: (835, 378), (991, 360), Obj and Confidence: no-mask 0.25
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.58
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.77
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (26, 363), (182, 345), Obj and Confidence: no-mask 0.87
+Position: (89, 326), (203, 308), Obj and Confidence: mask 0.94
+2024-01-23-16-40-22: Position: (834, 377), (990, 359), Obj and Confidence: no-mask 0.34
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (799, 353), (955, 335), Obj and Confidence: no-mask 0.79
+Position: (25, 362), (181, 344), Obj and Confidence: no-mask 0.86
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (86, 327), (200, 309), Obj and Confidence: mask 0.91
+2024-01-23-16-40-22: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (800, 353), (956, 335), Obj and Confidence: no-mask 0.80
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (29, 366), (185, 348), Obj and Confidence: no-mask 0.86
+Position: (90, 328), (204, 310), Obj and Confidence: mask 0.93
+2024-01-23-16-40-22: Position: (834, 377), (990, 359), Obj and Confidence: no-mask 0.27
+Position: (1029, 399), (1185, 381), Obj and Confidence: no-mask 0.60
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.77
+Position: (539, 319), (695, 301), Obj and Confidence: no-mask 0.86
+Position: (32, 367), (188, 349), Obj and Confidence: no-mask 0.87
+Position: (107, 330), (221, 312), Obj and Confidence: mask 0.93
+2024-01-23-16-40-23: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.34
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.83
+Position: (537, 320), (693, 302), Obj and Confidence: no-mask 0.86
+Position: (20, 353), (176, 335), Obj and Confidence: no-mask 0.89
+Position: (131, 335), (245, 317), Obj and Confidence: mask 0.94
+2024-01-23-16-40-23: Position: (833, 378), (989, 360), Obj and Confidence: no-mask 0.41
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.63
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.79
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.87
+Position: (4, 347), (160, 329), Obj and Confidence: no-mask 0.87
+Position: (174, 342), (288, 324), Obj and Confidence: mask 0.89
+2024-01-23-16-40-23: Position: (834, 377), (990, 359), Obj and Confidence: no-mask 0.33
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.56
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.83
+Position: (0, 347), (114, 329), Obj and Confidence: mask 0.84
+Position: (538, 320), (694, 302), Obj and Confidence: no-mask 0.86
+Position: (178, 343), (292, 325), Obj and Confidence: mask 0.91
+2024-01-23-16-40-23: Position: (834, 377), (990, 359), Obj and Confidence: no-mask 0.37
+Position: (615, 332), (771, 314), Obj and Confidence: no-mask 0.58
+Position: (1026, 400), (1182, 382), Obj and Confidence: no-mask 0.59
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.81
+Position: (1, 344), (115, 326), Obj and Confidence: mask 0.85
+Position: (537, 320), (693, 302), Obj and Confidence: no-mask 0.86
+Position: (177, 341), (291, 323), Obj and Confidence: mask 0.92
+2024-01-23-16-40-24: Position: (833, 378), (989, 360), Obj and Confidence: no-mask 0.46
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.64
+Position: (630, 332), (786, 314), Obj and Confidence: no-mask 0.70
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.85
+Position: (1, 345), (115, 327), Obj and Confidence: mask 0.86
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (167, 345), (281, 327), Obj and Confidence: mask 0.89
+2024-01-23-16-40-24: Position: (834, 378), (990, 360), Obj and Confidence: no-mask 0.28
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (629, 332), (785, 314), Obj and Confidence: no-mask 0.72
+Position: (799, 355), (955, 337), Obj and Confidence: no-mask 0.79
+Position: (1, 346), (115, 328), Obj and Confidence: mask 0.84
+Position: (537, 319), (693, 301), Obj and Confidence: no-mask 0.86
+Position: (156, 354), (270, 336), Obj and Confidence: mask 0.90
+2024-01-23-16-40-24: Position: (834, 377), (990, 359), Obj and Confidence: no-mask 0.28
+Position: (1029, 398), (1185, 380), Obj and Confidence: no-mask 0.60
+Position: (628, 332), (784, 314), Obj and Confidence: no-mask 0.75
+Position: (800, 354), (956, 336), Obj and Confidence: no-mask 0.78
+Position: (1, 344), (115, 326), Obj and Confidence: mask 0.83
+Position: (538, 319), (694, 301), Obj and Confidence: no-mask 0.86
+Position: (156, 358), (270, 340), Obj and Confidence: mask 0.91
+2024-01-23-16-40-24: Position: (833, 377), (989, 359), Obj and Confidence: no-mask 0.45
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.59
+Position: (799, 354), (955, 336), Obj and Confidence: no-mask 0.76
+Position: (537, 318), (693, 300), Obj and Confidence: no-mask 0.87
+Position: (0, 342), (114, 324), Obj and Confidence: mask 0.87
+Position: (162, 357), (276, 339), Obj and Confidence: mask 0.94
+2024-01-23-16-40-25: Position: (833, 376), (989, 358), Obj and Confidence: no-mask 0.47
+Position: (1028, 397), (1184, 379), Obj and Confidence: no-mask 0.64
+Position: (187, 363), (301, 345), Obj and Confidence: mask 0.81
+Position: (0, 339), (114, 321), Obj and Confidence: mask 0.84
+Position: (798, 353), (954, 335), Obj and Confidence: no-mask 0.87
+Position: (536, 319), (692, 301), Obj and Confidence: no-mask 0.87
+2024-01-23-16-40-25: Position: (832, 375), (988, 357), Obj and Confidence: no-mask 0.57
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.59
+Position: (192, 367), (306, 349), Obj and Confidence: mask 0.73
+Position: (797, 355), (953, 337), Obj and Confidence: no-mask 0.83
+Position: (0, 342), (114, 324), Obj and Confidence: mask 0.83
+Position: (537, 318), (693, 300), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-25: Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.64
+Position: (831, 375), (987, 357), Obj and Confidence: no-mask 0.65
+Position: (797, 356), (953, 338), Obj and Confidence: no-mask 0.74
+Position: (186, 366), (300, 348), Obj and Confidence: mask 0.76
+Position: (537, 318), (693, 300), Obj and Confidence: no-mask 0.87
+2024-01-23-16-40-25: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.59
+Position: (831, 375), (987, 357), Obj and Confidence: no-mask 0.75
+Position: (798, 356), (954, 338), Obj and Confidence: no-mask 0.79
+Position: (1, 341), (157, 323), Obj and Confidence: no-mask 0.86
+Position: (536, 318), (692, 300), Obj and Confidence: no-mask 0.87
+Position: (182, 362), (296, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-40-26: Position: (832, 374), (988, 356), Obj and Confidence: no-mask 0.59
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (799, 356), (955, 338), Obj and Confidence: no-mask 0.78
+Position: (0, 339), (114, 321), Obj and Confidence: mask 0.82
+Position: (537, 320), (693, 302), Obj and Confidence: no-mask 0.86
+Position: (178, 362), (292, 344), Obj and Confidence: mask 0.94
+2024-01-23-16-40-26: Position: (832, 373), (988, 355), Obj and Confidence: no-mask 0.44
+Position: (1029, 399), (1185, 381), Obj and Confidence: no-mask 0.61
+Position: (802, 355), (958, 337), Obj and Confidence: no-mask 0.77
+Position: (539, 317), (695, 299), Obj and Confidence: no-mask 0.84
+Position: (5, 341), (161, 323), Obj and Confidence: no-mask 0.87
+Position: (171, 356), (285, 338), Obj and Confidence: mask 0.95
+2024-01-23-16-40-26: Position: (467, 324), (623, 306), Obj and Confidence: no-mask 0.48
+Position: (833, 374), (989, 356), Obj and Confidence: no-mask 0.57
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.63
+Position: (549, 318), (705, 300), Obj and Confidence: no-mask 0.80
+Position: (803, 354), (959, 336), Obj and Confidence: no-mask 0.81
+Position: (10, 340), (124, 322), Obj and Confidence: mask 0.85
+Position: (166, 354), (280, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-26: Position: (652, 379), (808, 361), Obj and Confidence: no-mask 0.39
+Position: (557, 322), (713, 304), Obj and Confidence: no-mask 0.47
+Position: (834, 376), (990, 358), Obj and Confidence: no-mask 0.53
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.61
+Position: (802, 352), (958, 334), Obj and Confidence: no-mask 0.78
+Position: (479, 320), (635, 302), Obj and Confidence: no-mask 0.80
+Position: (10, 340), (124, 322), Obj and Confidence: mask 0.84
+Position: (165, 351), (279, 333), Obj and Confidence: mask 0.94
+2024-01-23-16-40-27: Position: (825, 374), (981, 356), Obj and Confidence: no-mask 0.41
+Position: (559, 333), (715, 315), Obj and Confidence: no-mask 0.43
+Position: (810, 360), (966, 342), Obj and Confidence: no-mask 0.47
+Position: (650, 379), (806, 361), Obj and Confidence: no-mask 0.63
+Position: (1029, 398), (1185, 380), Obj and Confidence: no-mask 0.66
+Position: (800, 352), (956, 334), Obj and Confidence: no-mask 0.69
+Position: (481, 324), (637, 306), Obj and Confidence: no-mask 0.74
+Position: (9, 342), (123, 324), Obj and Confidence: mask 0.88
+Position: (164, 351), (278, 333), Obj and Confidence: mask 0.95
+2024-01-23-16-40-27: Position: (650, 378), (764, 360), Obj and Confidence: mask 0.51
+Position: (818, 368), (974, 350), Obj and Confidence: no-mask 0.55
+Position: (798, 355), (954, 337), Obj and Confidence: no-mask 0.55
+Position: (1030, 398), (1186, 380), Obj and Confidence: no-mask 0.59
+Position: (482, 326), (638, 308), Obj and Confidence: no-mask 0.77
+Position: (9, 344), (123, 326), Obj and Confidence: mask 0.88
+Position: (165, 352), (279, 334), Obj and Confidence: mask 0.94
+2024-01-23-16-40-27: Position: (558, 331), (714, 313), Obj and Confidence: no-mask 0.53
+Position: (820, 368), (976, 350), Obj and Confidence: no-mask 0.58
+Position: (1029, 397), (1185, 379), Obj and Confidence: no-mask 0.65
+Position: (480, 324), (636, 306), Obj and Confidence: no-mask 0.74
+Position: (798, 354), (954, 336), Obj and Confidence: no-mask 0.77
+Position: (10, 345), (124, 327), Obj and Confidence: mask 0.88
+Position: (165, 352), (279, 334), Obj and Confidence: mask 0.94
+2024-01-23-16-40-27: Position: (12, 345), (126, 327), Obj and Confidence: mask 0.47
+Position: (820, 366), (976, 348), Obj and Confidence: no-mask 0.55
+Position: (1030, 398), (1186, 380), Obj and Confidence: no-mask 0.63
+Position: (806, 358), (962, 340), Obj and Confidence: no-mask 0.65
+Position: (14, 345), (170, 327), Obj and Confidence: no-mask 0.65
+Position: (478, 325), (634, 307), Obj and Confidence: no-mask 0.82
+Position: (165, 354), (279, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-28: Position: (552, 322), (708, 304), Obj and Confidence: no-mask 0.26
+Position: (1029, 398), (1185, 380), Obj and Confidence: no-mask 0.52
+Position: (805, 360), (961, 342), Obj and Confidence: no-mask 0.56
+Position: (13, 345), (127, 327), Obj and Confidence: mask 0.82
+Position: (475, 328), (631, 310), Obj and Confidence: no-mask 0.82
+Position: (165, 354), (279, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-28: Position: (550, 323), (706, 305), Obj and Confidence: no-mask 0.35
+Position: (1029, 398), (1185, 380), Obj and Confidence: no-mask 0.59
+Position: (475, 329), (631, 311), Obj and Confidence: no-mask 0.70
+Position: (15, 344), (129, 326), Obj and Confidence: mask 0.75
+Position: (165, 354), (279, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-28: Position: (478, 335), (634, 317), Obj and Confidence: no-mask 0.31
+Position: (19, 344), (175, 326), Obj and Confidence: no-mask 0.44
+Position: (538, 311), (694, 293), Obj and Confidence: no-mask 0.47
+Position: (1029, 398), (1185, 380), Obj and Confidence: no-mask 0.55
+Position: (19, 343), (133, 325), Obj and Confidence: mask 0.66
+Position: (165, 354), (279, 336), Obj and Confidence: mask 0.95
+2024-01-23-16-40-28: Position: (815, 366), (971, 348), Obj and Confidence: no-mask 0.50
+Position: (1029, 399), (1185, 381), Obj and Confidence: no-mask 0.54
+Position: (540, 316), (696, 298), Obj and Confidence: no-mask 0.76
+Position: (24, 343), (180, 325), Obj and Confidence: no-mask 0.90
+Position: (169, 357), (283, 339), Obj and Confidence: mask 0.94
+2024-01-23-16-40-29: Position: (811, 363), (967, 345), Obj and Confidence: no-mask 0.52
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.52
+Position: (181, 359), (295, 341), Obj and Confidence: mask 0.53
+Position: (183, 360), (339, 342), Obj and Confidence: no-mask 0.62
+Position: (542, 315), (698, 297), Obj and Confidence: no-mask 0.79
+Position: (24, 344), (180, 326), Obj and Confidence: no-mask 0.91
+2024-01-23-16-40-29: Position: (805, 359), (961, 341), Obj and Confidence: no-mask 0.51
+Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.55
+Position: (819, 367), (975, 349), Obj and Confidence: no-mask 0.66
+Position: (542, 315), (698, 297), Obj and Confidence: no-mask 0.77
+Position: (3, 342), (159, 324), Obj and Confidence: no-mask 0.81
+Position: (179, 358), (293, 340), Obj and Confidence: mask 0.92
+2024-01-23-16-40-29: Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.60
+Position: (794, 357), (950, 339), Obj and Confidence: no-mask 0.73
+Position: (1, 343), (115, 325), Obj and Confidence: mask 0.74
+Position: (543, 314), (699, 296), Obj and Confidence: no-mask 0.79
+Position: (825, 373), (981, 355), Obj and Confidence: no-mask 0.83
+Position: (179, 361), (293, 343), Obj and Confidence: mask 0.92
+2024-01-23-16-40-29: Position: (0, 348), (114, 330), Obj and Confidence: mask 0.54
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.62
+Position: (792, 355), (948, 337), Obj and Confidence: no-mask 0.79
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.79
+Position: (825, 374), (981, 356), Obj and Confidence: no-mask 0.85
+Position: (177, 362), (291, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-40-30: Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.56
+Position: (1, 344), (157, 326), Obj and Confidence: no-mask 0.69
+Position: (543, 315), (699, 297), Obj and Confidence: no-mask 0.81
+Position: (792, 355), (948, 337), Obj and Confidence: no-mask 0.82
+Position: (821, 370), (977, 352), Obj and Confidence: no-mask 0.85
+Position: (177, 362), (291, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-40-30: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.63
+Position: (1, 345), (157, 327), Obj and Confidence: no-mask 0.67
+Position: (543, 315), (699, 297), Obj and Confidence: no-mask 0.82
+Position: (819, 371), (975, 353), Obj and Confidence: no-mask 0.83
+Position: (791, 354), (947, 336), Obj and Confidence: no-mask 0.84
+Position: (176, 361), (290, 343), Obj and Confidence: mask 0.91
+2024-01-23-16-40-30: Position: (1, 344), (157, 326), Obj and Confidence: no-mask 0.58
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.60
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.83
+Position: (819, 370), (975, 352), Obj and Confidence: no-mask 0.83
+Position: (791, 354), (947, 336), Obj and Confidence: no-mask 0.84
+Position: (177, 362), (291, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-40-30: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.63
+Position: (820, 372), (976, 354), Obj and Confidence: no-mask 0.80
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.83
+Position: (793, 355), (949, 337), Obj and Confidence: no-mask 0.84
+Position: (4, 348), (160, 330), Obj and Confidence: no-mask 0.87
+Position: (177, 363), (291, 345), Obj and Confidence: mask 0.89
+2024-01-23-16-40-31: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.61
+Position: (10, 350), (166, 332), Obj and Confidence: no-mask 0.79
+Position: (819, 372), (975, 354), Obj and Confidence: no-mask 0.81
+Position: (543, 316), (699, 298), Obj and Confidence: no-mask 0.81
+Position: (792, 354), (948, 336), Obj and Confidence: no-mask 0.85
+Position: (177, 362), (291, 344), Obj and Confidence: mask 0.91
+2024-01-23-16-40-31: Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.55
+Position: (11, 347), (167, 329), Obj and Confidence: no-mask 0.81
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.81
+Position: (820, 372), (976, 354), Obj and Confidence: no-mask 0.82
+Position: (791, 355), (947, 337), Obj and Confidence: no-mask 0.84
+Position: (178, 363), (292, 345), Obj and Confidence: mask 0.91
+2024-01-23-16-40-31: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.62
+Position: (6, 346), (162, 328), Obj and Confidence: no-mask 0.77
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.81
+Position: (821, 372), (977, 354), Obj and Confidence: no-mask 0.85
+Position: (793, 354), (949, 336), Obj and Confidence: no-mask 0.86
+Position: (179, 364), (293, 346), Obj and Confidence: mask 0.90
+2024-01-23-16-40-31: Position: (1, 350), (157, 332), Obj and Confidence: no-mask 0.41
+Position: (1030, 394), (1186, 376), Obj and Confidence: no-mask 0.62
+Position: (821, 374), (977, 356), Obj and Confidence: no-mask 0.80
+Position: (544, 316), (700, 298), Obj and Confidence: no-mask 0.82
+Position: (181, 367), (295, 349), Obj and Confidence: mask 0.86
+Position: (791, 355), (947, 337), Obj and Confidence: no-mask 0.87
+2024-01-23-16-40-32: Position: (1029, 396), (1185, 378), Obj and Confidence: no-mask 0.67
+Position: (0, 352), (156, 334), Obj and Confidence: no-mask 0.74
+Position: (820, 373), (976, 355), Obj and Confidence: no-mask 0.80
+Position: (543, 315), (699, 297), Obj and Confidence: no-mask 0.84
+Position: (181, 367), (295, 349), Obj and Confidence: mask 0.84
+Position: (791, 355), (947, 337), Obj and Confidence: no-mask 0.85
+2024-01-23-16-40-32: Position: (1027, 396), (1183, 378), Obj and Confidence: no-mask 0.73
+Position: (0, 349), (156, 331), Obj and Confidence: no-mask 0.74
+Position: (820, 373), (976, 355), Obj and Confidence: no-mask 0.81
+Position: (183, 366), (297, 348), Obj and Confidence: mask 0.82
+Position: (791, 355), (947, 337), Obj and Confidence: no-mask 0.85
+Position: (550, 316), (706, 298), Obj and Confidence: no-mask 0.90
+2024-01-23-16-40-32: Position: (0, 349), (156, 331), Obj and Confidence: no-mask 0.71
+Position: (1028, 396), (1184, 378), Obj and Confidence: no-mask 0.75
+Position: (184, 366), (298, 348), Obj and Confidence: mask 0.78
+Position: (820, 373), (976, 355), Obj and Confidence: no-mask 0.80
+Position: (791, 354), (947, 336), Obj and Confidence: no-mask 0.87
+Position: (552, 315), (708, 297), Obj and Confidence: no-mask 0.90
+2024-01-23-16-40-32: Position: (0, 349), (114, 331), Obj and Confidence: mask 0.68
+Position: (1028, 397), (1184, 379), Obj and Confidence: no-mask 0.75
+Position: (820, 373), (976, 355), Obj and Confidence: no-mask 0.80
+Position: (183, 367), (297, 349), Obj and Confidence: mask 0.82
+Position: (792, 355), (948, 337), Obj and Confidence: no-mask 0.87
+Position: (561, 308), (717, 290), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-33: Position: (1, 348), (115, 330), Obj and Confidence: mask 0.50
+Position: (1029, 397), (1185, 379), Obj and Confidence: no-mask 0.74
+Position: (819, 372), (975, 354), Obj and Confidence: no-mask 0.80
+Position: (183, 365), (297, 347), Obj and Confidence: mask 0.81
+Position: (564, 304), (720, 286), Obj and Confidence: no-mask 0.87
+Position: (791, 354), (947, 336), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-33: Position: (1028, 397), (1184, 379), Obj and Confidence: no-mask 0.72
+Position: (1, 348), (157, 330), Obj and Confidence: no-mask 0.75
+Position: (183, 366), (297, 348), Obj and Confidence: mask 0.76
+Position: (819, 373), (975, 355), Obj and Confidence: no-mask 0.81
+Position: (793, 355), (949, 337), Obj and Confidence: no-mask 0.86
+Position: (559, 309), (715, 291), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-33: Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.62
+Position: (1, 349), (157, 331), Obj and Confidence: no-mask 0.74
+Position: (793, 353), (949, 335), Obj and Confidence: no-mask 0.81
+Position: (818, 371), (974, 353), Obj and Confidence: no-mask 0.84
+Position: (182, 364), (296, 346), Obj and Confidence: mask 0.86
+Position: (553, 311), (709, 293), Obj and Confidence: no-mask 0.87
+2024-01-23-16-40-33: Position: (793, 353), (949, 335), Obj and Confidence: no-mask 0.39
+Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.67
+Position: (1, 349), (157, 331), Obj and Confidence: no-mask 0.76
+Position: (815, 372), (971, 354), Obj and Confidence: no-mask 0.77
+Position: (547, 311), (703, 293), Obj and Confidence: no-mask 0.87
+Position: (180, 364), (294, 346), Obj and Confidence: mask 0.89
+2024-01-23-16-40-34: Position: (791, 351), (947, 333), Obj and Confidence: no-mask 0.56
+Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.65
+Position: (813, 369), (969, 351), Obj and Confidence: no-mask 0.73
+Position: (1, 351), (157, 333), Obj and Confidence: no-mask 0.74
+Position: (546, 312), (702, 294), Obj and Confidence: no-mask 0.86
+Position: (181, 365), (295, 347), Obj and Confidence: mask 0.88
+2024-01-23-16-40-34: Position: (786, 352), (942, 334), Obj and Confidence: no-mask 0.67
+Position: (1028, 398), (1184, 380), Obj and Confidence: no-mask 0.69
+Position: (1, 349), (157, 331), Obj and Confidence: no-mask 0.74
+Position: (812, 372), (968, 354), Obj and Confidence: no-mask 0.85
+Position: (544, 312), (700, 294), Obj and Confidence: no-mask 0.86
+Position: (180, 363), (294, 345), Obj and Confidence: mask 0.91
+2024-01-23-16-40-34: Position: (0, 348), (114, 330), Obj and Confidence: mask 0.48
+Position: (1, 349), (157, 331), Obj and Confidence: no-mask 0.52
+Position: (786, 353), (942, 335), Obj and Confidence: no-mask 0.57
+Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.67
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.82
+Position: (810, 371), (966, 353), Obj and Confidence: no-mask 0.85
+Position: (164, 357), (278, 339), Obj and Confidence: mask 0.94
+2024-01-23-16-40-34: Position: (792, 353), (948, 335), Obj and Confidence: no-mask 0.45
+Position: (1027, 400), (1183, 382), Obj and Confidence: no-mask 0.61
+Position: (0, 349), (114, 331), Obj and Confidence: mask 0.79
+Position: (542, 314), (698, 296), Obj and Confidence: no-mask 0.81
+Position: (811, 368), (967, 350), Obj and Confidence: no-mask 0.84
+Position: (161, 356), (275, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-35: Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.44
+Position: (544, 315), (700, 297), Obj and Confidence: no-mask 0.76
+Position: (0, 351), (114, 333), Obj and Confidence: mask 0.83
+Position: (808, 360), (964, 342), Obj and Confidence: no-mask 0.86
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-35: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.56
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.84
+Position: (805, 353), (961, 335), Obj and Confidence: no-mask 0.85
+Position: (0, 349), (114, 331), Obj and Confidence: mask 0.86
+Position: (159, 355), (273, 337), Obj and Confidence: mask 0.97
+2024-01-23-16-40-35: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.61
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.82
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.87
+Position: (806, 353), (962, 335), Obj and Confidence: no-mask 0.88
+Position: (160, 355), (274, 337), Obj and Confidence: mask 0.96
+2024-01-23-16-40-35: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.56
+Position: (476, 325), (632, 307), Obj and Confidence: no-mask 0.71
+Position: (544, 310), (700, 292), Obj and Confidence: no-mask 0.78
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.86
+Position: (807, 355), (963, 337), Obj and Confidence: no-mask 0.87
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.97
+2024-01-23-16-40-36: Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.63
+Position: (491, 318), (647, 300), Obj and Confidence: no-mask 0.71
+Position: (0, 351), (114, 333), Obj and Confidence: mask 0.87
+Position: (808, 355), (964, 337), Obj and Confidence: no-mask 0.88
+Position: (160, 355), (274, 337), Obj and Confidence: mask 0.96
+2024-01-23-16-40-36: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.59
+Position: (506, 318), (662, 300), Obj and Confidence: no-mask 0.81
+Position: (809, 354), (965, 336), Obj and Confidence: no-mask 0.85
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.87
+Position: (160, 355), (274, 337), Obj and Confidence: mask 0.96
+2024-01-23-16-40-36: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.57
+Position: (518, 321), (674, 303), Obj and Confidence: no-mask 0.74
+Position: (808, 357), (964, 339), Obj and Confidence: no-mask 0.87
+Position: (0, 351), (114, 333), Obj and Confidence: mask 0.89
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-36: Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.55
+Position: (518, 322), (674, 304), Obj and Confidence: no-mask 0.73
+Position: (810, 354), (966, 336), Obj and Confidence: no-mask 0.86
+Position: (0, 351), (114, 333), Obj and Confidence: mask 0.88
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-37: Position: (1028, 400), (1184, 382), Obj and Confidence: no-mask 0.57
+Position: (511, 323), (667, 305), Obj and Confidence: no-mask 0.78
+Position: (816, 362), (972, 344), Obj and Confidence: no-mask 0.82
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.87
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-37: Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.57
+Position: (500, 326), (656, 308), Obj and Confidence: no-mask 0.73
+Position: (815, 361), (971, 343), Obj and Confidence: no-mask 0.86
+Position: (0, 351), (114, 333), Obj and Confidence: mask 0.88
+Position: (162, 356), (276, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-37: Position: (822, 363), (978, 345), Obj and Confidence: no-mask 0.38
+Position: (1028, 399), (1184, 381), Obj and Confidence: no-mask 0.52
+Position: (482, 327), (638, 309), Obj and Confidence: no-mask 0.55
+Position: (810, 354), (966, 336), Obj and Confidence: no-mask 0.75
+Position: (556, 313), (712, 295), Obj and Confidence: no-mask 0.76
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.88
+Position: (163, 357), (277, 339), Obj and Confidence: mask 0.96
+2024-01-23-16-40-37: Position: (817, 353), (973, 335), Obj and Confidence: no-mask 0.37
+Position: (1027, 399), (1183, 381), Obj and Confidence: no-mask 0.61
+Position: (0, 352), (114, 334), Obj and Confidence: mask 0.88
+Position: (551, 313), (707, 295), Obj and Confidence: no-mask 0.91
+Position: (161, 357), (275, 339), Obj and Confidence: mask 0.96
+2024-01-23-16-40-38: Position: (1027, 398), (1183, 380), Obj and Confidence: no-mask 0.65
+Position: (821, 346), (977, 328), Obj and Confidence: no-mask 0.72
+Position: (1, 353), (115, 335), Obj and Confidence: mask 0.78
+Position: (551, 311), (707, 293), Obj and Confidence: no-mask 0.90
+Position: (160, 356), (274, 338), Obj and Confidence: mask 0.96
+2024-01-23-16-40-38: Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.63
+Position: (815, 343), (971, 325), Obj and Confidence: no-mask 0.74
+Position: (25, 351), (181, 333), Obj and Confidence: no-mask 0.85
+Position: (549, 312), (705, 294), Obj and Confidence: no-mask 0.90
+Position: (176, 357), (290, 339), Obj and Confidence: mask 0.92
+2024-01-23-16-40-38: Position: (179, 355), (293, 337), Obj and Confidence: mask 0.48
+Position: (1026, 400), (1182, 382), Obj and Confidence: no-mask 0.60
+Position: (181, 354), (337, 336), Obj and Confidence: no-mask 0.63
+Position: (805, 342), (961, 324), Obj and Confidence: no-mask 0.66
+Position: (24, 352), (180, 334), Obj and Confidence: no-mask 0.87
+Position: (549, 313), (705, 295), Obj and Confidence: no-mask 0.90
+2024-01-23-16-40-38: Position: (22, 352), (178, 334), Obj and Confidence: no-mask 0.53
+Position: (1027, 400), (1183, 382), Obj and Confidence: no-mask 0.64
+Position: (826, 386), (982, 368), Obj and Confidence: no-mask 0.80
+Position: (793, 342), (949, 324), Obj and Confidence: no-mask 0.81
+Position: (175, 348), (289, 330), Obj and Confidence: mask 0.87
+Position: (549, 312), (705, 294), Obj and Confidence: no-mask 0.89
+2024-01-23-16-40-39: Position: (1027, 401), (1183, 383), Obj and Confidence: no-mask 0.59
+Position: (822, 382), (978, 364), Obj and Confidence: no-mask 0.64
+Position: (15, 354), (171, 336), Obj and Confidence: no-mask 0.71
+Position: (162, 349), (318, 331), Obj and Confidence: no-mask 0.77
+Position: (547, 311), (703, 293), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-39: Position: (181, 394), (337, 376), Obj and Confidence: no-mask 0.42
+Position: (821, 380), (977, 362), Obj and Confidence: no-mask 0.51
+Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.57
+Position: (142, 345), (298, 327), Obj and Confidence: no-mask 0.77
+Position: (21, 359), (177, 341), Obj and Confidence: no-mask 0.79
+Position: (547, 310), (703, 292), Obj and Confidence: no-mask 0.89
+2024-01-23-16-40-39: Position: (128, 342), (284, 324), Obj and Confidence: no-mask 0.32
+Position: (831, 383), (987, 365), Obj and Confidence: no-mask 0.34
+Position: (1026, 400), (1182, 382), Obj and Confidence: no-mask 0.61
+Position: (11, 363), (167, 345), Obj and Confidence: no-mask 0.76
+Position: (548, 311), (704, 293), Obj and Confidence: no-mask 0.88
+2024-01-23-16-40-39: Position: (1026, 399), (1182, 381), Obj and Confidence: no-mask 0.58
+Position: (109, 341), (223, 323), Obj and Confidence: mask 0.82
+Position: (6, 359), (162, 341), Obj and Confidence: no-mask 0.85
+Position: (547, 312), (703, 294), Obj and Confidence: no-mask 0.89
+2024-01-23-16-40-40: Position: (1026, 400), (1182, 382), Obj and Confidence: no-mask 0.50
+Position: (0, 354), (156, 336), Obj and Confidence: no-mask 0.88
+Position: (546, 310), (702, 292), Obj and Confidence: no-mask 0.88
+Position: (96, 341), (210, 323), Obj and Confidence: mask 0.94
+2024-01-23-16-40-40: Position: (1023, 401), (1179, 383), Obj and Confidence: no-mask 0.45
+Position: (0, 350), (114, 332), Obj and Confidence: mask 0.77
+Position: (545, 312), (701, 294), Obj and Confidence: no-mask 0.89
+Position: (99, 344), (213, 326), Obj and Confidence: mask 0.94
+2024-01-23-16-40-40: Position: (1022, 401), (1178, 383), Obj and Confidence: no-mask 0.55
+Position: (821, 354), (977, 336), Obj and Confidence: no-mask 0.64
+Position: (5, 339), (161, 321), Obj and Confidence: no-mask 0.83
+Position: (545, 312), (701, 294), Obj and Confidence: no-mask 0.88
+Position: (107, 347), (221, 329), Obj and Confidence: mask 0.94
+2024-01-23-16-40-40: Position: (0, 324), (114, 306), Obj and Confidence: mask 0.49
+Position: (1023, 401), (1179, 383), Obj and Confidence: no-mask 0.51
+Position: (0, 324), (156, 306), Obj and Confidence: no-mask 0.71
+Position: (824, 356), (980, 338), Obj and Confidence: no-mask 0.75
+Position: (546, 312), (702, 294), Obj and Confidence: no-mask 0.89
+Position: (122, 344), (236, 326), Obj and Confidence: mask 0.90
+2024-01-23-16-40-41: Position: (1025, 400), (1181, 382), Obj and Confidence: no-mask 0.49
+Position: (0, 328), (156, 310), Obj and Confidence: no-mask 0.58
+Position: (832, 363), (988, 345), Obj and Confidence: no-mask 0.64
+Position: (544, 313), (700, 295), Obj and Confidence: no-mask 0.88
+Position: (130, 343), (244, 325), Obj and Confidence: mask 0.93
+2024-01-23-16-40-41: Position: (1022, 402), (1178, 384), Obj and Confidence: no-mask 0.34
+Position: (834, 362), (990, 344), Obj and Confidence: no-mask 0.69
+Position: (543, 313), (699, 295), Obj and Confidence: no-mask 0.87
+Position: (130, 344), (244, 326), Obj and Confidence: mask 0.93
+2024-01-23-16-40-41: Position: (1022, 402), (1178, 384), Obj and Confidence: no-mask 0.26
+Position: (822, 351), (936, 333), Obj and Confidence: mask 0.43
+Position: (823, 353), (979, 335), Obj and Confidence: no-mask 0.59
+Position: (543, 312), (699, 294), Obj and Confidence: no-mask 0.87
+Position: (132, 346), (246, 328), Obj and Confidence: mask 0.93
+2024-01-23-16-40-41: Position: (1022, 401), (1178, 383), Obj and Confidence: no-mask 0.48
+Position: (804, 344), (960, 326), Obj and Confidence: no-mask 0.49
+Position: (805, 344), (919, 326), Obj and Confidence: mask 0.76
+Position: (544, 310), (700, 292), Obj and Confidence: no-mask 0.88
+Position: (131, 344), (245, 326), Obj and Confidence: mask 0.93
+2024-01-23-16-40-41: Position: (1022, 400), (1178, 382), Obj and Confidence: no-mask 0.38
+Position: (804, 344), (960, 326), Obj and Confidence: no-mask 0.77
+Position: (544, 310), (700, 292), Obj and Confidence: no-mask 0.89
+Position: (128, 345), (242, 327), Obj and Confidence: mask 0.94
+2024-01-23-16-40-42: Position: (1022, 401), (1178, 383), Obj and Confidence: no-mask 0.30
+Position: (807, 351), (963, 333), Obj and Confidence: no-mask 0.64
+Position: (544, 310), (700, 292), Obj and Confidence: no-mask 0.88
+Position: (135, 348), (249, 330), Obj and Confidence: mask 0.91
+2024-01-23-16-40-42: Position: (822, 347), (978, 329), Obj and Confidence: no-mask 0.32
+Position: (543, 309), (699, 291), Obj and Confidence: no-mask 0.89
+Position: (140, 349), (254, 331), Obj and Confidence: mask 0.90
+2024-01-23-16-40-42: Position: (834, 358), (990, 340), Obj and Confidence: no-mask 0.61
+Position: (540, 313), (696, 295), Obj and Confidence: no-mask 0.91
+Position: (143, 350), (257, 332), Obj and Confidence: mask 0.92
+2024-01-23-16-40-42: Position: (1023, 400), (1179, 382), Obj and Confidence: no-mask 0.40
+Position: (836, 360), (992, 342), Obj and Confidence: no-mask 0.62
+Position: (539, 313), (695, 295), Obj and Confidence: no-mask 0.92
+Position: (156, 355), (270, 337), Obj and Confidence: mask 0.94
+2024-01-23-16-40-43: Position: (1022, 401), (1178, 383), Obj and Confidence: no-mask 0.36
+Position: (539, 313), (695, 295), Obj and Confidence: no-mask 0.91
+Position: (143, 353), (257, 335), Obj and Confidence: mask 0.96
+2024-01-23-16-40-43: Position: (541, 311), (697, 293), Obj and Confidence: no-mask 0.91
+Position: (141, 352), (255, 334), Obj and Confidence: mask 0.93
+2024-01-23-16-40-43: Position: (1024, 402), (1180, 384), Obj and Confidence: no-mask 0.29
+Position: (543, 309), (699, 291), Obj and Confidence: no-mask 0.89
+Position: (133, 349), (247, 331), Obj and Confidence: mask 0.94
+2024-01-23-16-40-43: Position: (1024, 401), (1180, 383), Obj and Confidence: no-mask 0.40
+Position: (545, 310), (701, 292), Obj and Confidence: no-mask 0.89
+Position: (128, 350), (242, 332), Obj and Confidence: mask 0.93
